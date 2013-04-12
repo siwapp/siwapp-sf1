@@ -1,0 +1,10 @@
+sfGuardUser:
+  sfGuardUser_1:
+    username: test
+    password: test
+    is_active: '1'
+    is_super_admin: '1'
+    Profile:
+      email: fake@email.com
+      language: en
+

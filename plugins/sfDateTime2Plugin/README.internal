@@ -1,0 +1,16 @@
+Note: i am a svn beginer so here is a few notes to ease my memory
+-----------------------------------------------------------------
+- to send the current directory to a blank repository
+  - svn import  http://svn.symfony-project.com/plugins/sfEasyDebugPlugin/ 
+- to retrieve the package from the repository, when being on symfony project root
+  - svn co http://svn.symfony-project.com/plugins/sfEasyDebugPlugin plugins/sfEasyDebugPlugin
+- to commit the current work to the repository
+  - svn commit
+- to know the current status
+  - svn status
+- to create the package.xml automatically
+  - ./symfony plugin:package sfEasyDebugPlugin
+  - a plugin sfTaskExtraPlugin need to be installed
+    - php symfony plugin:install sfTaskExtraPlugin --release=0.0.1
+- documentation on how to write README
+  - http://en.wikipedia.org/wiki/List_of_lightweight_markup_languages

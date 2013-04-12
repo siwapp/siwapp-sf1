@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="cs" datatype="plaintext" original="messages" date="2010-07-11T22:13:57Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Choose language</source>
+        <target>Zvolte jazyk instalace</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Next</source>
+        <target>Pokračovat</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please choose the language to use during the installation of Siwapp</source>
+        <target>Zvolte jazyk použitý při instalaci aplikace</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pre-Installation Check</source>
+        <target>Ověření</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Back</source>
+        <target>Zpět</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Checking Siwapp requirements</source>
+        <target>Kontrola požadovaných nastavení</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>If any of these items are highlighted in red then please take actions to correct them</source>
+        <target>Jsou-li některé z uvedených požadavků zvýrazněny červeně, proveďte odpovídající úpravy v nastavení</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Failure to do so could lead to your Siwapp installation not functioning correctly</source>
+        <target>Pokud tak neučiníte, může dojít k selhání instalačního procesu</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Recommended settings</source>
+        <target>Doporučená nastavení</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>These settings are recommended for PHP in order to ensure full compatibility with Siwapp</source>
+        <target>Tato PHP nastavení jsou doporučeny pro zajištění úplné funkčnosti aplikace</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>However, Siwapp will still operate if your settings do not quite match the recommended</source>
+        <target>Siwapp ovšem bude funkční, i když některá nastavení nebudou odpovídat doporučené konfiguraci</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>License Agreement</source>
+        <target>Licenční ujednání</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Database Configuration</source>
+        <target>Nastavení databáze</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Connection Settings</source>
+        <target>Nastavení připojení</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Enter your database connection details below.</source>
+        <target>Pro připojení k databázi zadejte níže uvedené údaje.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>If you're not sure about these, contact your host.</source>
+        <target>Pokud je neznáte, obraťte se na svého poskytovatele služeb.</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Database Name</source>
+        <target>Název databáze</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>User Name</source>
+        <target>Uživatel</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Password</source>
+        <target>Heslo</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Database Host</source>
+        <target>Hostitel</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Main Configuration</source>
+        <target>Hlavní nastavení</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Finish installation</source>
+        <target>Závěr instalace</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Finish</source>
+        <target>Dokončit</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Congratulations! Siwapp is now installed</source>
+        <target>Blahopřejeme! Instalace Siwapp byla dokončena</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Language</source>
+        <target>Jazyk</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>License</source>
+        <target>Licence</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Database</source>
+        <target>Databáze</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Configuration</source>
+        <target>Nastavení</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>CORRECT</source>
+        <target>V POŘÁDKU</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>ERROR</source>
+        <target>CHYBA</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>WARNING</source>
+        <target>UPOZORNĚNÍ</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>PHP version is at least 5.2.4</source>
+        <target>Verze PHP je alespoň 5.2.4</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Current PHP version is [1]</source>
+        <target>Současná verze je [1]</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>php.ini has zend.ze1_compatibility_mode set to off</source>
+        <target>V souboru php.ini je zend.ze1_compatibility_mode nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Set zend.ze1_compatibility_mode to off in php.ini ([1])</source>
+        <target>Nastavte v souboru php.ini zend.ze1_compatibility_mode na off ([1])</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>PDO is installed</source>
+        <target>PDO rozšíření je nainstalováno</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Install PDO (mandatory for Propel and Doctrine)</source>
+        <target>Nainstalujte rozšíření PDO (povinné pro ORM vrstvy Propel a Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>PDO has some drivers installed: [1]</source>
+        <target>Instalované PDO ovladače: [1]</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Install PDO drivers (mandatory for Propel and Doctrine)</source>
+        <target>Nainstalujte PDO ovladače (povinné pro ORM vrstvy Propel a Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>PHP-XML module is installed</source>
+        <target>Modul PHP-XML je nainstalován</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Install the PHP-XML module (required by Propel)</source>
+        <target>Nainstalujte PHP-XML modul (vyžadováno ORM vrstvou Propel)</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>The iconv() function is available</source>
+        <target>Funkce iconv() je k dispozici</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Install iconv() function</source>
+        <target>Nainstalujte funkci iconv()</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>The utf8_decode() function is available</source>
+        <target>Funkce utf8_decode() je k dispozici</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Install utf8_decode() function</source>
+        <target>Nainstalujte funkci utf8_decode()</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>XSL module is installed</source>
+        <target>Modul XSL je nainstalován</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Install the XSL module (recommended for Propel)</source>
+        <target>Nainstalujte XSL modul (doporučeno pro ORM vrstvu Propel)</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The token_get_all() function is available</source>
+        <target>Funkce token_get_all() je k dispozici</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Install token_get_all() function (highly recommended)</source>
+        <target>Nainstalujte funkci token_get_all() (důrazně doporučeno)</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The mb_strlen() function is available</source>
+        <target>Funkce mb_strlen() je k dispozici</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Install mb_strlen() function</source>
+        <target>Nainstalujte funkci mb_strlen()</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>A PHP accelerator is installed</source>
+        <target>PHP akcelerátor je naistalován</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Install a PHP accelerator like APC (highly recommended)</source>
+        <target>Nainstalujte PHP akcelerátor podobný APC (důrazně doporučeno)</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>php.ini has safe_mode set to off</source>
+        <target>V souboru php.ini je safe_mode nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>php.ini has short_open_tag set to off</source>
+        <target>V souboru php.ini je short_open_tag nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>php.ini has magic_quotes_gpc set to off</source>
+        <target>V souboru php.ini je magic_quotes_gpc nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>php.ini has register_globals set to off</source>
+        <target>V souboru php.ini je register_globals nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>php.ini has session.auto_start set to off</source>
+        <target>V souboru php.ini je session.auto_start nastaveno na off</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Set safe_mode to off in php.ini</source>
+        <target>Nastavte v souboru php.ini safe_mode na off</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Set short_open_tag to off in php.ini</source>
+        <target>Nastavte v souboru php.ini short_open_tag na off</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Set magic_quotes_gpc to off in php.ini</source>
+        <target>Nastavte v souboru php.ini magic_quotes_gpc na off</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Set register_globals to off in php.ini</source>
+        <target>Nastavte v souboru php.ini register_globals na off</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Set session.auto_start to off in php.ini</source>
+        <target>Nastavte v souboru php.ini session.auto_start na off</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>is Free Software released under the MIT license</source>
+        <target>je svobodný software šířen pod licencí MIT</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Can't connect to the database. Please review the data.</source>
+        <target>K databázi se nelze připojit, prověřte správnost zadaných údajů.</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Administrator user details</source>
+        <target>Založení účtu správce</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Enter the following information for the super administrator user:</source>
+        <target>Zadejte následující údaje k účtu hlavního správce</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Administrator Email</source>
+        <target>Email správce</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Username</source>
+        <target>Uživatelské jméno</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Password again</source>
+        <target>Kontrola hesla</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Load sample data</source>
+        <target>Načíst vzorová data</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>If you want to preload the database with sample data, check the following checkbox.</source>
+        <target>Chcete-li načíst do databáze ukázková data, následující volbu označte.</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Application initial data</source>
+        <target>Načtení vzorových dat</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Click the "Finish" button to start the Siwapp application.</source>
+        <target>Kliknutím na tlačítko Dokončit spustíte aplikaci.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Enjoy!</source>
+        <target>Využijte ji naplno!</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Please review the following error messages carefully and try to correct them before you continue.</source>
+        <target>Věnujte pozornost následujícím chybám a pokuste se je odstranit dříve, než budete pokračovat.</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>File Permissions</source>
+        <target>Kontrola oprávnění</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Siwapp needs to have write permissions over certain files and directories</source>
+        <target>Siwapp vyžaduje oprávnění k zápisu do níže uvedených souborů a adresářů</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Oops, there are some problems</source>
+        <target>Byly nalezeny některé problémy</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Siwapp is almost installed</source>
+        <target>Instalace je téměř u konce</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Once you've checked out the instructions above, click the "Finish" button to finish the installation process.</source>
+        <target>Seznamte se s uvedenými pokyny a dokončete instalaci kliknutím na tlačítko Dokončit.</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please read these instructions carefully:</source>
+        <target>Pozorně si přečtěte následující pokyny:</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>We couldn't write to %1% file. Please download it %2%here%3% and replace it at %4% by yourself</source>
+        <target>Nebylo možné provést úpravy souboru %1%. Stáhněte jej sami z %2%tohoto umístění%3% a sami ho v %4% nahraďte</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>PLEASE TAKE THE FOLLOWING SECURITY MEASURES:</source>
+        <target>VĚNUJTE POZORNOST NÁSLEDUJÍCÍM BEZPEČNOSTNÍM OPATŘENÍM:</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Remove the write permissions of the %1% file</source>
+        <target>Odstraňte práva zápisu u souboru %1%</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>There were some sql errors creating the database.</source>
+        <target>Při tvorbě SQL databáze došlo k některým chybám.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>The %1% directory exists and is writable</source>
+        <target>Adresář %1% byl nalezen a lze do něj zapisovat</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Make sure the %1% directory is writable (%2%)</source>
+        <target>Ověřte u adresáře %1% práva k zápisu (%2%)</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Siwapp Upgrade</source>
+        <target>Aktualizace aplikace</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>The following errors occurred</source>
+        <target>Byly zjištěny následující chyby</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Upgrade successfully completed</source>
+        <target>Aktualizace byla dokončena</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>No upgrade needed</source>
+        <target>Aktualizace není potřebná</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Choose your country</source>
+        <target>Zvolte Vaši zemi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overwrite previous Siwapp installations</source>
+        <target>Přepsat předchozí instalaci</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are some tables at your database that will be overwritten by the Siwapp installation process</source>
+        <target>Databáze obsahuje tabulky, které budou instalačním procesem přepsány</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You need to click the checkbox to allow the tables to be overwritten</source>
+        <target>Má-li dojít k přepsání tabulek, tuto volbu označte.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The mod_rewrite apache module is available</source>
+        <target>Apache modul mod_rewrite je k dispozici</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Install mod_rewrite module on apache</source>
+        <target>Nainstalujte Apache modul mod_rewrite</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

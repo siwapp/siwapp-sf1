@@ -1,0 +1,6 @@
+all:
+  urls:
+    variables:
+      deleteTemplate:       configuration/deleteTemplate
+      addNewNameValueItem:  configuration/addNewNameValueItem
+      getCountries:         configuration/ajaxGetCountries

@@ -1,0 +1,6 @@
+all:
+  urls:
+    variables:
+      addPayment:      payments/add
+      paymentsForm:    payments/form
+      refreshPayments: payments/refresh

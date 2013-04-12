@@ -1,0 +1,7 @@
+all:
+  urls:
+    include: ['search']
+    variables:
+      editRow:          customers/edit
+      showInvoices:     customers/showInvoices
+      

@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="sl" datatype="plaintext" original="messages" date="2010-10-22T14:15:19Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Uporabniško ime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Geslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Zapomni se me</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Vpis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Ste pozabili geslo?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Pozdravljeni, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Odjava</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Kontrolna plošča</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Nedavni računi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Zapadli računi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target> Število</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Ime stranke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Datum zapadlosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Zapadlo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Plačila</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Dodaj plačilo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Prekliči</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Shrani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Prejemki</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Računi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Nov račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Uredi račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>ID za DDV</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Podrobnosti plačila</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Plačila so bila uspešno shranjena.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Plačila niso bila shranjena zaradi neznane napake.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Opis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Cena na enoto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Količina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Davki</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Osnova</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Popust</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Cena</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Dodaj postavko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Dodaj</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Skupaj</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Skupaj za plačilo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Zaznamki</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Izbriši</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Shrani kot osnutek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Shrani in pošlji po e-mailu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Natisni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Pošlji</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Račun je bil uspešno poslan.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Račun ni bil poslan zaradi neznane napake.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Račun ni bil shranjen ker je prišlo do napake.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d računov je bilo uspešno izbrisanih.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d računov je bilo uspešno poslanih.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>oglej si [1] računov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Izdano v</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>bo zapadlo v plačilo dne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>odprto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>zaprto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>zapadlo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>osnutek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Poslano po e-mailu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Prisilno zapri</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Izdano dne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Zapadlo dne</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Ponavljajoči računi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Nov ponavljajoč račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Zapadlo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Čas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Ponavljanje</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Ta znesek se ne bo odrazil v skupnih prejemkih</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Obstaja  %d neizvršenih ponavljajočih računov.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Uredi ponavljajoč račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Vseh %d ponavljajočih računov je bilo izvedenih.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Čas izvršitve računov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Začenjam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Končujem</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Povprečni prihodki</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Generiraj račune na čakanju</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>omogočeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>onemogočeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>zaključeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>na čakannju</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Let</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Mesecev</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>letno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>mesečno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>dnevno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>tedensko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serije</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Ustvari vsakih</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Začetni dan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Končni dan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Maksimalno število ponovitev</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dnevi do zapadlosti</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target></target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Stranke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Nova stranka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Uredi stranko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Stranka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Podrobnosti o stranki</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Ime stranke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>ID za DDV</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Naslov stranke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Kontaktna oseba</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Naslov za račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Naslov za dostavo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>E-mail stranke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Stranka ni bila shranjena zaradi napak.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d je bilo uspešno izbrisanih.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target></target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>od</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>do</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>prejšnji teden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>prejšnji mesec</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>prejšnje leto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>zadnjih pet let</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Odprto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Zaprto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Osnutki</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Omogočeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Onemogočeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Na čakanju</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Zaključeno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Ni poslano</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serije</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Oznake</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Išči</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Resetiraj</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Prva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Prejšnja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>STRAN</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Naslednja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Zadnja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>pojdi na</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Pojdi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>več</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Prikazujem [1]-[2] od [3] rezultatov</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Nastavitve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Globalne nastavitve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Moje nastavitve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Predloge za tisk</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Vaše nastavitve so bile uspešno shranjene.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Nastavitve niso bile shranjene. Prosim, preverite vnešene vrednosti in jih popravite.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Prosimo odpravite naslednje napake pred shranjevanjem:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Podjetje</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Ime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Valuta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Naslov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>WWW</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logotip</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Davki na računih</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Vrednost</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Aktivno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Privzeto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Dodaj novo vrednost DDV-ja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>PDF nastavitve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Velikost strani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Usmeritev strani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Obvezen zakonski tekst.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Pogoji</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Serija računov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Oznaka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Začetna vrednost</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Dodaj novo vrednost serije</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Začetna vrednost bo uporabljena za prvi shranjen račun.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>odstrani trenutno datoteko</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>O vas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Ime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Priimek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Prevedi aplikacijo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Jezik vmesnika</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Naredi na lahko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Prikaži število zadetkov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Iskalni filter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Privzet filter datuma</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Privzeta serija računov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Spremenite vaše geslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Staro geslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Novo geslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Potrdi novo geslo</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Posodobljeno dne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Ustvari novo predlogo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Izbriši izbrano</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Označi kot privzeto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Predloga ni bila shranjena zaradi napak.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Ste prepričani?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Brez zadetkov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>dan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>teden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>mesec</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>leto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Ne morem se povezati z podatkovno bazo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Preverite vaš e-mail za novo geslo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Prišlo je do problemov, prosim poskusite kasneje.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Nepravilna hash koda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Naloženi so bili vzorčni podatki.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Če ste vnesli veljaven e-mail so vam bili poslani podatki za aktivacijo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target> Če želite poslati ponoven e-mail za aktivacijo, morate najprej osvežiti stran</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Nimate pravic za dostop do strani.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>zapri</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Vnesite uporabniško ime ali e-mail in poslali vam bomo link za aktivacijo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Uporabniško ime ali e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Kontaktna oseba</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Naslov za račun</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Naslov za dostavo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Cena na enoto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Shrani PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Uredi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Stranke nisem mogel izbrisati.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

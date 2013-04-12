@@ -1,0 +1,40 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        siwapp
+    #description:  symfony project
+    #keywords:     symfony, project
+    language:     en
+    #robots:       index, follow
+  
+  stylesheets:
+    - tripoli/tripoli:        { media: all }
+    - tripoli/tripoli.ie.css: { media: all, condition: ie }
+    - siwapp/layout:          { media: all }
+    - siwapp/typography:      { media: all }
+    - siwapp/buttons:         { media: all }
+    - siwapp/theme
+    - siwapp/controls:        { media: all }
+    - siwapp/print:           { media: print }
+    - ui-orange/ui.all.css:   { media: all }
+
+  javascripts:
+    # Update these files manually
+    - <?php echo sfConfig::get('sf_jquery_web_dir')."/js/".sfConfig::get('sf_jquery_core').PHP_EOL ?>                 # /js/core/js/jquery.js
+    - <?php echo sfConfig::get('sf_jquery_web_dir')."/js/plugins/".sfConfig::get('sf_jquery_ui').PHP_EOL ?>           # /js/core/js/plugins/ui.js
+    - <?php echo sfConfig::get('sf_jquery_web_dir')."/js/plugins/".sfConfig::get('sf_jquery_autocomplete').PHP_EOL ?> # /js/core/js/plugins/autocomplete.js
+    # --
+    - core/hash.js # i18n
+    - core/i18n.js # on client side
+    - core/timers.js
+    - core/tools.js
+    - siwapp/searchform.js
+
+  has_layout:     true
+  layout:         layout
+
+  components:
+    searchForm:   [search, form]
+

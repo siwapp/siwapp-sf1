@@ -1,0 +1,8 @@
+all:
+  urls:
+    include: ['payments', 'search']
+    variables:
+      editRow:          invoices/edit
+      calculateInvoice: common/calculate
+      printHtml:        @invoices_print?action=print
+      printPdf:         @invoices_print?action=pdf

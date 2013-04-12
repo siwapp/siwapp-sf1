@@ -1,0 +1,11 @@
+signinSuccess:
+  javascripts: [-*, siwapp/login]
+  stylesheets: [siwapp/login]
+  layout: empty
+secureSuccess:
+  javascripts: [-*]
+  layout: empty
+passwordRecoverySuccess:
+  javascripts:  [-*]
+  stylestheets: [-*]
+  has_layout:   false

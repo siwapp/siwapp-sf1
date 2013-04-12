@@ -1,0 +1,135 @@
+Tag:
+  Tag_1:
+    name: veniam
+    is_triple: '0'
+  Tag_2:
+    name: non
+    is_triple: '0'
+  Tag_3:
+    name: velit
+    is_triple: '0'
+  Tag_4:
+    name: commodo
+    is_triple: '0'
+  Tag_5:
+    name: sit
+    is_triple: '0'
+  Tag_6:
+    name: exercitation
+    is_triple: '0'
+  Tag_7:
+    name: do
+    is_triple: '0'
+  Tag_8:
+    name: lorem
+    is_triple: '0'
+  Tag_9:
+    name: laboris
+    is_triple: '0'
+  Tag_10:
+    name: nostrud
+    is_triple: '0'
+
+Tagging:
+  Tagging_1:
+    Tag: Tag_1
+    taggable_model: Invoice
+    taggable_id: '1'
+  Tagging_2:
+    Tag: Tag_2
+    taggable_model: Invoice
+    taggable_id: '1'
+  Tagging_3:
+    Tag: Tag_3
+    taggable_model: Invoice
+    taggable_id: '2'
+  Tagging_4:
+    Tag: Tag_3
+    taggable_model: Invoice
+    taggable_id: '3'
+  Tagging_5:
+    Tag: Tag_4
+    taggable_model: Invoice
+    taggable_id: '3'
+  Tagging_6:
+    Tag: Tag_5
+    taggable_model: Invoice
+    taggable_id: '3'
+  Tagging_7:
+    Tag: Tag_6
+    taggable_model: Invoice
+    taggable_id: '3'
+  Tagging_8:
+    Tag: Tag_7
+    taggable_model: Invoice
+    taggable_id: '3'
+  Tagging_9:
+    Tag: Tag_8
+    taggable_model: Invoice
+    taggable_id: '4'
+  Tagging_10:
+    Tag: Tag_9
+    taggable_model: Invoice
+    taggable_id: '4'
+  Tagging_11:
+    Tag: Tag_10
+    taggable_model: Invoice
+    taggable_id: '4'
+  Tagging_21:
+    Tag: Tag_4
+    taggable_model: Invoice
+    taggable_id: '7'
+  Tagging_22:
+    Tag: Tag_9
+    taggable_model: Invoice
+    taggable_id: '8'
+  Tagging_26:
+    Tag: Tag_1
+    taggable_model: Invoice
+    taggable_id: '8'
+  Tagging_28:
+    Tag: Tag_4
+    taggable_model: Invoice
+    taggable_id: '9'
+  Tagging_39:
+    Tag: Tag_9
+    taggable_model: Invoice
+    taggable_id: '14'
+  Tagging_46:
+    Tag: Tag_5
+    taggable_model: Invoice
+    taggable_id: '15'
+  Tagging_49:
+    Tag: Tag_7
+    taggable_model: Invoice
+    taggable_id: '16'
+  Tagging_53:
+    Tag: Tag_4
+    taggable_model: Invoice
+    taggable_id: '17'
+  Tagging_55:
+    Tag: Tag_9
+    taggable_model: Invoice
+    taggable_id: '18'
+
+Tax:
+  Tax_1:
+    name: IVA 16%
+    value: 16
+    active: true
+    is_default: true
+  Tax_2:
+    name: IVA 4%
+    value: 4
+    active: true
+    is_default: false
+  Tax_3:
+    name: IVA 7%
+    value: 7
+    active: false
+    is_default: false
+  Tax_4:
+    name: IRPF
+    value: -15
+    active: true
+    is_default: true

@@ -1,0 +1,144 @@
+js_url:
+  url:  /js/url/:key
+  param:  { module: js, action: url }
+
+invoices:
+  url:   /invoices
+  param:  { module: invoices, action: index, tab: invoices, searchForm: true, searchNamespace: invoices }
+
+invoices_new:
+  url:   /invoices/new
+  param:  { module: invoices, action: new, tab: invoices, searchForm: false }
+
+invoices_show:
+  url:   /invoices/show/:id
+  param:  { module: invoices, action: show, tab: invoices, searchForm: false }
+
+invoices_edit:
+  url:   /invoices/edit/:id
+  param:  { module: invoices, action: edit, tab: invoices, searchForm: false }
+
+invoices_print:
+  url:    /invoices/print/:action
+  param:  { module: print, model: Invoice }
+
+estimates_print:
+  url:    /estimates/print/:action
+  param:  { module: print, model: Estimate }
+
+dashboard:
+  url:   /dashboard
+  param:  { module: dashboard, action: index, tab: dashboard, searchForm: true, searchNamespace: invoices }
+
+dashboard_new:
+  url: /invoices/new
+  param: { module: invoices, action: new, tab: invoices, searchForm: false}
+  
+recurring:
+  url:   /recurring
+  param:  { module: recurring, action: index, tab: recurring, searchForm: true, searchNamespace: recurring }
+
+recurring_new:
+  url:   /recurring/new
+  param:  { module: recurring, action: new, tab: recurring, searchForm: false }
+
+recurring_edit:
+  url:   /recurring/edit/:id
+  param:  { module: recurring, action: edit, tab: recurring, searchForm: false }
+  
+estimates:
+  url:   /estimates
+  param:  { module: estimates, action: index, tab: estimates, searchForm: true, searchNamespace: estimates }
+
+estimates_new:
+  url:   /estimates_new/new
+  param:  { module: estimates, action: new, tab: estimates, searchForm: false }
+
+estimates_edit:
+  url:   /estimates/edit/:id
+  param:  { module: estimates, action: edit, tab: estimates, searchForm: false }
+
+customers:
+  url:   /customers
+  param:  { module: customers, action: index, tab: customers, searchForm: true, searchNamespace: customers }
+
+customers_new:
+  url:   /customers/new
+  param:  { module: customers, action: new, tab: customers, searchForm: false }
+
+customers_edit:
+  url:   /customers/edit/:id
+  param:  { module: customers, action: edit, tab: customers, searchForm: false }
+
+products:
+  url:   /products
+  param:  { module: products, action: index, tab: products, searchForm: true, searchNamespace: products }
+
+products_new:
+  url:   /products/new
+  param:  { module: products, action: new, tab: products, searchForm: false }
+
+products_edit:
+  url:   /products/edit/:id
+  param:  { module: products, action: edit, tab: products, searchForm: false }
+  
+settings:
+  url:   /settings/global
+  param:  { module: configuration, action: settings, searchForm: false, tab: global }
+
+profile:
+  url:   /settings/profile
+  param:  { module: configuration, action: profile, searchForm: false, tab: profile }
+
+templates_edit:
+  url:   /settings/templates/edit/:id
+  param:  { module: printTemplates, action: edit, searchForm: false, tab: templates }
+
+templates:
+  url:   /settings/templates/:action
+  param:  { module: printTemplates, action: index, searchForm: false, tab: templates }
+
+siwapp_modules:
+  url:  /settings/modules
+  param: { module: configuration, action: siwappModules, searchForm: false, tab: siwapp_modules }
+
+password_recovery:
+  url: /password_recovery
+  param: {module: sfGuardAuth, action:passwordRecovery}
+
+password_reset:
+  url: /password_reset/:hash
+  param: {module: sfGuardAuth, action: passwordReset}
+
+# sfDoctrineGuardPlugin
+
+sf_guard_signin:
+  url:   /login
+  param: { module: sfGuardAuth, action: signin }
+
+sf_guard_signout:
+  url:   /logout
+  param: { module: sfGuardAuth, action: signout }
+
+sf_guard_password:
+  url:   /request_password
+  param: { module: sfGuardAuth, action: password }
+
+# default rules
+
+homepage:
+  url:   /
+  param: { module: dashboard, action: index, tab: dashboard, searchForm: true }
+
+default_symfony:
+  url:   /symfony/:action/*
+  param: { module: default }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*
+
+

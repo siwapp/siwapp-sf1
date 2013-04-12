@@ -1,0 +1,5 @@
+autoload:
+  twig:
+    name:      twig
+    path:      %SF_LIB_DIR%/vendor/twig
+    recursive: on

@@ -1,0 +1,83 @@
+=== sfWidgetFormI18nDateDMY ===
+
+This is a rather simple widget meant to use combos for days of week or months or years only. The usual date widgets always show the full date (year/month/day) and we need to show combos with only months or days or days of week.
+
+==== Options ====
+
+  - '''''culture''''' . This is a '''required option''' indicating the culture we want the combo displayed on.
+  - ''can_be_empty'' 
+    -  values: (boolean) true , false  
+    -  default: true
+    -  This option tells the widget if the combo will have an empty valued option.
+  - ''empty_value'' ( string). In case the widget have an empty option, the text associated with it.
+  - ''use'' 
+    - values: (string) 'months','days','years' 
+    - default: 'months'
+    - This option tells the widget what is it going to be used for.
+  - ''format'' 
+    - values: (string) 'name' , 'short_name', 'number'
+    - default: 'name'
+    - This option tells the widget which format to use when displaying (if applicable) months or days:
+      - 'name': shows the full name (i.e. 'January', 'February' or 'Monday', 'Tuesday')
+      - 'short_name': shows the abrev. name.
+      - 'number' : shows with two digits number.
+
+==== Generated content ====
+
+This widget, though is a "date type" one, does not inherit from the classical date widgets. It does not set the input name the usual "input_name[day], input_name[month], input_name[year]" way. It sets the input name as a regular input does. 
+
+an example:
+  - use the widget in a form class:
+{{{
+<?php 
+class TestForm extends BaseTestForm
+{
+.....
+  public function configure() 
+  {
+    ....
+    ....
+    $this->widgetSchema['month']  = new sfWidgetFormI18nDateDMY(array(
+                                                                 'use'=>'months',
+                                                                 'culture'=>'en',
+                                                                 'empty_value'=>'any'
+                                                                ));
+    ...
+    ...
+  }
+.....
+}?>
+}}}
+  - echo it on a template:
+{{{
+<html>
+  ....
+  <body>
+    ...
+    <?php echo $testForm['month']?>
+    ...
+  </body>
+</html>
+}}}
+  - the output will look like:
+{{{
+<select id="test_month" name="test[month]" title="Execution time: month">
+<option value="">any</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option selected="selected" value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+}}}
+
+
+
+

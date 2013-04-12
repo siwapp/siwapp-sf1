@@ -1,0 +1,1 @@
+CREATE TABLE migration_version (version INT(11)) DEFAULT CHARACTER SET utf8 ENGINE = INNODB;

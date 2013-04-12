@@ -1,0 +1,21 @@
+all:
+  metas:
+    title:     siwapp - Estimates
+  components:
+    searchForm: [search, estimateForm]
+
+indexSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/table.js
+
+editSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/json2
+    - core/form
+    - core/field
+    - core/hotkeys
+    - invoice
+    - tags
+    - jquery.textarearesizer.compressed.js

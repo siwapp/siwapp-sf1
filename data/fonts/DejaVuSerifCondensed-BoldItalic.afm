@@ -1,0 +1,4480 @@
+StartFontMetrics 4.1
+FontName DejaVuSerifCondensed-BoldItalic
+FullName DejaVu Serif Condensed Bold Italic
+Notice Copyright [c] 2003 by Bitstream, Inc. All Rights Reserved.
+EncodingScheme FontSpecific
+FamilyName DejaVu Serif Condensed
+Weight Bold Italic
+Version Version 2.33
+Characters 3320
+ItalicAngle -11.0
+Ascender 939
+Descender -236
+UnderlineThickness 44
+UnderlinePosition -63
+IsFixedPitch false
+FontBBox -815 -389 1584 1145
+StartCharMetrics 3357
+C 0 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 1 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 2 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 3 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 4 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 5 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 6 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 7 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 8 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 9 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 10 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 11 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 12 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 13 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 14 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 15 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 16 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 17 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 18 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 19 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 20 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 21 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 22 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 23 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 24 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 25 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 26 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 27 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 28 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 29 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 30 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 31 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 32 ; WX 313 ; N space ; B 65 -14 345 729 ;
+C 33 ; WX 395 ; N exclam ; B 65 -14 345 729 ;
+C 34 ; WX 469 ; N quotedbl ; B 85 458 383 729 ;
+C 35 ; WX 754 ; N numbersign ; B 61 0 693 718 ;
+C 36 ; WX 626 ; N dollar ; B 37 -146 568 761 ;
+C 37 ; WX 855 ; N percent ; B 53 -14 802 742 ;
+C 38 ; WX 813 ; N ampersand ; B 6 -14 803 742 ;
+C 39 ; WX 275 ; N quotesingle ; B 85 458 190 729 ;
+C 40 ; WX 426 ; N parenleft ; B 84 -156 459 760 ;
+C 41 ; WX 426 ; N parenright ; B -35 -156 340 760 ;
+C 42 ; WX 470 ; N asterisk ; B 20 278 451 742 ;
+C 43 ; WX 754 ; N plus ; B 95 1 659 627 ;
+C 44 ; WX 313 ; N comma ; B -4 -165 254 156 ;
+C 45 ; WX 374 ; N hyphen ; B 37 202 336 334 ;
+C 46 ; WX 313 ; N period ; B 73 -14 241 172 ;
+C 47 ; WX 329 ; N slash ; B -72 -93 401 729 ;
+C 48 ; WX 626 ; N zero ; B 42 -14 584 742 ;
+C 49 ; WX 626 ; N one ; B 58 0 482 742 ;
+C 50 ; WX 626 ; N two ; B -5 0 571 742 ;
+C 51 ; WX 626 ; N three ; B 3 -14 576 742 ;
+C 52 ; WX 626 ; N four ; B 5 0 569 742 ;
+C 53 ; WX 626 ; N five ; B 16 -14 573 729 ;
+C 54 ; WX 626 ; N six ; B 52 -14 605 742 ;
+C 55 ; WX 626 ; N seven ; B 93 0 616 729 ;
+C 56 ; WX 626 ; N eight ; B 17 -14 589 742 ;
+C 57 ; WX 626 ; N nine ; B 21 -14 574 742 ;
+C 58 ; WX 332 ; N colon ; B 55 -14 277 490 ;
+C 59 ; WX 332 ; N semicolon ; B -22 -161 290 490 ;
+C 60 ; WX 754 ; N less ; B 95 32 659 595 ;
+C 61 ; WX 754 ; N equal ; B 95 147 659 480 ;
+C 62 ; WX 754 ; N greater ; B 95 32 659 595 ;
+C 63 ; WX 527 ; N question ; B 92 -14 517 742 ;
+C 64 ; WX 900 ; N at ; B 58 -174 848 703 ;
+C 65 ; WX 698 ; N A ; B -71 0 655 729 ;
+C 66 ; WX 760 ; N B ; B -22 0 704 729 ;
+C 67 ; WX 716 ; N C ; B 38 -14 708 742 ;
+C 68 ; WX 780 ; N D ; B -22 0 743 729 ;
+C 69 ; WX 686 ; N E ; B -22 0 696 729 ;
+C 70 ; WX 639 ; N F ; B -22 0 691 729 ;
+C 71 ; WX 769 ; N G ; B 38 -14 730 742 ;
+C 72 ; WX 850 ; N H ; B -22 0 874 729 ;
+C 73 ; WX 421 ; N I ; B -22 0 444 729 ;
+C 74 ; WX 426 ; N J ; B -142 -208 474 729 ;
+C 75 ; WX 782 ; N K ; B -22 0 812 729 ;
+C 76 ; WX 633 ; N L ; B -22 0 582 729 ;
+C 77 ; WX 996 ; N M ; B -26 0 1018 729 ;
+C 78 ; WX 822 ; N N ; B -24 0 851 729 ;
+C 79 ; WX 784 ; N O ; B 38 -14 746 742 ;
+C 80 ; WX 677 ; N P ; B -22 0 681 729 ;
+C 81 ; WX 784 ; N Q ; B 44 -196 771 742 ;
+C 82 ; WX 748 ; N R ; B -22 0 700 729 ;
+C 83 ; WX 650 ; N S ; B 12 -14 613 742 ;
+C 84 ; WX 669 ; N T ; B 42 0 725 729 ;
+C 85 ; WX 785 ; N U ; B 85 -14 831 729 ;
+C 86 ; WX 698 ; N V ; B 48 0 775 729 ;
+C 87 ; WX 1011 ; N W ; B 45 0 1085 729 ;
+C 88 ; WX 698 ; N X ; B -48 0 727 729 ;
+C 89 ; WX 642 ; N Y ; B 45 0 715 729 ;
+C 90 ; WX 657 ; N Z ; B -31 0 684 729 ;
+C 91 ; WX 426 ; N bracketleft ; B 34 -132 440 760 ;
+C 92 ; WX 329 ; N backslash ; B 72 -93 257 729 ;
+C 93 ; WX 426 ; N bracketright ; B -15 -132 392 760 ;
+C 94 ; WX 754 ; N asciicircum ; B 91 457 664 729 ;
+C 95 ; WX 450 ; N underscore ; B 0 -236 450 -143 ;
+C 96 ; WX 450 ; N grave ; B 115 616 319 800 ;
+C 97 ; WX 583 ; N a ; B 31 -14 519 533 ;
+C 98 ; WX 629 ; N b ; B 22 -14 581 760 ;
+C 99 ; WX 548 ; N c ; B 30 -14 533 533 ;
+C 100 ; WX 629 ; N d ; B 9 -14 610 760 ;
+C 101 ; WX 572 ; N e ; B 30 -14 534 533 ;
+C 102 ; WX 387 ; N f ; B -53 -190 516 760 ;
+C 103 ; WX 629 ; N g ; B 20 -222 600 533 ;
+C 104 ; WX 654 ; N h ; B 30 0 578 760 ;
+C 105 ; WX 342 ; N i ; B 30 0 303 760 ;
+C 106 ; WX 325 ; N j ; B -149 -222 318 760 ;
+C 107 ; WX 624 ; N k ; B 30 0 583 760 ;
+C 108 ; WX 342 ; N l ; B 30 0 319 760 ;
+C 109 ; WX 952 ; N m ; B 50 0 896 533 ;
+C 110 ; WX 654 ; N n ; B 50 0 598 533 ;
+C 111 ; WX 600 ; N o ; B 30 -14 571 533 ;
+C 112 ; WX 629 ; N p ; B 22 -208 618 533 ;
+C 113 ; WX 629 ; N q ; B 47 -208 599 533 ;
+C 114 ; WX 474 ; N r ; B 50 0 529 533 ;
+C 115 ; WX 506 ; N s ; B 0 -14 488 533 ;
+C 116 ; WX 416 ; N t ; B 43 -14 407 680 ;
+C 117 ; WX 654 ; N u ; B 57 -14 604 519 ;
+C 118 ; WX 523 ; N v ; B 19 0 530 521 ;
+C 119 ; WX 774 ; N w ; B 27 0 801 519 ;
+C 120 ; WX 536 ; N x ; B -17 0 545 519 ;
+C 121 ; WX 523 ; N y ; B -18 -222 574 519 ;
+C 122 ; WX 511 ; N z ; B -14 -41 526 560 ;
+C 123 ; WX 579 ; N braceleft ; B 70 -163 579 760 ;
+C 124 ; WX 327 ; N bar ; B 116 -236 211 764 ;
+C 125 ; WX 579 ; N braceright ; B 1 -163 509 760 ;
+C 126 ; WX 754 ; N asciitilde ; B 95 221 659 406 ;
+C 127 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 128 ; WX 626 ; N Euro ; B -22 -14 626 742 ;
+C 129 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 130 ; WX 313 ; N quotesinglbase ; B 13 -130 251 156 ;
+C 131 ; WX 387 ; N florin ; B -166 -190 516 760 ;
+C 132 ; WX 518 ; N quotedblbase ; B 13 -130 456 156 ;
+C 133 ; WX 900 ; N ellipsis ; B 73 -14 827 172 ;
+C 134 ; WX 470 ; N dagger ; B 44 -96 483 729 ;
+C 135 ; WX 470 ; N daggerdbl ; B -13 -96 483 729 ;
+C 136 ; WX 450 ; N circumflex ; B 95 616 426 800 ;
+C 137 ; WX 1246 ; N perthousand ; B 53 -14 1194 742 ;
+C 138 ; WX 650 ; N Scaron ; B 12 -14 613 927 ;
+C 139 ; WX 360 ; N guilsinglleft ; B 62 64 316 522 ;
+C 140 ; WX 1062 ; N OE ; B 38 0 1072 729 ;
+C 141 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 142 ; WX 657 ; N Zcaron ; B -31 0 684 927 ;
+C 143 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 144 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 145 ; WX 313 ; N quoteleft ; B 37 456 275 742 ;
+C 146 ; WX 313 ; N quoteright ; B 29 443 268 729 ;
+C 147 ; WX 518 ; N quotedblleft ; B 37 456 479 742 ;
+C 148 ; WX 518 ; N quotedblright ; B 29 443 472 729 ;
+C 149 ; WX 575 ; N bullet ; B 129 196 446 547 ;
+C 150 ; WX 450 ; N endash ; B 38 207 412 324 ;
+C 151 ; WX 900 ; N emdash ; B 38 207 862 324 ;
+C 152 ; WX 450 ; N tilde ; B 120 638 461 792 ;
+C 153 ; WX 900 ; N trademark ; B 104 447 756 729 ;
+C 154 ; WX 506 ; N scaron ; B 0 -14 497 800 ;
+C 155 ; WX 360 ; N guilsinglright ; B 44 64 298 522 ;
+C 156 ; WX 925 ; N oe ; B 31 -14 885 533 ;
+C 157 ; WX 540 ; N .notdef ; B 44 -177 495 705 ;
+C 158 ; WX 511 ; N zcaron ; B -14 -41 526 800 ;
+C 159 ; WX 642 ; N Ydieresis ; B 45 0 715 939 ;
+C 160 ; WX 313 ; N nbspace ; B 50 0 330 742 ;
+C 161 ; WX 395 ; N exclamdown ; B 50 0 330 742 ;
+C 162 ; WX 626 ; N cent ; B 70 -146 568 662 ;
+C 163 ; WX 626 ; N sterling ; B 0 0 610 742 ;
+C 164 ; WX 572 ; N currency ; B 33 30 541 596 ;
+C 165 ; WX 626 ; N yen ; B 25 0 663 729 ;
+C 166 ; WX 327 ; N brokenbar ; B 116 -171 211 699 ;
+C 167 ; WX 470 ; N section ; B -1 -95 464 742 ;
+C 168 ; WX 450 ; N dieresis ; B 147 645 474 788 ;
+C 169 ; WX 900 ; N copyright ; B 124 0 776 725 ;
+C 170 ; WX 438 ; N ordfeminine ; B 6 246 395 745 ;
+C 171 ; WX 563 ; N guillemotleft ; B 62 64 518 522 ;
+C 172 ; WX 754 ; N logicalnot ; B 95 140 659 441 ;
+C 173 ; WX 374 ; N sfthyphen ; B 37 202 336 334 ;
+C 174 ; WX 900 ; N registered ; B 124 0 776 725 ;
+C 175 ; WX 450 ; N macron ; B 140 664 433 756 ;
+C 176 ; WX 450 ; N degree ; B 78 424 371 749 ;
+C 177 ; WX 754 ; N plusminus ; B 95 0 659 627 ;
+C 178 ; WX 394 ; N twosuperior ; B 2 334 357 742 ;
+C 179 ; WX 394 ; N threesuperior ; B 6 326 361 742 ;
+C 180 ; WX 450 ; N acute ; B 204 616 473 800 ;
+C 181 ; WX 659 ; N mu ; B 28 -208 625 519 ;
+C 182 ; WX 572 ; N paragraph ; B 101 -96 590 729 ;
+C 183 ; WX 313 ; N periodcentered ; B 73 255 241 440 ;
+C 184 ; WX 450 ; N cedilla ; B 101 -196 313 0 ;
+C 185 ; WX 394 ; N onesuperior ; B 35 334 305 742 ;
+C 186 ; WX 450 ; N ordmasculine ; B 6 246 433 742 ;
+C 187 ; WX 563 ; N guillemotright ; B 44 64 500 522 ;
+C 188 ; WX 938 ; N onequarter ; B 35 -14 842 742 ;
+C 189 ; WX 938 ; N onehalf ; B 35 -14 845 742 ;
+C 190 ; WX 938 ; N threequarters ; B 6 -14 842 742 ;
+C 191 ; WX 527 ; N questiondown ; B 10 -14 435 742 ;
+C 192 ; WX 698 ; N Agrave ; B -71 0 655 927 ;
+C 193 ; WX 698 ; N Aacute ; B -71 0 655 927 ;
+C 194 ; WX 698 ; N Acircumflex ; B -71 0 655 927 ;
+C 195 ; WX 698 ; N Atilde ; B -71 0 655 929 ;
+C 196 ; WX 698 ; N Adieresis ; B -71 0 655 939 ;
+C 197 ; WX 698 ; N Aring ; B -88 0 638 928 ;
+C 198 ; WX 931 ; N AE ; B -92 0 940 729 ;
+C 199 ; WX 716 ; N Ccedilla ; B 38 -196 708 742 ;
+C 200 ; WX 686 ; N Egrave ; B -22 0 696 927 ;
+C 201 ; WX 686 ; N Eacute ; B -22 0 696 927 ;
+C 202 ; WX 686 ; N Ecircumflex ; B -22 0 696 927 ;
+C 203 ; WX 686 ; N Edieresis ; B -22 0 696 939 ;
+C 204 ; WX 421 ; N Igrave ; B -22 0 444 927 ;
+C 205 ; WX 421 ; N Iacute ; B -22 0 445 927 ;
+C 206 ; WX 421 ; N Icircumflex ; B -22 0 448 927 ;
+C 207 ; WX 421 ; N Idieresis ; B -22 0 452 939 ;
+C 208 ; WX 787 ; N Eth ; B -16 0 749 729 ;
+C 209 ; WX 822 ; N Ntilde ; B -24 0 851 929 ;
+C 210 ; WX 784 ; N Ograve ; B 38 -14 746 927 ;
+C 211 ; WX 784 ; N Oacute ; B 38 -14 746 927 ;
+C 212 ; WX 784 ; N Ocircumflex ; B 38 -14 746 927 ;
+C 213 ; WX 784 ; N Otilde ; B 38 -14 746 929 ;
+C 214 ; WX 784 ; N Odieresis ; B 38 -14 746 939 ;
+C 215 ; WX 754 ; N multiply ; B 116 23 638 604 ;
+C 216 ; WX 784 ; N Oslash ; B -33 -38 816 766 ;
+C 217 ; WX 785 ; N Ugrave ; B 85 -14 831 927 ;
+C 218 ; WX 785 ; N Uacute ; B 85 -14 831 927 ;
+C 219 ; WX 785 ; N Ucircumflex ; B 85 -14 831 927 ;
+C 220 ; WX 785 ; N Udieresis ; B 85 -14 831 939 ;
+C 221 ; WX 642 ; N Yacute ; B 45 0 715 927 ;
+C 222 ; WX 681 ; N Thorn ; B -22 0 656 729 ;
+C 223 ; WX 684 ; N germandbls ; B -69 -190 614 760 ;
+C 224 ; WX 583 ; N agrave ; B 31 -14 519 800 ;
+C 225 ; WX 583 ; N aacute ; B 31 -14 519 800 ;
+C 226 ; WX 583 ; N acircumflex ; B 31 -14 519 800 ;
+C 227 ; WX 583 ; N atilde ; B 31 -14 519 792 ;
+C 228 ; WX 583 ; N adieresis ; B 31 -14 519 788 ;
+C 229 ; WX 583 ; N aring ; B 31 -14 519 888 ;
+C 230 ; WX 838 ; N ae ; B 24 -14 800 533 ;
+C 231 ; WX 548 ; N ccedilla ; B 30 -196 533 533 ;
+C 232 ; WX 572 ; N egrave ; B 30 -14 534 800 ;
+C 233 ; WX 572 ; N eacute ; B 30 -14 534 800 ;
+C 234 ; WX 572 ; N ecircumflex ; B 30 -14 534 800 ;
+C 235 ; WX 572 ; N edieresis ; B 30 -14 535 788 ;
+C 236 ; WX 342 ; N igrave ; B 51 0 298 800 ;
+C 237 ; WX 342 ; N iacute ; B 51 0 419 800 ;
+C 238 ; WX 342 ; N icircumflex ; B 41 0 373 800 ;
+C 239 ; WX 342 ; N idieresis ; B 51 0 419 788 ;
+C 240 ; WX 600 ; N eth ; B 15 -14 570 764 ;
+C 241 ; WX 654 ; N ntilde ; B 50 0 598 792 ;
+C 242 ; WX 600 ; N ograve ; B 30 -14 571 800 ;
+C 243 ; WX 600 ; N oacute ; B 30 -14 571 800 ;
+C 244 ; WX 600 ; N ocircumflex ; B 30 -14 571 800 ;
+C 245 ; WX 600 ; N otilde ; B 30 -14 571 792 ;
+C 246 ; WX 600 ; N odieresis ; B 30 -14 571 788 ;
+C 247 ; WX 754 ; N divide ; B 95 60 659 567 ;
+C 248 ; WX 600 ; N oslash ; B -24 -50 625 567 ;
+C 249 ; WX 654 ; N ugrave ; B 57 -14 604 800 ;
+C 250 ; WX 654 ; N uacute ; B 57 -14 604 800 ;
+C 251 ; WX 654 ; N ucircumflex ; B 57 -14 604 800 ;
+C 252 ; WX 654 ; N udieresis ; B 57 -14 604 788 ;
+C 253 ; WX 523 ; N yacute ; B -18 -222 574 800 ;
+C 254 ; WX 629 ; N thorn ; B 2 -208 598 760 ;
+C 255 ; WX 523 ; N ydieresis ; B -18 -222 574 788 ;
+C -1 ; WX 0 ; N .null ; B 65 -14 345 729 ;
+C -1 ; WX 333 ; N CR ; B 65 -14 345 729 ;
+C -1 ; WX 698 ; N Amacron ; B -71 0 655 914 ;
+C -1 ; WX 583 ; N amacron ; B 31 -14 519 763 ;
+C -1 ; WX 698 ; N Abreve ; B -71 0 655 936 ;
+C -1 ; WX 583 ; N abreve ; B 31 -14 519 776 ;
+C -1 ; WX 698 ; N Aogonek ; B -71 -196 655 729 ;
+C -1 ; WX 583 ; N aogonek ; B 31 -196 519 533 ;
+C -1 ; WX 716 ; N Cacute ; B 38 -14 708 927 ;
+C -1 ; WX 548 ; N cacute ; B 30 -14 540 800 ;
+C -1 ; WX 716 ; N Ccircumflex ; B 38 -14 708 927 ;
+C -1 ; WX 548 ; N ccircumflex ; B 30 -14 533 800 ;
+C -1 ; WX 716 ; N Cdotaccent ; B 38 -14 708 939 ;
+C -1 ; WX 548 ; N cdotaccent ; B 30 -14 533 788 ;
+C -1 ; WX 716 ; N Ccaron ; B 38 -14 708 927 ;
+C -1 ; WX 548 ; N ccaron ; B 30 -14 535 800 ;
+C -1 ; WX 780 ; N Dcaron ; B -22 0 743 927 ;
+C -1 ; WX 629 ; N dcaron ; B 9 -14 835 760 ;
+C -1 ; WX 787 ; N Dcroat ; B -16 0 749 729 ;
+C -1 ; WX 629 ; N dmacron ; B 9 -14 667 760 ;
+C -1 ; WX 686 ; N Emacron ; B -22 0 696 914 ;
+C -1 ; WX 572 ; N emacron ; B 30 -14 534 763 ;
+C -1 ; WX 686 ; N Ebreve ; B -22 0 696 927 ;
+C -1 ; WX 572 ; N ebreve ; B 30 -14 534 776 ;
+C -1 ; WX 686 ; N Edotaccent ; B -22 0 696 939 ;
+C -1 ; WX 572 ; N edotaccent ; B 30 -14 534 788 ;
+C -1 ; WX 686 ; N Eogonek ; B -22 -196 696 729 ;
+C -1 ; WX 572 ; N eogonek ; B 30 -196 534 533 ;
+C -1 ; WX 686 ; N Ecaron ; B -22 0 696 930 ;
+C -1 ; WX 572 ; N ecaron ; B 30 -14 535 800 ;
+C -1 ; WX 769 ; N Gcircumflex ; B 38 -14 730 927 ;
+C -1 ; WX 629 ; N gcircumflex ; B 20 -222 600 800 ;
+C -1 ; WX 769 ; N Gbreve ; B 38 -14 730 927 ;
+C -1 ; WX 629 ; N gbreve ; B 20 -222 600 776 ;
+C -1 ; WX 769 ; N Gdotaccent ; B 38 -14 730 939 ;
+C -1 ; WX 629 ; N gdotaccent ; B 20 -222 600 788 ;
+C -1 ; WX 769 ; N Gcommaaccent ; B 38 -240 730 742 ;
+C -1 ; WX 629 ; N gcommaaccent ; B 20 -222 600 753 ;
+C -1 ; WX 850 ; N Hcircumflex ; B -22 0 874 927 ;
+C -1 ; WX 654 ; N hcircumflex ; B 30 0 578 927 ;
+C -1 ; WX 850 ; N Hbar ; B -22 0 874 729 ;
+C -1 ; WX 654 ; N hbar ; B 30 0 578 760 ;
+C -1 ; WX 421 ; N Itilde ; B -22 0 468 929 ;
+C -1 ; WX 342 ; N itilde ; B 51 0 408 792 ;
+C -1 ; WX 421 ; N Imacron ; B -22 0 447 914 ;
+C -1 ; WX 342 ; N imacron ; B 51 0 351 763 ;
+C -1 ; WX 421 ; N Ibreve ; B -22 0 464 927 ;
+C -1 ; WX 342 ; N ibreve ; B 51 0 400 776 ;
+C -1 ; WX 421 ; N Iogonek ; B -5 -196 461 729 ;
+C -1 ; WX 342 ; N iogonek ; B 47 -196 320 760 ;
+C -1 ; WX 421 ; N Idot ; B -22 0 444 939 ;
+C -1 ; WX 342 ; N dotlessi ; B 51 0 298 519 ;
+C -1 ; WX 848 ; N IJ ; B -22 -208 896 729 ;
+C -1 ; WX 676 ; N ij ; B 30 -222 668 760 ;
+C -1 ; WX 426 ; N Jcircumflex ; B -142 -208 474 927 ;
+C -1 ; WX 325 ; N jcircumflex ; B -128 -222 342 800 ;
+C -1 ; WX 782 ; N Kcommaaccent ; B -22 -226 812 729 ;
+C -1 ; WX 624 ; N kcommaaccent ; B 30 -226 583 760 ;
+C -1 ; WX 624 ; N kgreenlandic ; B 52 0 604 518 ;
+C -1 ; WX 633 ; N Lacute ; B -22 0 582 928 ;
+C -1 ; WX 342 ; N lacute ; B 30 0 431 928 ;
+C -1 ; WX 633 ; N Lcommaaccent ; B -22 -226 582 729 ;
+C -1 ; WX 342 ; N lcommaaccent ; B 30 -226 319 760 ;
+C -1 ; WX 633 ; N Lcaron ; B -22 0 617 729 ;
+C -1 ; WX 457 ; N lcaron ; B 30 0 531 760 ;
+C -1 ; WX 633 ; N Ldot ; B -22 0 639 729 ;
+C -1 ; WX 501 ; N ldot ; B 30 0 479 760 ;
+C -1 ; WX 639 ; N Lslash ; B -16 0 587 729 ;
+C -1 ; WX 346 ; N lslash ; B -7 0 370 760 ;
+C -1 ; WX 822 ; N Nacute ; B -24 0 851 928 ;
+C -1 ; WX 654 ; N nacute ; B 50 0 598 776 ;
+C -1 ; WX 822 ; N Ncommaaccent ; B -24 -226 851 729 ;
+C -1 ; WX 654 ; N ncommaaccent ; B 50 -226 598 533 ;
+C -1 ; WX 822 ; N Ncaron ; B -24 0 851 927 ;
+C -1 ; WX 654 ; N ncaron ; B 50 0 598 800 ;
+C -1 ; WX 907 ; N napostrophe ; B 67 0 812 742 ;
+C -1 ; WX 785 ; N Eng ; B 31 -208 772 743 ;
+C -1 ; WX 654 ; N eng ; B 70 -222 604 533 ;
+C -1 ; WX 784 ; N Omacron ; B 38 -14 746 914 ;
+C -1 ; WX 600 ; N omacron ; B 30 -14 571 763 ;
+C -1 ; WX 784 ; N Obreve ; B 38 -14 746 927 ;
+C -1 ; WX 600 ; N obreve ; B 30 -14 571 776 ;
+C -1 ; WX 784 ; N Ohungarumlaut ; B 38 -14 746 927 ;
+C -1 ; WX 600 ; N ohungarumlaut ; B 30 -14 587 800 ;
+C -1 ; WX 748 ; N Racute ; B -22 0 700 928 ;
+C -1 ; WX 474 ; N racute ; B 50 0 536 776 ;
+C -1 ; WX 748 ; N Rcommaaccent ; B -22 -226 700 729 ;
+C -1 ; WX 474 ; N rcommaaccent ; B 50 -226 529 533 ;
+C -1 ; WX 748 ; N Rcaron ; B -22 0 700 927 ;
+C -1 ; WX 474 ; N rcaron ; B 50 0 535 800 ;
+C -1 ; WX 650 ; N Sacute ; B 12 -14 624 928 ;
+C -1 ; WX 506 ; N sacute ; B 0 -14 536 776 ;
+C -1 ; WX 650 ; N Scircumflex ; B 12 -14 613 927 ;
+C -1 ; WX 506 ; N scircumflex ; B 0 -14 488 800 ;
+C -1 ; WX 650 ; N Scedilla ; B 12 -196 613 742 ;
+C -1 ; WX 506 ; N scedilla ; B 0 -196 488 533 ;
+C -1 ; WX 669 ; N Tcommaaccent ; B 42 -196 725 729 ;
+C -1 ; WX 416 ; N tcommaaccent ; B 43 -196 407 680 ;
+C -1 ; WX 669 ; N Tcaron ; B 42 0 725 927 ;
+C -1 ; WX 416 ; N tcaron ; B 43 -14 524 780 ;
+C -1 ; WX 669 ; N Tbar ; B 42 0 725 729 ;
+C -1 ; WX 416 ; N tbar ; B 9 -14 407 680 ;
+C -1 ; WX 785 ; N Utilde ; B 85 -14 831 929 ;
+C -1 ; WX 654 ; N utilde ; B 57 -14 604 792 ;
+C -1 ; WX 785 ; N Umacron ; B 85 -14 831 914 ;
+C -1 ; WX 654 ; N umacron ; B 57 -14 604 763 ;
+C -1 ; WX 785 ; N Ubreve ; B 85 -14 831 927 ;
+C -1 ; WX 654 ; N ubreve ; B 57 -14 604 776 ;
+C -1 ; WX 785 ; N Uring ; B 85 -14 831 1057 ;
+C -1 ; WX 654 ; N uring ; B 57 -14 604 854 ;
+C -1 ; WX 785 ; N Uhungarumlaut ; B 85 -14 831 927 ;
+C -1 ; WX 654 ; N uhungarumlaut ; B 57 -14 604 800 ;
+C -1 ; WX 785 ; N Uogonek ; B 85 -204 831 729 ;
+C -1 ; WX 654 ; N uogonek ; B 57 -196 604 519 ;
+C -1 ; WX 1011 ; N Wcircumflex ; B 45 0 1085 931 ;
+C -1 ; WX 774 ; N wcircumflex ; B 27 0 801 800 ;
+C -1 ; WX 642 ; N Ycircumflex ; B 45 0 715 931 ;
+C -1 ; WX 523 ; N ycircumflex ; B -18 -222 574 800 ;
+C -1 ; WX 657 ; N Zacute ; B -31 0 684 928 ;
+C -1 ; WX 511 ; N zacute ; B -14 -41 536 776 ;
+C -1 ; WX 657 ; N Zdotaccent ; B -31 0 684 952 ;
+C -1 ; WX 511 ; N zdotaccent ; B -14 -41 526 759 ;
+C -1 ; WX 387 ; N longs ; B -53 -190 516 760 ;
+C -1 ; WX 629 ; N uni0180 ; B 22 -14 581 760 ;
+C -1 ; WX 760 ; N uni0181 ; B -86 0 704 729 ;
+C -1 ; WX 769 ; N uni0182 ; B -22 0 743 729 ;
+C -1 ; WX 629 ; N uni0183 ; B -45 -14 574 760 ;
+C -1 ; WX 769 ; N uni0184 ; B -22 0 693 729 ;
+C -1 ; WX 629 ; N uni0185 ; B -45 -14 574 760 ;
+C -1 ; WX 716 ; N uni0186 ; B 0 -14 671 742 ;
+C -1 ; WX 716 ; N uni0187 ; B 29 -14 887 840 ;
+C -1 ; WX 548 ; N uni0188 ; B 21 -14 715 709 ;
+C -1 ; WX 787 ; N uni0189 ; B -16 0 749 729 ;
+C -1 ; WX 780 ; N uni018A ; B -86 0 743 729 ;
+C -1 ; WX 769 ; N uni018B ; B 15 0 783 729 ;
+C -1 ; WX 629 ; N uni018C ; B 0 -14 661 760 ;
+C -1 ; WX 600 ; N uni018D ; B 35 -246 585 533 ;
+C -1 ; WX 686 ; N uni018E ; B -22 0 704 729 ;
+C -1 ; WX 784 ; N uni018F ; B 38 -14 746 742 ;
+C -1 ; WX 649 ; N uni0190 ; B 72 -14 697 742 ;
+C -1 ; WX 639 ; N uni0191 ; B -154 -208 709 729 ;
+C -1 ; WX 769 ; N uni0193 ; B 29 -14 910 840 ;
+C -1 ; WX 693 ; N uni0194 ; B 67 -92 765 729 ;
+C -1 ; WX 938 ; N uni0195 ; B 31 -1 881 760 ;
+C -1 ; WX 421 ; N uni0196 ; B 91 0 444 729 ;
+C -1 ; WX 421 ; N uni0197 ; B -22 0 444 729 ;
+C -1 ; WX 782 ; N uni0198 ; B -22 0 875 729 ;
+C -1 ; WX 624 ; N uni0199 ; B 31 0 583 760 ;
+C -1 ; WX 342 ; N uni019A ; B 5 0 319 760 ;
+C -1 ; WX 631 ; N uni019B ; B -33 0 540 739 ;
+C -1 ; WX 952 ; N uni019C ; B 68 -14 997 729 ;
+C -1 ; WX 822 ; N uni019D ; B -156 -208 869 729 ;
+C -1 ; WX 654 ; N uni019E ; B 68 -208 597 533 ;
+C -1 ; WX 784 ; N uni019F ; B 38 -14 746 742 ;
+C -1 ; WX 784 ; N Ohorn ; B 37 -14 844 760 ;
+C -1 ; WX 600 ; N ohorn ; B 31 -14 680 548 ;
+C -1 ; WX 1080 ; N uni01A2 ; B 51 -171 992 742 ;
+C -1 ; WX 849 ; N uni01A3 ; B 54 -208 790 533 ;
+C -1 ; WX 677 ; N uni01A4 ; B -86 0 681 729 ;
+C -1 ; WX 629 ; N uni01A5 ; B 7 -208 595 709 ;
+C -1 ; WX 748 ; N uni01A6 ; B -11 -142 688 729 ;
+C -1 ; WX 650 ; N uni01A7 ; B 32 -14 622 742 ;
+C -1 ; WX 506 ; N uni01A8 ; B 21 -14 489 533 ;
+C -1 ; WX 636 ; N uni01A9 ; B -27 0 640 729 ;
+C -1 ; WX 298 ; N uni01AA ; B -47 -223 414 760 ;
+C -1 ; WX 416 ; N uni01AB ; B 57 -222 465 680 ;
+C -1 ; WX 669 ; N uni01AC ; B 38 0 725 729 ;
+C -1 ; WX 416 ; N uni01AD ; B 37 -14 473 760 ;
+C -1 ; WX 669 ; N uni01AE ; B 60 -208 743 729 ;
+C -1 ; WX 785 ; N Uhorn ; B 88 -14 1015 816 ;
+C -1 ; WX 654 ; N uhorn ; B 59 -14 734 548 ;
+C -1 ; WX 801 ; N uni01B1 ; B 35 0 821 742 ;
+C -1 ; WX 801 ; N uni01B2 ; B 120 0 757 729 ;
+C -1 ; WX 642 ; N uni01B3 ; B 45 0 796 730 ;
+C -1 ; WX 628 ; N uni01B4 ; B -19 -222 701 533 ;
+C -1 ; WX 657 ; N uni01B5 ; B -31 0 684 729 ;
+C -1 ; WX 511 ; N uni01B6 ; B -14 -41 526 560 ;
+C -1 ; WX 591 ; N uni01B7 ; B -27 -14 546 729 ;
+C -1 ; WX 591 ; N uni01B8 ; B 3 -14 583 729 ;
+C -1 ; WX 591 ; N uni01B9 ; B 5 -203 586 519 ;
+C -1 ; WX 591 ; N uni01BA ; B -2 -220 545 519 ;
+C -1 ; WX 626 ; N uni01BB ; B -5 0 581 742 ;
+C -1 ; WX 678 ; N uni01BC ; B 57 -14 692 729 ;
+C -1 ; WX 511 ; N uni01BD ; B -25 -203 579 519 ;
+C -1 ; WX 482 ; N uni01BE ; B -34 -15 341 680 ;
+C -1 ; WX 644 ; N uni01BF ; B 20 -208 649 560 ;
+C -1 ; WX 265 ; N uni01C0 ; B 21 0 244 729 ;
+C -1 ; WX 443 ; N uni01C1 ; B 21 0 421 729 ;
+C -1 ; WX 413 ; N uni01C2 ; B -15 0 428 729 ;
+C -1 ; WX 265 ; N uni01C3 ; B 21 0 244 729 ;
+C -1 ; WX 1437 ; N uni01C4 ; B -22 0 1464 927 ;
+C -1 ; WX 1292 ; N uni01C5 ; B -22 -41 1307 800 ;
+C -1 ; WX 1140 ; N uni01C6 ; B 9 -41 1156 800 ;
+C -1 ; WX 1059 ; N uni01C7 ; B -22 -208 1106 729 ;
+C -1 ; WX 958 ; N uni01C8 ; B -22 -222 951 760 ;
+C -1 ; WX 667 ; N uni01C9 ; B 30 -222 660 760 ;
+C -1 ; WX 1248 ; N uni01CA ; B -24 -208 1296 729 ;
+C -1 ; WX 1148 ; N uni01CB ; B -24 -222 1141 760 ;
+C -1 ; WX 980 ; N uni01CC ; B 50 -222 973 760 ;
+C -1 ; WX 698 ; N uni01CD ; B -71 0 655 927 ;
+C -1 ; WX 583 ; N uni01CE ; B 31 -14 519 800 ;
+C -1 ; WX 421 ; N uni01CF ; B -22 0 473 927 ;
+C -1 ; WX 342 ; N uni01D0 ; B 51 0 406 800 ;
+C -1 ; WX 784 ; N uni01D1 ; B 38 -14 746 927 ;
+C -1 ; WX 600 ; N uni01D2 ; B 30 -14 571 800 ;
+C -1 ; WX 785 ; N uni01D3 ; B 85 -14 831 927 ;
+C -1 ; WX 654 ; N uni01D4 ; B 57 -14 604 800 ;
+C -1 ; WX 785 ; N uni01D5 ; B 85 -14 831 1036 ;
+C -1 ; WX 654 ; N uni01D6 ; B 57 -14 604 899 ;
+C -1 ; WX 785 ; N uni01D7 ; B 85 -14 831 1057 ;
+C -1 ; WX 654 ; N uni01D8 ; B 57 -14 604 920 ;
+C -1 ; WX 785 ; N uni01D9 ; B 85 -14 831 1058 ;
+C -1 ; WX 654 ; N uni01DA ; B 57 -14 604 921 ;
+C -1 ; WX 785 ; N uni01DB ; B 85 -14 831 1057 ;
+C -1 ; WX 654 ; N uni01DC ; B 57 -14 604 920 ;
+C -1 ; WX 572 ; N uni01DD ; B 41 -14 532 533 ;
+C -1 ; WX 698 ; N uni01DE ; B -71 0 655 1036 ;
+C -1 ; WX 583 ; N uni01DF ; B 31 -14 519 899 ;
+C -1 ; WX 698 ; N uni01E0 ; B -71 0 655 1036 ;
+C -1 ; WX 583 ; N uni01E1 ; B 31 -14 519 899 ;
+C -1 ; WX 931 ; N uni01E2 ; B -92 0 940 914 ;
+C -1 ; WX 877 ; N uni01E3 ; B 24 -14 800 763 ;
+C -1 ; WX 806 ; N uni01E4 ; B 38 -14 758 742 ;
+C -1 ; WX 629 ; N uni01E5 ; B 20 -222 632 533 ;
+C -1 ; WX 769 ; N Gcaron ; B 19 -17 711 927 ;
+C -1 ; WX 629 ; N gcaron ; B -3 -222 576 800 ;
+C -1 ; WX 782 ; N uni01E8 ; B -37 0 796 927 ;
+C -1 ; WX 624 ; N uni01E9 ; B 15 0 568 927 ;
+C -1 ; WX 784 ; N uni01EA ; B 38 -204 746 742 ;
+C -1 ; WX 600 ; N uni01EB ; B 30 -204 571 533 ;
+C -1 ; WX 784 ; N uni01EC ; B 38 -204 746 914 ;
+C -1 ; WX 600 ; N uni01ED ; B 30 -204 571 763 ;
+C -1 ; WX 591 ; N uni01EE ; B -27 -14 546 927 ;
+C -1 ; WX 511 ; N uni01EF ; B -25 -203 544 800 ;
+C -1 ; WX 325 ; N uni01F0 ; B -128 -222 425 800 ;
+C -1 ; WX 1437 ; N uni01F1 ; B -22 0 1464 729 ;
+C -1 ; WX 1292 ; N uni01F2 ; B -22 -41 1307 729 ;
+C -1 ; WX 1140 ; N uni01F3 ; B 9 -41 1156 760 ;
+C -1 ; WX 769 ; N uni01F4 ; B 21 -14 714 928 ;
+C -1 ; WX 629 ; N uni01F5 ; B -3 -222 576 776 ;
+C -1 ; WX 1099 ; N uni01F6 ; B -21 -14 1097 729 ;
+C -1 ; WX 708 ; N uni01F7 ; B -41 -208 751 742 ;
+C -1 ; WX 822 ; N uni01F8 ; B -40 0 835 927 ;
+C -1 ; WX 654 ; N uni01F9 ; B -40 0 574 800 ;
+C -1 ; WX 698 ; N Aringacute ; B -88 0 638 928 ;
+C -1 ; WX 583 ; N aringacute ; B 31 -14 537 928 ;
+C -1 ; WX 931 ; N AEacute ; B -92 0 940 928 ;
+C -1 ; WX 838 ; N aeacute ; B 24 -14 800 800 ;
+C -1 ; WX 784 ; N Oslashacute ; B -33 -38 816 928 ;
+C -1 ; WX 600 ; N oslashacute ; B -24 -50 625 800 ;
+C -1 ; WX 698 ; N uni0200 ; B -71 0 655 928 ;
+C -1 ; WX 583 ; N uni0201 ; B 30 -14 519 800 ;
+C -1 ; WX 698 ; N uni0202 ; B -71 0 655 958 ;
+C -1 ; WX 583 ; N uni0203 ; B 30 -14 519 776 ;
+C -1 ; WX 686 ; N uni0204 ; B -22 0 696 928 ;
+C -1 ; WX 572 ; N uni0205 ; B 30 -14 534 800 ;
+C -1 ; WX 686 ; N uni0206 ; B -22 0 696 958 ;
+C -1 ; WX 572 ; N uni0207 ; B 30 -14 534 776 ;
+C -1 ; WX 421 ; N uni0208 ; B -22 0 444 928 ;
+C -1 ; WX 342 ; N uni0209 ; B 14 0 330 801 ;
+C -1 ; WX 421 ; N uni020A ; B -22 0 451 958 ;
+C -1 ; WX 342 ; N uni020B ; B 30 0 351 767 ;
+C -1 ; WX 784 ; N uni020C ; B 38 -14 746 928 ;
+C -1 ; WX 600 ; N uni020D ; B 30 -14 570 800 ;
+C -1 ; WX 784 ; N uni020E ; B 38 -14 746 958 ;
+C -1 ; WX 600 ; N uni020F ; B 30 -14 570 776 ;
+C -1 ; WX 748 ; N uni0210 ; B -22 0 700 928 ;
+C -1 ; WX 474 ; N uni0211 ; B 50 0 528 800 ;
+C -1 ; WX 748 ; N uni0212 ; B -22 0 700 958 ;
+C -1 ; WX 474 ; N uni0213 ; B 50 0 528 776 ;
+C -1 ; WX 785 ; N uni0214 ; B 85 -14 831 928 ;
+C -1 ; WX 654 ; N uni0215 ; B 56 -14 604 800 ;
+C -1 ; WX 785 ; N uni0216 ; B 85 -14 831 958 ;
+C -1 ; WX 654 ; N uni0217 ; B 56 -14 604 776 ;
+C -1 ; WX 650 ; N Scommaaccent ; B 12 -230 613 742 ;
+C -1 ; WX 506 ; N scommaaccent ; B 0 -230 488 533 ;
+C -1 ; WX 669 ; N uni021A ; B 42 -230 725 729 ;
+C -1 ; WX 416 ; N uni021B ; B 43 -230 407 680 ;
+C -1 ; WX 621 ; N uni021C ; B -23 -210 589 742 ;
+C -1 ; WX 546 ; N uni021D ; B -21 -211 514 531 ;
+C -1 ; WX 850 ; N uni021E ; B -22 0 874 927 ;
+C -1 ; WX 654 ; N uni021F ; B 30 0 577 927 ;
+C -1 ; WX 785 ; N uni0220 ; B 31 -208 772 743 ;
+C -1 ; WX 711 ; N uni0221 ; B 20 -48 650 760 ;
+C -1 ; WX 632 ; N uni0222 ; B 4 -14 555 742 ;
+C -1 ; WX 554 ; N uni0223 ; B 12 -14 506 760 ;
+C -1 ; WX 657 ; N uni0224 ; B -8 -263 707 729 ;
+C -1 ; WX 511 ; N uni0225 ; B 9 -263 549 519 ;
+C -1 ; WX 698 ; N uni0226 ; B -71 0 655 939 ;
+C -1 ; WX 583 ; N uni0227 ; B 30 -14 519 788 ;
+C -1 ; WX 686 ; N uni0228 ; B -22 -196 696 729 ;
+C -1 ; WX 572 ; N uni0229 ; B 30 -196 534 533 ;
+C -1 ; WX 784 ; N uni022A ; B 38 -14 746 1036 ;
+C -1 ; WX 600 ; N uni022B ; B 30 -14 571 899 ;
+C -1 ; WX 784 ; N uni022C ; B 38 -14 746 1036 ;
+C -1 ; WX 600 ; N uni022D ; B 30 -14 571 894 ;
+C -1 ; WX 784 ; N uni022E ; B 38 -14 746 939 ;
+C -1 ; WX 600 ; N uni022F ; B 30 -14 571 788 ;
+C -1 ; WX 784 ; N uni0230 ; B 38 -14 746 1036 ;
+C -1 ; WX 600 ; N uni0231 ; B 30 -14 571 899 ;
+C -1 ; WX 642 ; N uni0232 ; B 45 0 715 914 ;
+C -1 ; WX 523 ; N uni0233 ; B -18 -222 574 763 ;
+C -1 ; WX 516 ; N uni0234 ; B 74 -113 458 760 ;
+C -1 ; WX 830 ; N uni0235 ; B 60 -113 792 533 ;
+C -1 ; WX 508 ; N uni0236 ; B 52 -113 458 680 ;
+C -1 ; WX 325 ; N dotlessj ; B -128 -222 317 519 ;
+C -1 ; WX 928 ; N uni0238 ; B 17 -14 873 760 ;
+C -1 ; WX 928 ; N uni0239 ; B 53 -208 908 533 ;
+C -1 ; WX 698 ; N uni023A ; B -75 -38 774 766 ;
+C -1 ; WX 716 ; N uni023B ; B -66 -38 783 766 ;
+C -1 ; WX 548 ; N uni023C ; B -51 -50 599 567 ;
+C -1 ; WX 633 ; N uni023D ; B -22 0 581 729 ;
+C -1 ; WX 669 ; N uni023E ; B -89 -38 760 766 ;
+C -1 ; WX 506 ; N uni023F ; B 17 -217 506 533 ;
+C -1 ; WX 511 ; N uni0240 ; B 5 -222 546 519 ;
+C -1 ; WX 594 ; N uni0241 ; B -1 0 599 729 ;
+C -1 ; WX 492 ; N uni0242 ; B 66 0 479 533 ;
+C -1 ; WX 760 ; N uni0243 ; B -22 0 704 729 ;
+C -1 ; WX 785 ; N uni0244 ; B 24 -14 831 729 ;
+C -1 ; WX 698 ; N uni0245 ; B -71 0 655 729 ;
+C -1 ; WX 686 ; N uni0246 ; B -22 -57 696 785 ;
+C -1 ; WX 572 ; N uni0247 ; B 30 -56 534 581 ;
+C -1 ; WX 426 ; N uni0248 ; B -142 -208 474 729 ;
+C -1 ; WX 348 ; N uni0249 ; B -128 -222 345 760 ;
+C -1 ; WX 763 ; N uni024A ; B 55 -208 808 742 ;
+C -1 ; WX 629 ; N uni024B ; B 47 -222 660 533 ;
+C -1 ; WX 748 ; N uni024C ; B -22 0 700 729 ;
+C -1 ; WX 474 ; N uni024D ; B 20 0 529 533 ;
+C -1 ; WX 642 ; N uni024E ; B 18 0 715 729 ;
+C -1 ; WX 523 ; N uni024F ; B -18 -222 593 519 ;
+C -1 ; WX 583 ; N uni0250 ; B 64 -14 552 533 ;
+C -1 ; WX 692 ; N uni0251 ; B 37 -14 672 532 ;
+C -1 ; WX 692 ; N uni0252 ; B 21 -14 656 531 ;
+C -1 ; WX 629 ; N uni0253 ; B 22 -14 574 760 ;
+C -1 ; WX 548 ; N uni0254 ; B 11 -14 508 533 ;
+C -1 ; WX 548 ; N uni0255 ; B 42 -113 540 527 ;
+C -1 ; WX 629 ; N uni0256 ; B 35 -222 641 760 ;
+C -1 ; WX 657 ; N uni0257 ; B 17 -14 770 760 ;
+C -1 ; WX 572 ; N uni0258 ; B 30 -14 532 533 ;
+C -1 ; WX 572 ; N uni0259 ; B 41 -14 532 533 ;
+C -1 ; WX 816 ; N uni025A ; B 36 -14 829 533 ;
+C -1 ; WX 547 ; N uni025B ; B 22 -12 529 526 ;
+C -1 ; WX 505 ; N uni025C ; B -5 -12 492 526 ;
+C -1 ; WX 816 ; N uni025D ; B -5 -12 829 526 ;
+C -1 ; WX 647 ; N uni025E ; B 37 -18 630 533 ;
+C -1 ; WX 348 ; N uni025F ; B -128 -222 345 519 ;
+C -1 ; WX 629 ; N uni0260 ; B 0 -222 788 760 ;
+C -1 ; WX 629 ; N uni0261 ; B 21 -222 673 519 ;
+C -1 ; WX 563 ; N uni0262 ; B 56 -4 536 520 ;
+C -1 ; WX 641 ; N uni0263 ; B 107 -219 615 519 ;
+C -1 ; WX 564 ; N uni0264 ; B 64 -37 585 520 ;
+C -1 ; WX 654 ; N uni0265 ; B 74 -208 621 519 ;
+C -1 ; WX 654 ; N uni0266 ; B 31 0 578 760 ;
+C -1 ; WX 654 ; N uni0267 ; B 50 -222 578 760 ;
+C -1 ; WX 342 ; N uni0268 ; B 5 0 304 760 ;
+C -1 ; WX 342 ; N uni0269 ; B 67 0 298 519 ;
+C -1 ; WX 342 ; N uni026A ; B -15 0 365 519 ;
+C -1 ; WX 368 ; N uni026B ; B 21 0 363 760 ;
+C -1 ; WX 462 ; N uni026C ; B 33 0 439 760 ;
+C -1 ; WX 342 ; N uni026D ; B 40 -222 353 760 ;
+C -1 ; WX 716 ; N uni026E ; B 48 -203 728 760 ;
+C -1 ; WX 952 ; N uni026F ; B 57 -14 902 519 ;
+C -1 ; WX 952 ; N uni0270 ; B 74 -208 919 519 ;
+C -1 ; WX 952 ; N uni0271 ; B 70 -222 896 533 ;
+C -1 ; WX 654 ; N uni0272 ; B -129 -222 617 533 ;
+C -1 ; WX 654 ; N uni0273 ; B 70 -222 686 533 ;
+C -1 ; WX 641 ; N uni0274 ; B 11 0 636 519 ;
+C -1 ; WX 600 ; N uni0275 ; B 37 -14 564 533 ;
+C -1 ; WX 955 ; N uni0276 ; B 56 0 942 521 ;
+C -1 ; WX 674 ; N uni0277 ; B 26 -14 626 530 ;
+C -1 ; WX 600 ; N uni0278 ; B -5 -213 602 760 ;
+C -1 ; WX 514 ; N uni0279 ; B -20 -14 459 519 ;
+C -1 ; WX 514 ; N uni027A ; B -41 -14 480 760 ;
+C -1 ; WX 514 ; N uni027B ; B -1 -222 534 519 ;
+C -1 ; WX 474 ; N uni027C ; B 32 -207 547 533 ;
+C -1 ; WX 474 ; N uni027D ; B 59 -222 548 533 ;
+C -1 ; WX 406 ; N uni027E ; B 50 0 459 533 ;
+C -1 ; WX 438 ; N uni027F ; B 55 0 368 533 ;
+C -1 ; WX 721 ; N uni0280 ; B 11 0 635 519 ;
+C -1 ; WX 721 ; N uni0281 ; B 11 0 716 519 ;
+C -1 ; WX 506 ; N uni0282 ; B 4 -222 506 533 ;
+C -1 ; WX 298 ; N uni0283 ; B -150 -223 429 760 ;
+C -1 ; WX 387 ; N uni0284 ; B -149 -222 519 760 ;
+C -1 ; WX 486 ; N uni0285 ; B 80 -222 410 527 ;
+C -1 ; WX 298 ; N uni0286 ; B -125 -223 429 760 ;
+C -1 ; WX 443 ; N uni0287 ; B 35 -161 398 533 ;
+C -1 ; WX 416 ; N uni0288 ; B 38 -222 425 680 ;
+C -1 ; WX 654 ; N uni0289 ; B 27 -14 626 519 ;
+C -1 ; WX 611 ; N uni028A ; B 34 -3 579 535 ;
+C -1 ; WX 624 ; N uni028B ; B 66 -1 588 519 ;
+C -1 ; WX 523 ; N uni028C ; B 19 0 530 520 ;
+C -1 ; WX 774 ; N uni028D ; B 27 0 801 519 ;
+C -1 ; WX 571 ; N uni028E ; B 1 0 593 741 ;
+C -1 ; WX 654 ; N uni028F ; B 91 0 649 520 ;
+C -1 ; WX 511 ; N uni0290 ; B 5 -222 603 519 ;
+C -1 ; WX 511 ; N uni0291 ; B -6 -89 534 519 ;
+C -1 ; WX 511 ; N uni0292 ; B -25 -203 544 519 ;
+C -1 ; WX 511 ; N uni0293 ; B 57 -203 544 519 ;
+C -1 ; WX 482 ; N uni0294 ; B 47 0 461 761 ;
+C -1 ; WX 482 ; N uni0295 ; B 72 0 490 761 ;
+C -1 ; WX 482 ; N uni0296 ; B 51 0 469 761 ;
+C -1 ; WX 490 ; N uni0297 ; B 60 -223 509 761 ;
+C -1 ; WX 784 ; N uni0298 ; B 38 -14 746 742 ;
+C -1 ; WX 625 ; N uni0299 ; B -15 0 580 519 ;
+C -1 ; WX 647 ; N uni029A ; B 14 -18 607 533 ;
+C -1 ; WX 563 ; N uni029B ; B 35 -4 724 760 ;
+C -1 ; WX 659 ; N uni029C ; B -15 0 674 519 ;
+C -1 ; WX 345 ; N uni029D ; B -107 -223 338 760 ;
+C -1 ; WX 666 ; N uni029E ; B 90 -208 643 519 ;
+C -1 ; WX 555 ; N uni029F ; B 11 0 517 519 ;
+C -1 ; WX 629 ; N uni02A0 ; B 34 -208 786 760 ;
+C -1 ; WX 482 ; N uni02A1 ; B 47 0 461 761 ;
+C -1 ; WX 482 ; N uni02A2 ; B 72 0 490 761 ;
+C -1 ; WX 1005 ; N uni02A3 ; B 17 -41 1017 760 ;
+C -1 ; WX 1061 ; N uni02A4 ; B 34 -203 1017 760 ;
+C -1 ; WX 1005 ; N uni02A5 ; B 23 -89 1007 760 ;
+C -1 ; WX 819 ; N uni02A6 ; B 43 -14 795 680 ;
+C -1 ; WX 643 ; N uni02A7 ; B 55 -223 775 760 ;
+C -1 ; WX 817 ; N uni02A8 ; B 52 -113 811 680 ;
+C -1 ; WX 935 ; N uni02A9 ; B -50 -222 916 760 ;
+C -1 ; WX 711 ; N uni02AA ; B 32 -14 679 760 ;
+C -1 ; WX 716 ; N uni02AB ; B 31 -41 726 760 ;
+C -1 ; WX 596 ; N uni02AC ; B 30 0 615 625 ;
+C -1 ; WX 398 ; N uni02AD ; B -5 120 406 625 ;
+C -1 ; WX 552 ; N uni02AE ; B -14 -208 600 760 ;
+C -1 ; WX 646 ; N uni02AF ; B -13 -222 657 760 ;
+C -1 ; WX 469 ; N uni02B0 ; B 47 326 402 751 ;
+C -1 ; WX 466 ; N uni02B1 ; B 45 329 400 754 ;
+C -1 ; WX 282 ; N uni02B2 ; B -7 202 282 752 ;
+C -1 ; WX 372 ; N uni02B3 ; B 58 334 363 632 ;
+C -1 ; WX 372 ; N uni02B4 ; B 14 321 318 620 ;
+C -1 ; WX 432 ; N uni02B5 ; B 24 202 374 617 ;
+C -1 ; WX 474 ; N uni02B6 ; B 14 326 464 617 ;
+C -1 ; WX 488 ; N uni02B7 ; B 17 334 505 620 ;
+C -1 ; WX 329 ; N uni02B8 ; B -11 212 361 620 ;
+C -1 ; WX 271 ; N uni02B9 ; B 49 557 217 800 ;
+C -1 ; WX 313 ; N uni02BB ; B 37 456 275 742 ;
+C -1 ; WX 313 ; N uni02BC ; B 37 456 275 742 ;
+C -1 ; WX 313 ; N uni02BD ; B 87 456 248 742 ;
+C -1 ; WX 330 ; N uni02BE ; B 138 481 288 760 ;
+C -1 ; WX 330 ; N uni02BF ; B 143 481 293 760 ;
+C -1 ; WX 282 ; N uni02C0 ; B 4 327 264 752 ;
+C -1 ; WX 282 ; N uni02C1 ; B 20 327 280 752 ;
+C -1 ; WX 450 ; N caron ; B 136 616 468 800 ;
+C -1 ; WX 254 ; N uni02C8 ; B 64 513 190 759 ;
+C -1 ; WX 450 ; N uni02C9 ; B 140 664 433 756 ;
+C -1 ; WX 254 ; N uni02CC ; B 64 -90 190 156 ;
+C -1 ; WX 450 ; N uni02CD ; B -9 -189 284 -97 ;
+C -1 ; WX 332 ; N uni02D0 ; B 60 0 272 434 ;
+C -1 ; WX 332 ; N uni02D1 ; B 109 303 246 434 ;
+C -1 ; WX 330 ; N uni02D2 ; B 100 269 250 547 ;
+C -1 ; WX 330 ; N uni02D3 ; B 106 269 256 547 ;
+C -1 ; WX 353 ; N uni02D6 ; B 41 165 278 411 ;
+C -1 ; WX 450 ; N breve ; B 153 624 454 776 ;
+C -1 ; WX 450 ; N dotaccent ; B 229 645 358 788 ;
+C -1 ; WX 450 ; N ring ; B 170 610 421 888 ;
+C -1 ; WX 450 ; N ogonek ; B 137 -196 327 0 ;
+C -1 ; WX 450 ; N hungarumlaut ; B 131 616 511 800 ;
+C -1 ; WX 375 ; N uni02DE ; B -17 299 364 500 ;
+C -1 ; WX 403 ; N uni02E0 ; B 67 214 387 620 ;
+C -1 ; WX 263 ; N uni02E1 ; B 45 326 221 751 ;
+C -1 ; WX 355 ; N uni02E2 ; B 18 327 328 633 ;
+C -1 ; WX 338 ; N uni02E3 ; B -11 334 343 620 ;
+C -1 ; WX 282 ; N uni02E4 ; B 20 327 280 752 ;
+C -1 ; WX 450 ; N uni02E5 ; B 131 0 424 693 ;
+C -1 ; WX 450 ; N uni02E6 ; B 105 0 424 693 ;
+C -1 ; WX 450 ; N uni02E7 ; B 79 0 424 693 ;
+C -1 ; WX 450 ; N uni02E8 ; B 52 0 424 693 ;
+C -1 ; WX 450 ; N uni02E9 ; B 26 0 424 693 ;
+C -1 ; WX 498 ; N uni02EE ; B 48 456 471 742 ;
+C -1 ; WX 0 ; N gravecomb ; B -365 616 -161 800 ;
+C -1 ; WX 0 ; N acutecomb ; B -276 616 -7 800 ;
+C -1 ; WX 0 ; N uni0302 ; B -386 616 -54 800 ;
+C -1 ; WX 0 ; N tildecomb ; B -360 638 -19 792 ;
+C -1 ; WX 0 ; N uni0304 ; B -340 664 -47 756 ;
+C -1 ; WX 0 ; N uni0305 ; B -450 663 0 755 ;
+C -1 ; WX 0 ; N uni0306 ; B -328 624 -26 776 ;
+C -1 ; WX 0 ; N uni0307 ; B -251 645 -122 788 ;
+C -1 ; WX 0 ; N uni0308 ; B -333 645 -7 788 ;
+C -1 ; WX 0 ; N hookabovecomb ; B -397 616 -195 866 ;
+C -1 ; WX 0 ; N uni030A ; B -311 610 -60 888 ;
+C -1 ; WX 0 ; N uni030B ; B -350 616 31 800 ;
+C -1 ; WX 0 ; N uni030C ; B -344 616 -13 800 ;
+C -1 ; WX 0 ; N uni030D ; B -376 616 -258 813 ;
+C -1 ; WX 0 ; N uni030E ; B -458 616 -176 813 ;
+C -1 ; WX 0 ; N uni030F ; B -379 616 -63 800 ;
+C -1 ; WX 0 ; N uni0310 ; B -389 624 -88 903 ;
+C -1 ; WX 0 ; N uni0311 ; B -330 624 -28 776 ;
+C -1 ; WX 0 ; N uni0312 ; B -268 456 -84 617 ;
+C -1 ; WX 0 ; N uni0313 ; B -254 606 -113 847 ;
+C -1 ; WX 0 ; N uni0314 ; B -250 606 -111 847 ;
+C -1 ; WX 0 ; N uni0315 ; B -93 616 93 800 ;
+C -1 ; WX 0 ; N uni0316 ; B -373 -253 -168 -69 ;
+C -1 ; WX 0 ; N uni0317 ; B -315 -251 -46 -67 ;
+C -1 ; WX 0 ; N uni0318 ; B -303 -357 -121 -111 ;
+C -1 ; WX 0 ; N uni0319 ; B -330 -357 -147 -111 ;
+C -1 ; WX 0 ; N uni031A ; B -174 684 63 930 ;
+C -1 ; WX 0 ; N uni031B ; B -114 338 79 548 ;
+C -1 ; WX 0 ; N uni031C ; B -288 -389 -138 -111 ;
+C -1 ; WX 0 ; N uni031D ; B -349 -280 -111 -111 ;
+C -1 ; WX 0 ; N uni031E ; B -338 -280 -100 -111 ;
+C -1 ; WX 0 ; N uni031F ; B -342 -357 -104 -111 ;
+C -1 ; WX 0 ; N uni0320 ; B -344 -203 -106 -111 ;
+C -1 ; WX 0 ; N uni0321 ; B -493 -222 -114 139 ;
+C -1 ; WX 0 ; N uni0322 ; B -367 -222 -53 139 ;
+C -1 ; WX 0 ; N dotbelowcomb ; B -358 -213 -229 -70 ;
+C -1 ; WX 0 ; N uni0324 ; B -391 -213 -64 -70 ;
+C -1 ; WX 0 ; N uni0325 ; B -330 -240 -123 -11 ;
+C -1 ; WX 0 ; N uni0326 ; B -318 -230 -135 -69 ;
+C -1 ; WX 0 ; N uni0327 ; B -350 -196 -138 0 ;
+C -1 ; WX 0 ; N uni0328 ; B -313 -196 -123 0 ;
+C -1 ; WX 0 ; N uni0329 ; B -280 -266 -163 -69 ;
+C -1 ; WX 0 ; N uni032A ; B -380 -253 -70 -69 ;
+C -1 ; WX 0 ; N uni032B ; B -370 -221 -53 -69 ;
+C -1 ; WX 0 ; N uni032C ; B -375 -251 -43 -67 ;
+C -1 ; WX 0 ; N uni032D ; B -407 -253 -75 -69 ;
+C -1 ; WX 0 ; N uni032E ; B -362 -221 -62 -69 ;
+C -1 ; WX 0 ; N uni032F ; B -389 -221 -88 -69 ;
+C -1 ; WX 0 ; N uni0330 ; B -398 -222 -57 -68 ;
+C -1 ; WX 0 ; N uni0331 ; B -372 -161 -79 -69 ;
+C -1 ; WX 0 ; N uni0332 ; B -450 -236 0 -143 ;
+C -1 ; WX 0 ; N uni0333 ; B -450 -236 0 -9 ;
+C -1 ; WX 0 ; N uni0334 ; B -686 210 -70 417 ;
+C -1 ; WX 0 ; N uni0335 ; B -315 234 -15 293 ;
+C -1 ; WX 0 ; N uni0336 ; B -630 234 -32 293 ;
+C -1 ; WX 0 ; N uni0337 ; B -629 -50 20 567 ;
+C -1 ; WX 0 ; N uni0338 ; B -815 -38 34 766 ;
+C -1 ; WX 0 ; N uni0339 ; B -297 -378 -147 -100 ;
+C -1 ; WX 0 ; N uni033A ; B -380 -242 -71 -59 ;
+C -1 ; WX 0 ; N uni033B ; B -376 -350 -75 -69 ;
+C -1 ; WX 0 ; N uni033C ; B -397 -221 -80 -69 ;
+C -1 ; WX 0 ; N uni033D ; B -433 581 -199 820 ;
+C -1 ; WX 0 ; N uni033E ; B -280 598 -94 877 ;
+C -1 ; WX 0 ; N uni033F ; B -450 528 0 755 ;
+C -1 ; WX 0 ; N uni0343 ; B -254 606 -113 847 ;
+C -1 ; WX 0 ; N uni034F ; B 12 645 141 788 ;
+C -1 ; WX 0 ; N uni0358 ; B 12 645 141 788 ;
+C -1 ; WX 0 ; N uni0361 ; B -278 729 523 902 ;
+C -1 ; WX 701 ; N uni0370 ; B -22 0 688 729 ;
+C -1 ; WX 519 ; N uni0371 ; B 52 0 497 519 ;
+C -1 ; WX 722 ; N uni0372 ; B 16 0 762 729 ;
+C -1 ; WX 699 ; N uni0373 ; B 31 0 703 519 ;
+C -1 ; WX 271 ; N uni0374 ; B 49 557 217 800 ;
+C -1 ; WX 271 ; N uni0375 ; B 30 -208 199 35 ;
+C -1 ; WX 866 ; N uni0376 ; B 60 0 811 729 ;
+C -1 ; WX 664 ; N uni0377 ; B 45 0 612 519 ;
+C -1 ; WX 450 ; N uni037A ; B 184 -208 309 -60 ;
+C -1 ; WX 548 ; N uni037B ; B 20 -14 514 533 ;
+C -1 ; WX 548 ; N uni037C ; B 30 -14 533 533 ;
+C -1 ; WX 548 ; N uni037D ; B 20 -14 514 533 ;
+C -1 ; WX 332 ; N uni037E ; B -22 -161 290 490 ;
+C -1 ; WX 450 ; N tonos ; B 204 616 473 800 ;
+C -1 ; WX 450 ; N dieresistonos ; B 147 645 545 996 ;
+C -1 ; WX 698 ; N Alphatonos ; B -71 0 655 800 ;
+C -1 ; WX 313 ; N anoteleia ; B 73 255 241 440 ;
+C -1 ; WX 852 ; N Epsilontonos ; B 38 0 859 800 ;
+C -1 ; WX 1022 ; N Etatonos ; B 38 0 1040 800 ;
+C -1 ; WX 595 ; N Iotatonos ; B 38 0 610 800 ;
+C -1 ; WX 798 ; N Omicrontonos ; B 38 -14 760 800 ;
+C -1 ; WX 857 ; N Upsilontonos ; B 38 0 928 800 ;
+C -1 ; WX 820 ; N Omegatonos ; B 1 0 787 800 ;
+C -1 ; WX 435 ; N iotadieresistonos ; B 66 16 491 996 ;
+C -1 ; WX 698 ; N Alpha ; B -71 0 655 729 ;
+C -1 ; WX 760 ; N Beta ; B -22 0 704 729 ;
+C -1 ; WX 639 ; N Gamma ; B -22 0 691 729 ;
+C -1 ; WX 698 ; N uni0394 ; B -38 0 604 729 ;
+C -1 ; WX 686 ; N Epsilon ; B -22 0 696 729 ;
+C -1 ; WX 657 ; N Zeta ; B -31 0 684 729 ;
+C -1 ; WX 850 ; N Eta ; B -22 0 874 729 ;
+C -1 ; WX 784 ; N Theta ; B 38 -14 746 742 ;
+C -1 ; WX 421 ; N Iota ; B -22 0 444 729 ;
+C -1 ; WX 782 ; N Kappa ; B -22 0 812 729 ;
+C -1 ; WX 698 ; N Lambda ; B -71 0 655 729 ;
+C -1 ; WX 996 ; N Mu ; B -26 0 1018 729 ;
+C -1 ; WX 822 ; N Nu ; B -24 0 851 729 ;
+C -1 ; WX 633 ; N Xi ; B -14 0 642 729 ;
+C -1 ; WX 784 ; N Omicron ; B 38 -14 746 742 ;
+C -1 ; WX 850 ; N Pi ; B -22 0 874 729 ;
+C -1 ; WX 677 ; N Rho ; B -22 0 681 729 ;
+C -1 ; WX 636 ; N Sigma ; B -27 0 640 729 ;
+C -1 ; WX 669 ; N Tau ; B 42 0 725 729 ;
+C -1 ; WX 642 ; N Upsilon ; B 45 0 715 729 ;
+C -1 ; WX 784 ; N Phi ; B 38 0 745 729 ;
+C -1 ; WX 698 ; N Chi ; B -48 0 727 729 ;
+C -1 ; WX 822 ; N Psi ; B 60 0 880 729 ;
+C -1 ; WX 801 ; N Omega ; B -21 0 766 742 ;
+C -1 ; WX 421 ; N Iotadieresis ; B -22 0 457 939 ;
+C -1 ; WX 642 ; N Upsilondieresis ; B 45 0 715 939 ;
+C -1 ; WX 692 ; N alphatonos ; B 37 -14 672 800 ;
+C -1 ; WX 547 ; N epsilontonos ; B 22 -12 545 800 ;
+C -1 ; WX 654 ; N etatonos ; B 68 -208 596 800 ;
+C -1 ; WX 435 ; N iotatonos ; B 66 16 430 800 ;
+C -1 ; WX 624 ; N upsilondieresistonos ; B 66 -1 631 996 ;
+C -1 ; WX 692 ; N alpha ; B 37 -14 672 532 ;
+C -1 ; WX 598 ; N beta ; B -29 -208 569 769 ;
+C -1 ; WX 594 ; N gamma ; B 76 -209 601 519 ;
+C -1 ; WX 600 ; N delta ; B 17 -14 566 765 ;
+C -1 ; WX 547 ; N epsilon ; B 22 -12 529 526 ;
+C -1 ; WX 533 ; N zeta ; B 34 -208 573 760 ;
+C -1 ; WX 654 ; N eta ; B 68 -208 596 533 ;
+C -1 ; WX 600 ; N theta ; B 37 -17 564 771 ;
+C -1 ; WX 435 ; N iota ; B 66 16 371 519 ;
+C -1 ; WX 674 ; N kappa ; B -15 0 644 519 ;
+C -1 ; WX 631 ; N lambda ; B -33 0 540 739 ;
+C -1 ; WX 659 ; N uni03BC ; B 28 -208 625 519 ;
+C -1 ; WX 624 ; N nu ; B 51 0 604 519 ;
+C -1 ; WX 533 ; N xi ; B 24 -208 573 760 ;
+C -1 ; WX 600 ; N omicron ; B 30 -14 571 533 ;
+C -1 ; WX 659 ; N pi ; B -15 0 674 519 ;
+C -1 ; WX 598 ; N rho ; B -8 -208 580 533 ;
+C -1 ; WX 548 ; N sigma1 ; B 54 -208 550 533 ;
+C -1 ; WX 664 ; N sigma ; B 38 -14 664 519 ;
+C -1 ; WX 605 ; N tau ; B 52 16 606 519 ;
+C -1 ; WX 624 ; N upsilon ; B 66 -1 592 519 ;
+C -1 ; WX 814 ; N phi ; B 62 -208 792 519 ;
+C -1 ; WX 592 ; N chi ; B -53 -222 636 533 ;
+C -1 ; WX 847 ; N psi ; B 97 -208 872 519 ;
+C -1 ; WX 857 ; N omega ; B 38 -1 822 519 ;
+C -1 ; WX 435 ; N iotadieresis ; B 66 16 423 788 ;
+C -1 ; WX 624 ; N upsilondieresis ; B 66 -1 592 788 ;
+C -1 ; WX 600 ; N omicrontonos ; B 30 -14 571 800 ;
+C -1 ; WX 624 ; N upsilontonos ; B 66 -1 592 800 ;
+C -1 ; WX 857 ; N omegatonos ; B 38 -1 822 800 ;
+C -1 ; WX 782 ; N uni03CF ; B 0 -240 833 729 ;
+C -1 ; WX 600 ; N uni03D0 ; B 37 -17 545 771 ;
+C -1 ; WX 764 ; N theta1 ; B 45 -17 733 771 ;
+C -1 ; WX 687 ; N Upsilon1 ; B 80 0 697 729 ;
+C -1 ; WX 872 ; N uni03D3 ; B 38 0 881 800 ;
+C -1 ; WX 687 ; N uni03D4 ; B 80 0 697 939 ;
+C -1 ; WX 847 ; N phi1 ; B 34 -208 806 760 ;
+C -1 ; WX 857 ; N omega1 ; B 38 -1 876 519 ;
+C -1 ; WX 589 ; N uni03D7 ; B 26 -222 600 521 ;
+C -1 ; WX 784 ; N uni03D8 ; B 54 -207 762 742 ;
+C -1 ; WX 600 ; N uni03D9 ; B 54 -207 582 533 ;
+C -1 ; WX 716 ; N uni03DA ; B 55 -208 725 742 ;
+C -1 ; WX 548 ; N uni03DB ; B 46 -208 564 616 ;
+C -1 ; WX 639 ; N uni03DC ; B -22 0 691 729 ;
+C -1 ; WX 475 ; N uni03DD ; B -163 -211 508 742 ;
+C -1 ; WX 531 ; N uni03DE ; B 15 0 517 729 ;
+C -1 ; WX 593 ; N uni03DF ; B 72 0 528 759 ;
+C -1 ; WX 716 ; N uni03E0 ; B 7 -209 675 742 ;
+C -1 ; WX 600 ; N uni03E1 ; B 22 -208 574 533 ;
+C -1 ; WX 589 ; N uni03F0 ; B 8 -5 581 521 ;
+C -1 ; WX 598 ; N uni03F1 ; B 20 -210 580 533 ;
+C -1 ; WX 548 ; N uni03F2 ; B 30 -14 533 533 ;
+C -1 ; WX 325 ; N uni03F3 ; B -149 -222 318 760 ;
+C -1 ; WX 784 ; N uni03F4 ; B 38 -14 746 742 ;
+C -1 ; WX 548 ; N uni03F5 ; B 30 -14 534 533 ;
+C -1 ; WX 548 ; N uni03F6 ; B 20 -14 508 533 ;
+C -1 ; WX 681 ; N uni03F7 ; B -22 0 656 729 ;
+C -1 ; WX 629 ; N uni03F8 ; B 2 -208 598 760 ;
+C -1 ; WX 716 ; N uni03F9 ; B 38 -14 708 742 ;
+C -1 ; WX 996 ; N uni03FA ; B -26 0 1018 729 ;
+C -1 ; WX 774 ; N uni03FB ; B 0 -208 797 519 ;
+C -1 ; WX 623 ; N uni03FC ; B -18 -208 604 533 ;
+C -1 ; WX 716 ; N uni03FD ; B 10 -14 679 742 ;
+C -1 ; WX 716 ; N uni03FE ; B 38 -14 708 742 ;
+C -1 ; WX 716 ; N uni03FF ; B 10 -14 679 742 ;
+C -1 ; WX 686 ; N uni0400 ; B -22 0 696 927 ;
+C -1 ; WX 686 ; N uni0401 ; B -22 0 696 939 ;
+C -1 ; WX 811 ; N uni0402 ; B 9 -214 727 729 ;
+C -1 ; WX 621 ; N uni0403 ; B -22 0 673 927 ;
+C -1 ; WX 716 ; N uni0404 ; B 38 -14 708 742 ;
+C -1 ; WX 650 ; N uni0405 ; B 12 -14 613 742 ;
+C -1 ; WX 421 ; N uni0406 ; B -22 0 444 729 ;
+C -1 ; WX 421 ; N uni0407 ; B -22 0 490 939 ;
+C -1 ; WX 426 ; N uni0408 ; B -142 -208 474 729 ;
+C -1 ; WX 1081 ; N uni0409 ; B -39 -14 1017 729 ;
+C -1 ; WX 1135 ; N uni040A ; B -22 0 1070 729 ;
+C -1 ; WX 866 ; N uni040B ; B -10 0 765 729 ;
+C -1 ; WX 818 ; N uni040C ; B -22 0 830 927 ;
+C -1 ; WX 850 ; N uni040D ; B -22 0 874 927 ;
+C -1 ; WX 730 ; N uni040E ; B 35 -14 786 997 ;
+C -1 ; WX 850 ; N uni040F ; B -8 -157 888 729 ;
+C -1 ; WX 733 ; N uni0410 ; B -55 0 671 729 ;
+C -1 ; WX 769 ; N uni0411 ; B -22 0 743 729 ;
+C -1 ; WX 760 ; N uni0412 ; B -22 0 704 729 ;
+C -1 ; WX 621 ; N uni0413 ; B -22 0 673 729 ;
+C -1 ; WX 800 ; N uni0414 ; B -35 -157 817 729 ;
+C -1 ; WX 686 ; N uni0415 ; B -22 0 696 729 ;
+C -1 ; WX 1181 ; N uni0416 ; B -55 0 1191 729 ;
+C -1 ; WX 649 ; N uni0417 ; B 1 -14 611 742 ;
+C -1 ; WX 850 ; N uni0418 ; B -22 0 874 729 ;
+C -1 ; WX 850 ; N uni0419 ; B -22 0 874 999 ;
+C -1 ; WX 818 ; N uni041A ; B -22 0 830 729 ;
+C -1 ; WX 795 ; N uni041B ; B -39 -14 821 729 ;
+C -1 ; WX 996 ; N uni041C ; B -26 0 1018 729 ;
+C -1 ; WX 850 ; N uni041D ; B -22 0 874 729 ;
+C -1 ; WX 784 ; N uni041E ; B 38 -14 746 742 ;
+C -1 ; WX 850 ; N uni041F ; B -22 0 874 729 ;
+C -1 ; WX 677 ; N uni0420 ; B -22 0 681 729 ;
+C -1 ; WX 716 ; N uni0421 ; B 38 -14 708 742 ;
+C -1 ; WX 669 ; N uni0422 ; B 42 0 725 729 ;
+C -1 ; WX 730 ; N uni0423 ; B 35 -14 786 729 ;
+C -1 ; WX 854 ; N uni0424 ; B 34 0 821 729 ;
+C -1 ; WX 698 ; N uni0425 ; B -48 0 727 729 ;
+C -1 ; WX 870 ; N uni0426 ; B -8 -157 887 729 ;
+C -1 ; WX 822 ; N uni0427 ; B 81 0 839 729 ;
+C -1 ; WX 1141 ; N uni0428 ; B -26 0 1167 729 ;
+C -1 ; WX 1164 ; N uni0429 ; B -13 -157 1181 729 ;
+C -1 ; WX 861 ; N uni042A ; B 37 0 796 729 ;
+C -1 ; WX 1081 ; N uni042B ; B -22 0 1104 729 ;
+C -1 ; WX 743 ; N uni042C ; B -22 0 678 729 ;
+C -1 ; WX 716 ; N uni042D ; B 10 -14 679 742 ;
+C -1 ; WX 1158 ; N uni042E ; B -22 -14 1114 742 ;
+C -1 ; WX 793 ; N uni042F ; B -44 0 817 729 ;
+C -1 ; WX 583 ; N uni0430 ; B 31 -14 519 533 ;
+C -1 ; WX 650 ; N uni0431 ; B 35 -14 625 786 ;
+C -1 ; WX 591 ; N uni0432 ; B 30 -14 550 533 ;
+C -1 ; WX 506 ; N uni0433 ; B 50 -14 498 534 ;
+C -1 ; WX 625 ; N uni0434 ; B 31 -14 597 760 ;
+C -1 ; WX 572 ; N uni0435 ; B 30 -14 534 533 ;
+C -1 ; WX 1175 ; N uni0436 ; B 9 -14 1192 533 ;
+C -1 ; WX 574 ; N uni0437 ; B 21 -14 534 533 ;
+C -1 ; WX 654 ; N uni0438 ; B 57 -14 604 519 ;
+C -1 ; WX 654 ; N uni0439 ; B 57 -14 604 817 ;
+C -1 ; WX 609 ; N uni043A ; B 50 -14 614 533 ;
+C -1 ; WX 659 ; N uni043B ; B 9 -14 608 519 ;
+C -1 ; WX 855 ; N uni043C ; B 9 -14 805 519 ;
+C -1 ; WX 656 ; N uni043D ; B 50 0 606 519 ;
+C -1 ; WX 600 ; N uni043E ; B 30 -14 571 533 ;
+C -1 ; WX 654 ; N uni043F ; B 50 0 598 533 ;
+C -1 ; WX 629 ; N uni0440 ; B 22 -208 618 533 ;
+C -1 ; WX 548 ; N uni0441 ; B 30 -14 533 533 ;
+C -1 ; WX 952 ; N uni0442 ; B 50 0 896 533 ;
+C -1 ; WX 538 ; N uni0443 ; B -18 -222 574 519 ;
+C -1 ; WX 812 ; N uni0444 ; B 27 -208 779 760 ;
+C -1 ; WX 536 ; N uni0445 ; B -17 0 545 519 ;
+C -1 ; WX 723 ; N uni0446 ; B 57 -217 673 519 ;
+C -1 ; WX 643 ; N uni0447 ; B 57 0 593 519 ;
+C -1 ; WX 952 ; N uni0448 ; B 57 -14 902 519 ;
+C -1 ; WX 1021 ; N uni0449 ; B 57 -217 971 519 ;
+C -1 ; WX 654 ; N uni044A ; B 16 -14 622 534 ;
+C -1 ; WX 916 ; N uni044B ; B 57 -14 866 519 ;
+C -1 ; WX 593 ; N uni044C ; B 57 -14 561 519 ;
+C -1 ; WX 580 ; N uni044D ; B 31 -14 551 533 ;
+C -1 ; WX 901 ; N uni044E ; B 50 -14 872 533 ;
+C -1 ; WX 716 ; N uni044F ; B 9 -14 666 519 ;
+C -1 ; WX 572 ; N uni0450 ; B 30 -14 534 800 ;
+C -1 ; WX 572 ; N uni0451 ; B 30 -14 535 788 ;
+C -1 ; WX 646 ; N uni0452 ; B 27 -222 578 760 ;
+C -1 ; WX 506 ; N uni0453 ; B 50 -14 521 800 ;
+C -1 ; WX 548 ; N uni0454 ; B 30 -14 534 533 ;
+C -1 ; WX 506 ; N uni0455 ; B 0 -14 488 533 ;
+C -1 ; WX 342 ; N uni0456 ; B 30 0 303 760 ;
+C -1 ; WX 342 ; N uni0457 ; B 51 0 419 788 ;
+C -1 ; WX 325 ; N uni0458 ; B -149 -222 318 760 ;
+C -1 ; WX 913 ; N uni0459 ; B 9 -14 880 519 ;
+C -1 ; WX 910 ; N uni045A ; B 50 -14 877 519 ;
+C -1 ; WX 654 ; N uni045B ; B 31 0 578 760 ;
+C -1 ; WX 609 ; N uni045C ; B 50 -14 614 800 ;
+C -1 ; WX 654 ; N uni045D ; B 57 -14 604 800 ;
+C -1 ; WX 538 ; N uni045E ; B -18 -222 574 823 ;
+C -1 ; WX 654 ; N uni045F ; B 57 -220 604 519 ;
+C -1 ; WX 792 ; N uni0462 ; B 28 0 728 729 ;
+C -1 ; WX 945 ; N uni0463 ; B 50 -14 912 534 ;
+C -1 ; WX 1076 ; N uni0464 ; B -22 -14 1068 742 ;
+C -1 ; WX 867 ; N uni0465 ; B 68 -14 853 533 ;
+C -1 ; WX 1181 ; N uni046A ; B 9 0 1183 729 ;
+C -1 ; WX 909 ; N uni046B ; B 25 -14 919 519 ;
+C -1 ; WX 986 ; N uni0470 ; B 55 0 1052 729 ;
+C -1 ; WX 995 ; N uni0471 ; B 43 -208 1027 760 ;
+C -1 ; WX 784 ; N uni0472 ; B 38 -14 746 742 ;
+C -1 ; WX 587 ; N uni0473 ; B 31 -14 558 533 ;
+C -1 ; WX 824 ; N uni0474 ; B 61 0 877 742 ;
+C -1 ; WX 673 ; N uni0475 ; B 44 0 707 533 ;
+C -1 ; WX 761 ; N uni048C ; B 26 0 726 729 ;
+C -1 ; WX 606 ; N uni048D ; B 44 -14 570 760 ;
+C -1 ; WX 630 ; N uni0490 ; B -22 0 708 872 ;
+C -1 ; WX 556 ; N uni0491 ; B 52 0 570 668 ;
+C -1 ; WX 621 ; N uni0492 ; B -22 0 673 729 ;
+C -1 ; WX 506 ; N uni0493 ; B 50 -14 498 534 ;
+C -1 ; WX 768 ; N uni0494 ; B -22 -214 691 729 ;
+C -1 ; WX 634 ; N uni0495 ; B -15 -222 562 519 ;
+C -1 ; WX 1181 ; N uni0496 ; B -55 -157 1191 729 ;
+C -1 ; WX 1175 ; N uni0497 ; B 9 -217 1192 533 ;
+C -1 ; WX 649 ; N uni0498 ; B 1 -196 611 742 ;
+C -1 ; WX 574 ; N uni0499 ; B 21 -196 534 533 ;
+C -1 ; WX 812 ; N uni049A ; B -22 -157 830 729 ;
+C -1 ; WX 633 ; N uni049B ; B 50 -217 614 533 ;
+C -1 ; WX 818 ; N uni049E ; B -22 0 830 729 ;
+C -1 ; WX 609 ; N uni049F ; B 50 -14 614 760 ;
+C -1 ; WX 937 ; N uni04A0 ; B 37 0 948 729 ;
+C -1 ; WX 684 ; N uni04A1 ; B 19 -14 688 533 ;
+C -1 ; WX 856 ; N uni04A2 ; B -22 -157 874 729 ;
+C -1 ; WX 725 ; N uni04A3 ; B 50 -217 670 519 ;
+C -1 ; WX 1050 ; N uni04A4 ; B -22 0 1103 729 ;
+C -1 ; WX 859 ; N uni04A5 ; B 50 0 848 519 ;
+C -1 ; WX 1191 ; N uni04A6 ; B -22 -214 1107 729 ;
+C -1 ; WX 911 ; N uni04A7 ; B -15 -222 851 519 ;
+C -1 ; WX 716 ; N uni04AA ; B 38 -196 708 742 ;
+C -1 ; WX 548 ; N uni04AB ; B 30 -196 533 533 ;
+C -1 ; WX 669 ; N uni04AC ; B 42 -157 724 729 ;
+C -1 ; WX 1028 ; N uni04AD ; B 50 -217 973 533 ;
+C -1 ; WX 642 ; N uni04AE ; B 45 0 715 729 ;
+C -1 ; WX 515 ; N uni04AF ; B 42 -208 566 519 ;
+C -1 ; WX 642 ; N uni04B0 ; B 45 0 714 729 ;
+C -1 ; WX 515 ; N uni04B1 ; B 42 -208 566 519 ;
+C -1 ; WX 709 ; N uni04B2 ; B -48 -157 727 729 ;
+C -1 ; WX 536 ; N uni04B3 ; B -17 -217 572 519 ;
+C -1 ; WX 909 ; N uni04B4 ; B 20 -157 926 729 ;
+C -1 ; WX 749 ; N uni04B5 ; B 31 -217 700 519 ;
+C -1 ; WX 822 ; N uni04B6 ; B 81 -157 839 729 ;
+C -1 ; WX 712 ; N uni04B7 ; B 57 -217 658 519 ;
+C -1 ; WX 819 ; N uni04BA ; B -36 0 719 729 ;
+C -1 ; WX 654 ; N uni04BB ; B 30 0 578 760 ;
+C -1 ; WX 421 ; N uni04C0 ; B -22 0 444 729 ;
+C -1 ; WX 1181 ; N uni04C1 ; B -55 0 1191 927 ;
+C -1 ; WX 1175 ; N uni04C2 ; B 9 -14 1192 776 ;
+C -1 ; WX 782 ; N uni04C3 ; B -22 -214 812 729 ;
+C -1 ; WX 624 ; N uni04C4 ; B -15 -222 644 519 ;
+C -1 ; WX 850 ; N uni04C7 ; B -22 -214 874 729 ;
+C -1 ; WX 659 ; N uni04C8 ; B -15 -222 674 519 ;
+C -1 ; WX 885 ; N uni04CB ; B 145 -157 903 729 ;
+C -1 ; WX 659 ; N uni04CC ; B 65 -162 674 519 ;
+C -1 ; WX 342 ; N uni04CF ; B -36 0 386 760 ;
+C -1 ; WX 733 ; N uni04D0 ; B -55 0 671 936 ;
+C -1 ; WX 583 ; N uni04D1 ; B 31 -14 519 776 ;
+C -1 ; WX 733 ; N uni04D2 ; B -55 0 671 939 ;
+C -1 ; WX 583 ; N uni04D3 ; B 31 -14 519 788 ;
+C -1 ; WX 931 ; N uni04D4 ; B -92 0 940 729 ;
+C -1 ; WX 877 ; N uni04D5 ; B 24 -14 800 533 ;
+C -1 ; WX 686 ; N uni04D6 ; B -22 0 696 927 ;
+C -1 ; WX 572 ; N uni04D7 ; B 30 -14 534 776 ;
+C -1 ; WX 784 ; N uni04D8 ; B 38 -14 746 742 ;
+C -1 ; WX 572 ; N uni04D9 ; B 41 -14 532 533 ;
+C -1 ; WX 784 ; N uni04DA ; B 38 -14 746 939 ;
+C -1 ; WX 572 ; N uni04DB ; B 41 -14 536 788 ;
+C -1 ; WX 1181 ; N uni04DC ; B -55 0 1191 939 ;
+C -1 ; WX 1175 ; N uni04DD ; B 9 -14 1192 788 ;
+C -1 ; WX 649 ; N uni04DE ; B 1 -14 611 939 ;
+C -1 ; WX 574 ; N uni04DF ; B 21 -14 534 788 ;
+C -1 ; WX 591 ; N uni04E0 ; B -27 -14 546 729 ;
+C -1 ; WX 511 ; N uni04E1 ; B -25 -203 544 519 ;
+C -1 ; WX 850 ; N uni04E2 ; B -22 0 874 914 ;
+C -1 ; WX 654 ; N uni04E3 ; B 57 -14 604 763 ;
+C -1 ; WX 850 ; N uni04E4 ; B -22 0 874 939 ;
+C -1 ; WX 654 ; N uni04E5 ; B 57 -14 604 788 ;
+C -1 ; WX 784 ; N uni04E6 ; B 38 -14 746 939 ;
+C -1 ; WX 600 ; N uni04E7 ; B 30 -14 571 788 ;
+C -1 ; WX 784 ; N uni04E8 ; B 38 -14 746 742 ;
+C -1 ; WX 600 ; N uni04E9 ; B 37 -14 564 533 ;
+C -1 ; WX 784 ; N uni04EA ; B 38 -14 746 939 ;
+C -1 ; WX 600 ; N uni04EB ; B 37 -14 564 788 ;
+C -1 ; WX 716 ; N uni04EC ; B 10 -14 679 939 ;
+C -1 ; WX 580 ; N uni04ED ; B 31 -14 554 788 ;
+C -1 ; WX 730 ; N uni04EE ; B 35 -14 786 914 ;
+C -1 ; WX 538 ; N uni04EF ; B -18 -222 574 763 ;
+C -1 ; WX 730 ; N uni04F0 ; B 35 -14 786 939 ;
+C -1 ; WX 538 ; N uni04F1 ; B -18 -222 574 788 ;
+C -1 ; WX 730 ; N uni04F2 ; B 35 -14 786 927 ;
+C -1 ; WX 538 ; N uni04F3 ; B -18 -222 574 800 ;
+C -1 ; WX 822 ; N uni04F4 ; B 81 0 839 939 ;
+C -1 ; WX 643 ; N uni04F5 ; B 57 0 593 788 ;
+C -1 ; WX 621 ; N uni04F6 ; B -22 -157 673 729 ;
+C -1 ; WX 506 ; N uni04F7 ; B 50 -217 498 534 ;
+C -1 ; WX 1081 ; N uni04F8 ; B -22 0 1104 939 ;
+C -1 ; WX 916 ; N uni04F9 ; B 57 -14 866 788 ;
+C -1 ; WX 649 ; N uni0510 ; B 72 -14 697 742 ;
+C -1 ; WX 574 ; N uni0511 ; B 15 -14 567 533 ;
+C -1 ; WX 795 ; N uni0512 ; B -22 -208 838 729 ;
+C -1 ; WX 659 ; N uni0513 ; B 9 -222 609 519 ;
+C -1 ; WX 1123 ; N uni0514 ; B -39 -14 1153 729 ;
+C -1 ; WX 904 ; N uni0515 ; B 9 -14 913 519 ;
+C -1 ; WX 738 ; N uni051A ; B 44 -196 771 742 ;
+C -1 ; WX 576 ; N uni051B ; B 47 -208 599 533 ;
+C -1 ; WX 925 ; N uni051C ; B 45 0 1085 729 ;
+C -1 ; WX 770 ; N uni051D ; B 27 0 801 519 ;
+C -1 ; WX 848 ; N uni0531 ; B 85 -14 856 729 ;
+C -1 ; WX 748 ; N uni0532 ; B -34 0 722 743 ;
+C -1 ; WX 804 ; N uni0533 ; B 50 0 822 743 ;
+C -1 ; WX 817 ; N uni0534 ; B 18 0 835 743 ;
+C -1 ; WX 739 ; N uni0535 ; B 85 -14 769 729 ;
+C -1 ; WX 738 ; N uni0536 ; B 22 -72 709 743 ;
+C -1 ; WX 672 ; N uni0537 ; B -26 -72 716 729 ;
+C -1 ; WX 748 ; N uni0538 ; B -28 -72 727 743 ;
+C -1 ; WX 1013 ; N uni0539 ; B -33 -10 1063 743 ;
+C -1 ; WX 804 ; N uni053A ; B 14 -14 869 729 ;
+C -1 ; WX 722 ; N uni053B ; B -20 0 698 729 ;
+C -1 ; WX 650 ; N uni053C ; B -13 -72 615 729 ;
+C -1 ; WX 1069 ; N uni053D ; B -19 -14 1054 729 ;
+C -1 ; WX 798 ; N uni053E ; B 74 -13 831 743 ;
+C -1 ; WX 757 ; N uni053F ; B 70 0 723 729 ;
+C -1 ; WX 663 ; N uni0540 ; B -40 -66 625 729 ;
+C -1 ; WX 777 ; N uni0541 ; B 25 -32 720 743 ;
+C -1 ; WX 826 ; N uni0542 ; B 24 -72 794 743 ;
+C -1 ; WX 766 ; N uni0543 ; B -33 0 734 739 ;
+C -1 ; WX 879 ; N uni0544 ; B 85 -14 963 729 ;
+C -1 ; WX 750 ; N uni0545 ; B 18 -14 708 742 ;
+C -1 ; WX 822 ; N uni0546 ; B 27 -14 797 801 ;
+C -1 ; WX 759 ; N uni0547 ; B 57 -14 725 729 ;
+C -1 ; WX 784 ; N uni0548 ; B -34 0 699 743 ;
+C -1 ; WX 736 ; N uni0549 ; B 83 -84 708 743 ;
+C -1 ; WX 931 ; N uni054A ; B 18 0 845 743 ;
+C -1 ; WX 761 ; N uni054B ; B 27 -72 723 744 ;
+C -1 ; WX 867 ; N uni054C ; B -34 0 885 743 ;
+C -1 ; WX 784 ; N uni054D ; B 85 -14 818 729 ;
+C -1 ; WX 822 ; N uni054E ; B 41 -72 795 729 ;
+C -1 ; WX 727 ; N uni054F ; B 18 -14 677 742 ;
+C -1 ; WX 727 ; N uni0550 ; B -34 0 721 743 ;
+C -1 ; WX 752 ; N uni0551 ; B 15 -14 694 742 ;
+C -1 ; WX 639 ; N uni0552 ; B -33 0 725 729 ;
+C -1 ; WX 859 ; N uni0553 ; B 35 0 827 729 ;
+C -1 ; WX 802 ; N uni0554 ; B -100 0 756 743 ;
+C -1 ; WX 784 ; N uni0555 ; B 28 -14 754 742 ;
+C -1 ; WX 867 ; N uni0556 ; B 9 -14 828 729 ;
+C -1 ; WX 276 ; N uni0559 ; B 143 481 293 760 ;
+C -1 ; WX 237 ; N uni055A ; B -4 408 254 729 ;
+C -1 ; WX 264 ; N uni055B ; B -13 615 292 799 ;
+C -1 ; WX 352 ; N uni055C ; B -22 618 377 893 ;
+C -1 ; WX 290 ; N uni055D ; B 27 615 268 799 ;
+C -1 ; WX 396 ; N uni055E ; B -15 605 393 854 ;
+C -1 ; WX 450 ; N uni055F ; B 26 618 413 760 ;
+C -1 ; WX 949 ; N uni0561 ; B 53 -14 899 519 ;
+C -1 ; WX 625 ; N uni0562 ; B -25 -208 611 533 ;
+C -1 ; WX 699 ; N uni0563 ; B 62 -208 694 533 ;
+C -1 ; WX 721 ; N uni0564 ; B 15 -208 716 533 ;
+C -1 ; WX 655 ; N uni0565 ; B 50 -14 617 760 ;
+C -1 ; WX 668 ; N uni0566 ; B 62 -208 686 533 ;
+C -1 ; WX 539 ; N uni0567 ; B -27 0 576 760 ;
+C -1 ; WX 660 ; N uni0568 ; B -25 -208 624 533 ;
+C -1 ; WX 818 ; N uni0569 ; B -25 -208 838 532 ;
+C -1 ; WX 690 ; N uni056A ; B 25 -14 729 760 ;
+C -1 ; WX 651 ; N uni056B ; B -58 -208 591 760 ;
+C -1 ; WX 358 ; N uni056C ; B -24 -208 375 519 ;
+C -1 ; WX 978 ; N uni056D ; B -54 -208 923 760 ;
+C -1 ; WX 625 ; N uni056E ; B 23 -14 624 789 ;
+C -1 ; WX 647 ; N uni056F ; B 68 -208 593 760 ;
+C -1 ; WX 663 ; N uni0570 ; B -24 0 589 760 ;
+C -1 ; WX 615 ; N uni0571 ; B 13 -14 541 783 ;
+C -1 ; WX 664 ; N uni0572 ; B 15 -208 680 533 ;
+C -1 ; WX 633 ; N uni0573 ; B 31 -14 625 771 ;
+C -1 ; WX 651 ; N uni0574 ; B 31 -14 708 771 ;
+C -1 ; WX 323 ; N uni0575 ; B -138 -208 308 519 ;
+C -1 ; WX 647 ; N uni0576 ; B 40 -14 573 771 ;
+C -1 ; WX 446 ; N uni0577 ; B -67 -208 455 538 ;
+C -1 ; WX 664 ; N uni0578 ; B -3 0 611 533 ;
+C -1 ; WX 385 ; N uni0579 ; B -38 -208 396 540 ;
+C -1 ; WX 953 ; N uni057A ; B 70 -208 916 519 ;
+C -1 ; WX 602 ; N uni057B ; B 0 -208 598 537 ;
+C -1 ; WX 669 ; N uni057C ; B -3 0 617 533 ;
+C -1 ; WX 651 ; N uni057D ; B 53 -14 601 519 ;
+C -1 ; WX 651 ; N uni057E ; B 49 -208 639 760 ;
+C -1 ; WX 936 ; N uni057F ; B 52 -14 883 533 ;
+C -1 ; WX 651 ; N uni0580 ; B -34 -208 615 533 ;
+C -1 ; WX 642 ; N uni0581 ; B 36 -222 688 533 ;
+C -1 ; WX 444 ; N uni0582 ; B -1 0 431 519 ;
+C -1 ; WX 936 ; N uni0583 ; B 49 -208 880 760 ;
+C -1 ; WX 660 ; N uni0584 ; B -16 -208 637 533 ;
+C -1 ; WX 624 ; N uni0585 ; B 42 -14 582 533 ;
+C -1 ; WX 860 ; N uni0586 ; B 19 -208 826 760 ;
+C -1 ; WX 750 ; N uni0587 ; B 50 -14 717 760 ;
+C -1 ; WX 306 ; N uni0589 ; B 64 -14 240 434 ;
+C -1 ; WX 349 ; N uni058A ; B 31 203 328 365 ;
+C -1 ; WX 688 ; N uni10A0 ; B 8 0 674 848 ;
+C -1 ; WX 851 ; N uni10A1 ; B 118 0 748 847 ;
+C -1 ; WX 788 ; N uni10A2 ; B 53 -81 729 848 ;
+C -1 ; WX 795 ; N uni10A3 ; B 18 0 787 847 ;
+C -1 ; WX 712 ; N uni10A4 ; B 56 0 730 848 ;
+C -1 ; WX 979 ; N uni10A5 ; B 53 0 883 848 ;
+C -1 ; WX 921 ; N uni10A6 ; B 104 -1 840 847 ;
+C -1 ; WX 1100 ; N uni10A7 ; B 42 -1 1009 847 ;
+C -1 ; WX 587 ; N uni10A8 ; B 104 0 571 847 ;
+C -1 ; WX 745 ; N uni10A9 ; B 87 0 638 847 ;
+C -1 ; WX 955 ; N uni10AA ; B 57 0 873 847 ;
+C -1 ; WX 954 ; N uni10AB ; B 10 0 834 847 ;
+C -1 ; WX 725 ; N uni10AC ; B -33 0 682 847 ;
+C -1 ; WX 1030 ; N uni10AD ; B 39 -35 952 847 ;
+C -1 ; WX 880 ; N uni10AE ; B 104 0 865 847 ;
+C -1 ; WX 820 ; N uni10AF ; B 104 0 839 846 ;
+C -1 ; WX 1007 ; N uni10B0 ; B 56 0 916 846 ;
+C -1 ; WX 721 ; N uni10B1 ; B 53 0 680 846 ;
+C -1 ; WX 689 ; N uni10B2 ; B 8 0 672 847 ;
+C -1 ; WX 977 ; N uni10B3 ; B 41 -58 848 846 ;
+C -1 ; WX 887 ; N uni10B4 ; B 55 0 854 846 ;
+C -1 ; WX 968 ; N uni10B5 ; B 72 0 891 846 ;
+C -1 ; WX 738 ; N uni10B6 ; B -33 0 661 846 ;
+C -1 ; WX 758 ; N uni10B7 ; B 118 0 777 846 ;
+C -1 ; WX 748 ; N uni10B8 ; B 44 0 767 847 ;
+C -1 ; WX 759 ; N uni10B9 ; B -32 0 637 846 ;
+C -1 ; WX 826 ; N uni10BA ; B -10 -1 764 848 ;
+C -1 ; WX 978 ; N uni10BB ; B 13 0 857 847 ;
+C -1 ; WX 701 ; N uni10BC ; B -33 0 690 847 ;
+C -1 ; WX 748 ; N uni10BD ; B 9 0 717 847 ;
+C -1 ; WX 740 ; N uni10BE ; B 8 0 759 846 ;
+C -1 ; WX 1008 ; N uni10BF ; B -33 0 971 846 ;
+C -1 ; WX 1019 ; N uni10C0 ; B 57 0 976 846 ;
+C -1 ; WX 730 ; N uni10C1 ; B -33 0 667 846 ;
+C -1 ; WX 812 ; N uni10C2 ; B 36 0 730 847 ;
+C -1 ; WX 730 ; N uni10C3 ; B 89 -1 749 846 ;
+C -1 ; WX 801 ; N uni10C4 ; B 56 0 819 846 ;
+C -1 ; WX 965 ; N uni10C5 ; B 12 0 960 847 ;
+C -1 ; WX 535 ; N uni10D0 ; B 18 0 475 596 ;
+C -1 ; WX 563 ; N uni10D1 ; B 32 0 525 853 ;
+C -1 ; WX 579 ; N uni10D2 ; B -44 -225 507 566 ;
+C -1 ; WX 798 ; N uni10D3 ; B 24 -220 763 556 ;
+C -1 ; WX 553 ; N uni10D4 ; B -51 -225 521 556 ;
+C -1 ; WX 549 ; N uni10D5 ; B -51 -225 522 556 ;
+C -1 ; WX 599 ; N uni10D6 ; B 66 0 639 855 ;
+C -1 ; WX 823 ; N uni10D7 ; B 31 0 787 556 ;
+C -1 ; WX 552 ; N uni10D8 ; B 31 0 514 556 ;
+C -1 ; WX 540 ; N uni10D9 ; B -66 -225 479 556 ;
+C -1 ; WX 1008 ; N uni10DA ; B 31 -220 981 562 ;
+C -1 ; WX 589 ; N uni10DB ; B 31 0 619 854 ;
+C -1 ; WX 576 ; N uni10DC ; B 35 0 634 877 ;
+C -1 ; WX 791 ; N uni10DD ; B 35 -123 754 556 ;
+C -1 ; WX 561 ; N uni10DE ; B 17 1 580 854 ;
+C -1 ; WX 571 ; N uni10DF ; B -42 -225 580 555 ;
+C -1 ; WX 790 ; N uni10E0 ; B 39 0 754 846 ;
+C -1 ; WX 591 ; N uni10E1 ; B 75 0 532 854 ;
+C -1 ; WX 721 ; N uni10E2 ; B 3 -225 651 706 ;
+C -1 ; WX 676 ; N uni10E3 ; B 53 -225 647 556 ;
+C -1 ; WX 782 ; N uni10E4 ; B 47 -225 752 556 ;
+C -1 ; WX 575 ; N uni10E5 ; B -35 -225 656 855 ;
+C -1 ; WX 820 ; N uni10E6 ; B 19 -220 793 556 ;
+C -1 ; WX 559 ; N uni10E7 ; B -62 -225 566 556 ;
+C -1 ; WX 583 ; N uni10E8 ; B 42 0 627 854 ;
+C -1 ; WX 576 ; N uni10E9 ; B -14 -5 538 855 ;
+C -1 ; WX 656 ; N uni10EA ; B 14 -225 618 556 ;
+C -1 ; WX 577 ; N uni10EB ; B 28 0 615 854 ;
+C -1 ; WX 575 ; N uni10EC ; B 18 -229 663 854 ;
+C -1 ; WX 566 ; N uni10ED ; B -41 -225 573 854 ;
+C -1 ; WX 606 ; N uni10EE ; B 75 0 569 854 ;
+C -1 ; WX 663 ; N uni10EF ; B -84 -225 667 556 ;
+C -1 ; WX 563 ; N uni10F0 ; B 18 0 609 854 ;
+C -1 ; WX 591 ; N uni10F1 ; B 24 0 633 863 ;
+C -1 ; WX 563 ; N uni10F2 ; B -51 -94 526 556 ;
+C -1 ; WX 563 ; N uni10F3 ; B -35 -225 581 615 ;
+C -1 ; WX 562 ; N uni10F4 ; B -35 -225 570 855 ;
+C -1 ; WX 603 ; N uni10F5 ; B 15 0 666 854 ;
+C -1 ; WX 846 ; N uni10F6 ; B 27 -225 810 699 ;
+C -1 ; WX 612 ; N uni10F7 ; B -30 -225 512 566 ;
+C -1 ; WX 572 ; N uni10F8 ; B -24 -225 524 556 ;
+C -1 ; WX 605 ; N uni10F9 ; B 24 -225 572 561 ;
+C -1 ; WX 562 ; N uni10FA ; B 38 -69 535 556 ;
+C -1 ; WX 401 ; N uni10FB ; B -39 0 377 511 ;
+C -1 ; WX 327 ; N uni10FC ; B 62 341 457 882 ;
+C -1 ; WX 577 ; N uni1D00 ; B -15 0 558 519 ;
+C -1 ; WX 802 ; N uni1D01 ; B -15 0 815 519 ;
+C -1 ; WX 838 ; N uni1D02 ; B 39 -14 814 533 ;
+C -1 ; WX 625 ; N uni1D03 ; B -15 0 620 519 ;
+C -1 ; WX 548 ; N uni1D04 ; B 37 -14 533 533 ;
+C -1 ; WX 607 ; N uni1D05 ; B -15 0 580 519 ;
+C -1 ; WX 607 ; N uni1D06 ; B -15 0 580 519 ;
+C -1 ; WX 555 ; N uni1D07 ; B -20 0 568 519 ;
+C -1 ; WX 458 ; N uni1D08 ; B -39 -18 448 533 ;
+C -1 ; WX 288 ; N uni1D09 ; B -3 -238 270 522 ;
+C -1 ; WX 505 ; N uni1D0A ; B -28 -14 518 519 ;
+C -1 ; WX 650 ; N uni1D0B ; B -15 0 644 519 ;
+C -1 ; WX 555 ; N uni1D0C ; B -3 0 517 519 ;
+C -1 ; WX 782 ; N uni1D0D ; B -15 0 796 519 ;
+C -1 ; WX 664 ; N uni1D0E ; B 45 0 679 519 ;
+C -1 ; WX 600 ; N uni1D0F ; B 30 -14 571 533 ;
+C -1 ; WX 548 ; N uni1D10 ; B 15 -14 511 533 ;
+C -1 ; WX 565 ; N uni1D11 ; B 37 -33 529 553 ;
+C -1 ; WX 565 ; N uni1D12 ; B 31 -2 526 521 ;
+C -1 ; WX 600 ; N uni1D13 ; B 54 -50 548 567 ;
+C -1 ; WX 925 ; N uni1D14 ; B 40 -14 895 533 ;
+C -1 ; WX 538 ; N uni1D15 ; B 2 -14 487 534 ;
+C -1 ; WX 600 ; N uni1D16 ; B 82 260 610 533 ;
+C -1 ; WX 600 ; N uni1D17 ; B 82 -14 610 259 ;
+C -1 ; WX 527 ; N uni1D18 ; B -15 0 534 519 ;
+C -1 ; WX 721 ; N uni1D19 ; B 5 0 710 519 ;
+C -1 ; WX 721 ; N uni1D1A ; B 85 0 710 519 ;
+C -1 ; WX 558 ; N uni1D1B ; B 49 0 562 519 ;
+C -1 ; WX 583 ; N uni1D1C ; B 57 -14 617 519 ;
+C -1 ; WX 597 ; N uni1D1D ; B -1 -74 583 596 ;
+C -1 ; WX 831 ; N uni1D1E ; B 28 -74 817 596 ;
+C -1 ; WX 589 ; N uni1D1F ; B -29 -240 614 761 ;
+C -1 ; WX 523 ; N uni1D20 ; B 19 0 591 519 ;
+C -1 ; WX 774 ; N uni1D21 ; B 27 0 838 519 ;
+C -1 ; WX 511 ; N uni1D22 ; B -14 0 526 519 ;
+C -1 ; WX 511 ; N uni1D23 ; B -5 -14 527 519 ;
+C -1 ; WX 529 ; N uni1D24 ; B -1 -14 532 742 ;
+C -1 ; WX 721 ; N uni1D25 ; B -15 -14 680 533 ;
+C -1 ; WX 527 ; N uni1D26 ; B -15 0 540 519 ;
+C -1 ; WX 577 ; N uni1D27 ; B -15 0 558 519 ;
+C -1 ; WX 659 ; N uni1D28 ; B -15 0 674 519 ;
+C -1 ; WX 527 ; N uni1D29 ; B -15 0 534 519 ;
+C -1 ; WX 769 ; N uni1D2A ; B 68 0 792 519 ;
+C -1 ; WX 634 ; N uni1D2B ; B -26 -14 650 519 ;
+C -1 ; WX 439 ; N uni1D2C ; B -44 334 413 735 ;
+C -1 ; WX 586 ; N uni1D2D ; B -58 334 592 735 ;
+C -1 ; WX 479 ; N uni1D2E ; B -14 334 444 735 ;
+C -1 ; WX 479 ; N uni1D2F ; B -9 334 473 742 ;
+C -1 ; WX 491 ; N uni1D30 ; B -14 334 468 735 ;
+C -1 ; WX 432 ; N uni1D31 ; B -14 334 438 735 ;
+C -1 ; WX 432 ; N uni1D32 ; B 26 334 483 735 ;
+C -1 ; WX 483 ; N uni1D33 ; B 23 326 460 742 ;
+C -1 ; WX 536 ; N uni1D34 ; B -14 334 551 735 ;
+C -1 ; WX 265 ; N uni1D35 ; B -14 334 280 735 ;
+C -1 ; WX 268 ; N uni1D36 ; B -90 220 299 735 ;
+C -1 ; WX 492 ; N uni1D37 ; B -14 334 512 735 ;
+C -1 ; WX 398 ; N uni1D38 ; B -14 334 366 735 ;
+C -1 ; WX 627 ; N uni1D39 ; B -17 334 642 735 ;
+C -1 ; WX 518 ; N uni1D3A ; B -16 334 536 735 ;
+C -1 ; WX 545 ; N uni1D3B ; B 42 326 506 734 ;
+C -1 ; WX 493 ; N uni1D3C ; B 23 326 470 742 ;
+C -1 ; WX 398 ; N uni1D3D ; B 4 326 351 750 ;
+C -1 ; WX 426 ; N uni1D3E ; B -14 334 429 735 ;
+C -1 ; WX 471 ; N uni1D3F ; B -14 334 441 735 ;
+C -1 ; WX 422 ; N uni1D40 ; B 26 334 457 735 ;
+C -1 ; WX 494 ; N uni1D41 ; B 53 326 523 735 ;
+C -1 ; WX 637 ; N uni1D42 ; B 28 334 684 735 ;
+C -1 ; WX 367 ; N uni1D43 ; B 19 318 327 625 ;
+C -1 ; WX 367 ; N uni1D44 ; B 40 318 348 625 ;
+C -1 ; WX 436 ; N uni1D45 ; B 23 318 423 624 ;
+C -1 ; WX 528 ; N uni1D46 ; B 24 318 513 625 ;
+C -1 ; WX 448 ; N uni1D47 ; B 39 326 391 752 ;
+C -1 ; WX 448 ; N uni1D48 ; B 21 326 399 752 ;
+C -1 ; WX 400 ; N uni1D49 ; B 33 326 352 627 ;
+C -1 ; WX 400 ; N uni1D4A ; B 40 326 350 627 ;
+C -1 ; WX 370 ; N uni1D4B ; B 23 324 330 627 ;
+C -1 ; WX 370 ; N uni1D4C ; B 28 324 334 627 ;
+C -1 ; WX 448 ; N uni1D4D ; B 27 212 438 627 ;
+C -1 ; WX 270 ; N uni1D4E ; B 48 203 220 621 ;
+C -1 ; WX 471 ; N uni1D4F ; B 38 334 386 752 ;
+C -1 ; WX 655 ; N uni1D50 ; B 50 334 583 627 ;
+C -1 ; WX 426 ; N uni1D51 ; B 62 212 399 627 ;
+C -1 ; WX 420 ; N uni1D52 ; B 34 326 374 627 ;
+C -1 ; WX 384 ; N uni1D53 ; B 22 326 334 627 ;
+C -1 ; WX 420 ; N uni1D54 ; B 66 477 399 627 ;
+C -1 ; WX 420 ; N uni1D55 ; B 66 326 399 477 ;
+C -1 ; WX 448 ; N uni1D56 ; B 39 220 414 627 ;
+C -1 ; WX 333 ; N uni1D57 ; B 52 326 281 708 ;
+C -1 ; WX 468 ; N uni1D58 ; B 61 326 405 620 ;
+C -1 ; WX 376 ; N uni1D59 ; B 3 285 364 660 ;
+C -1 ; WX 655 ; N uni1D5A ; B 61 326 593 620 ;
+C -1 ; WX 442 ; N uni1D5B ; B 60 334 387 620 ;
+C -1 ; WX 454 ; N uni1D5C ; B -6 326 430 633 ;
+C -1 ; WX 376 ; N uni1D5D ; B -13 217 354 765 ;
+C -1 ; WX 374 ; N uni1D5E ; B 44 217 375 625 ;
+C -1 ; WX 378 ; N uni1D5F ; B 12 326 352 763 ;
+C -1 ; WX 513 ; N uni1D60 ; B 37 217 497 625 ;
+C -1 ; WX 373 ; N uni1D61 ; B -29 209 396 633 ;
+C -1 ; WX 215 ; N uni1D62 ; B 19 0 191 418 ;
+C -1 ; WX 372 ; N uni1D63 ; B 58 0 363 298 ;
+C -1 ; WX 468 ; N uni1D64 ; B 61 -8 405 286 ;
+C -1 ; WX 442 ; N uni1D65 ; B 60 0 387 286 ;
+C -1 ; WX 376 ; N uni1D66 ; B -13 -117 354 431 ;
+C -1 ; WX 374 ; N uni1D67 ; B 44 -117 375 291 ;
+C -1 ; WX 377 ; N uni1D68 ; B -1 -117 364 299 ;
+C -1 ; WX 513 ; N uni1D69 ; B 37 -117 497 291 ;
+C -1 ; WX 373 ; N uni1D6A ; B -29 -125 396 299 ;
+C -1 ; WX 938 ; N uni1D6B ; B 57 -14 900 533 ;
+C -1 ; WX 576 ; N uni1D77 ; B -11 -222 575 533 ;
+C -1 ; WX 536 ; N uni1D78 ; B -14 334 551 735 ;
+C -1 ; WX 342 ; N uni1D7B ; B -15 0 365 519 ;
+C -1 ; WX 342 ; N uni1D85 ; B -35 -222 386 760 ;
+C -1 ; WX 436 ; N uni1D9B ; B 13 326 413 631 ;
+C -1 ; WX 384 ; N uni1D9C ; B 34 326 351 627 ;
+C -1 ; WX 384 ; N uni1D9D ; B 43 272 357 624 ;
+C -1 ; WX 420 ; N uni1D9E ; B 23 326 374 754 ;
+C -1 ; WX 370 ; N uni1D9F ; B 24 324 334 627 ;
+C -1 ; WX 244 ; N uni1DA0 ; B -34 229 325 752 ;
+C -1 ; WX 335 ; N uni1DA1 ; B -1 212 280 620 ;
+C -1 ; WX 448 ; N uni1DA2 ; B 28 212 439 620 ;
+C -1 ; WX 470 ; N uni1DA3 ; B 71 220 416 620 ;
+C -1 ; WX 270 ; N uni1DA4 ; B 21 334 210 752 ;
+C -1 ; WX 276 ; N uni1DA5 ; B 60 334 206 620 ;
+C -1 ; WX 270 ; N uni1DA6 ; B 9 334 249 620 ;
+C -1 ; WX 270 ; N uni1DA7 ; B 38 334 277 620 ;
+C -1 ; WX 333 ; N uni1DA8 ; B -4 211 273 752 ;
+C -1 ; WX 331 ; N uni1DA9 ; B 43 212 241 752 ;
+C -1 ; WX 289 ; N uni1DAA ; B 15 212 281 752 ;
+C -1 ; WX 387 ; N uni1DAB ; B 9 334 328 621 ;
+C -1 ; WX 613 ; N uni1DAC ; B 62 212 583 627 ;
+C -1 ; WX 655 ; N uni1DAD ; B 71 220 604 620 ;
+C -1 ; WX 529 ; N uni1DAE ; B -2 212 468 627 ;
+C -1 ; WX 528 ; N uni1DAF ; B 62 212 451 627 ;
+C -1 ; WX 425 ; N uni1DB0 ; B 9 334 403 621 ;
+C -1 ; WX 420 ; N uni1DB1 ; B 38 326 370 627 ;
+C -1 ; WX 470 ; N uni1DB2 ; B 36 217 418 752 ;
+C -1 ; WX 360 ; N uni1DB3 ; B 16 212 333 627 ;
+C -1 ; WX 348 ; N uni1DB4 ; B -14 211 351 752 ;
+C -1 ; WX 333 ; N uni1DB5 ; B 60 212 317 708 ;
+C -1 ; WX 468 ; N uni1DB6 ; B 42 326 419 620 ;
+C -1 ; WX 427 ; N uni1DB7 ; B 36 332 379 628 ;
+C -1 ; WX 367 ; N uni1DB8 ; B 33 326 386 625 ;
+C -1 ; WX 439 ; N uni1DB9 ; B 60 333 389 620 ;
+C -1 ; WX 329 ; N uni1DBA ; B 12 334 334 620 ;
+C -1 ; WX 321 ; N uni1DBB ; B -9 312 332 642 ;
+C -1 ; WX 474 ; N uni1DBC ; B 21 212 397 620 ;
+C -1 ; WX 371 ; N uni1DBD ; B 14 285 354 620 ;
+C -1 ; WX 407 ; N uni1DBE ; B 2 222 361 620 ;
+C -1 ; WX 420 ; N uni1DBF ; B 38 325 370 758 ;
+C -1 ; WX 0 ; N uni1DC4 ; B -381 616 5 800 ;
+C -1 ; WX 0 ; N uni1DC5 ; B -420 616 -87 800 ;
+C -1 ; WX 0 ; N uni1DC6 ; B -363 616 -30 800 ;
+C -1 ; WX 0 ; N uni1DC7 ; B -456 616 -69 800 ;
+C -1 ; WX 0 ; N uni1DC8 ; B -447 616 -3 800 ;
+C -1 ; WX 0 ; N uni1DC9 ; B -482 616 32 800 ;
+C -1 ; WX 698 ; N uni1E00 ; B -71 -240 655 729 ;
+C -1 ; WX 583 ; N uni1E01 ; B 30 -240 519 533 ;
+C -1 ; WX 760 ; N uni1E02 ; B -22 0 704 939 ;
+C -1 ; WX 629 ; N uni1E03 ; B 21 -14 581 939 ;
+C -1 ; WX 760 ; N uni1E04 ; B -22 -213 704 729 ;
+C -1 ; WX 629 ; N uni1E05 ; B 21 -213 581 760 ;
+C -1 ; WX 760 ; N uni1E06 ; B -22 -161 704 729 ;
+C -1 ; WX 629 ; N uni1E07 ; B 21 -161 581 760 ;
+C -1 ; WX 716 ; N uni1E08 ; B 38 -196 708 927 ;
+C -1 ; WX 548 ; N uni1E09 ; B 30 -196 540 800 ;
+C -1 ; WX 780 ; N uni1E0A ; B -22 0 743 939 ;
+C -1 ; WX 629 ; N uni1E0B ; B 9 -14 609 939 ;
+C -1 ; WX 780 ; N uni1E0C ; B -22 -213 743 729 ;
+C -1 ; WX 629 ; N uni1E0D ; B 9 -213 610 760 ;
+C -1 ; WX 780 ; N uni1E0E ; B -22 -161 743 729 ;
+C -1 ; WX 629 ; N uni1E0F ; B 9 -161 609 760 ;
+C -1 ; WX 780 ; N uni1E10 ; B -22 -196 743 729 ;
+C -1 ; WX 629 ; N uni1E11 ; B 9 -196 609 760 ;
+C -1 ; WX 780 ; N uni1E12 ; B -22 -240 743 729 ;
+C -1 ; WX 629 ; N uni1E13 ; B 9 -240 610 760 ;
+C -1 ; WX 686 ; N uni1E14 ; B -22 0 696 1057 ;
+C -1 ; WX 572 ; N uni1E15 ; B 30 -14 534 926 ;
+C -1 ; WX 686 ; N uni1E16 ; B -22 0 696 1057 ;
+C -1 ; WX 572 ; N uni1E17 ; B 30 -14 578 926 ;
+C -1 ; WX 686 ; N uni1E18 ; B -22 -240 696 729 ;
+C -1 ; WX 572 ; N uni1E19 ; B 30 -240 534 533 ;
+C -1 ; WX 686 ; N uni1E1A ; B -22 -222 696 729 ;
+C -1 ; WX 572 ; N uni1E1B ; B 30 -222 534 533 ;
+C -1 ; WX 686 ; N uni1E1C ; B -22 -196 696 927 ;
+C -1 ; WX 572 ; N uni1E1D ; B 30 -196 534 776 ;
+C -1 ; WX 639 ; N uni1E1E ; B -22 0 691 939 ;
+C -1 ; WX 387 ; N uni1E1F ; B -53 -190 516 939 ;
+C -1 ; WX 769 ; N uni1E20 ; B 38 -14 730 938 ;
+C -1 ; WX 629 ; N uni1E21 ; B 20 -222 600 756 ;
+C -1 ; WX 850 ; N uni1E22 ; B -22 0 874 939 ;
+C -1 ; WX 654 ; N uni1E23 ; B 30 0 577 939 ;
+C -1 ; WX 850 ; N uni1E24 ; B -22 -213 874 729 ;
+C -1 ; WX 654 ; N uni1E25 ; B 30 -213 578 760 ;
+C -1 ; WX 850 ; N uni1E26 ; B -22 0 874 939 ;
+C -1 ; WX 654 ; N uni1E27 ; B 30 0 577 939 ;
+C -1 ; WX 850 ; N uni1E28 ; B -22 -196 874 729 ;
+C -1 ; WX 654 ; N uni1E29 ; B 30 -196 577 760 ;
+C -1 ; WX 850 ; N uni1E2A ; B -22 -221 874 729 ;
+C -1 ; WX 654 ; N uni1E2B ; B 30 -221 577 760 ;
+C -1 ; WX 421 ; N uni1E2C ; B -52 -222 444 729 ;
+C -1 ; WX 342 ; N uni1E2D ; B -98 -222 303 760 ;
+C -1 ; WX 421 ; N uni1E2E ; B -22 0 481 1057 ;
+C -1 ; WX 342 ; N uni1E2F ; B 51 0 435 917 ;
+C -1 ; WX 782 ; N uni1E30 ; B -22 0 812 927 ;
+C -1 ; WX 624 ; N uni1E31 ; B 30 0 583 927 ;
+C -1 ; WX 782 ; N uni1E32 ; B -22 -213 812 729 ;
+C -1 ; WX 624 ; N uni1E33 ; B 30 -213 583 760 ;
+C -1 ; WX 782 ; N uni1E34 ; B -22 -161 812 729 ;
+C -1 ; WX 624 ; N uni1E35 ; B 30 -161 583 760 ;
+C -1 ; WX 633 ; N uni1E36 ; B -22 -213 582 729 ;
+C -1 ; WX 342 ; N uni1E37 ; B 20 -213 319 760 ;
+C -1 ; WX 633 ; N uni1E38 ; B -22 -213 582 914 ;
+C -1 ; WX 342 ; N uni1E39 ; B 20 -213 411 914 ;
+C -1 ; WX 633 ; N uni1E3A ; B -22 -161 582 729 ;
+C -1 ; WX 342 ; N uni1E3B ; B -66 -161 319 760 ;
+C -1 ; WX 633 ; N uni1E3C ; B -22 -240 582 729 ;
+C -1 ; WX 342 ; N uni1E3D ; B -100 -240 319 760 ;
+C -1 ; WX 996 ; N uni1E3E ; B -26 0 1018 927 ;
+C -1 ; WX 952 ; N uni1E3F ; B 50 0 895 800 ;
+C -1 ; WX 996 ; N uni1E40 ; B -26 0 1018 937 ;
+C -1 ; WX 952 ; N uni1E41 ; B 50 0 896 788 ;
+C -1 ; WX 996 ; N uni1E42 ; B -26 -213 1018 729 ;
+C -1 ; WX 952 ; N uni1E43 ; B 50 -213 896 533 ;
+C -1 ; WX 822 ; N uni1E44 ; B -24 0 851 939 ;
+C -1 ; WX 654 ; N uni1E45 ; B 50 0 598 788 ;
+C -1 ; WX 822 ; N uni1E46 ; B -24 -213 851 729 ;
+C -1 ; WX 654 ; N uni1E47 ; B 50 -213 598 533 ;
+C -1 ; WX 822 ; N uni1E48 ; B -24 -161 851 729 ;
+C -1 ; WX 654 ; N uni1E49 ; B 50 -161 597 533 ;
+C -1 ; WX 822 ; N uni1E4A ; B -24 -257 851 729 ;
+C -1 ; WX 654 ; N uni1E4B ; B 50 -243 598 533 ;
+C -1 ; WX 784 ; N uni1E4C ; B 38 -14 746 1057 ;
+C -1 ; WX 600 ; N uni1E4D ; B 30 -14 620 916 ;
+C -1 ; WX 784 ; N uni1E4E ; B 38 -14 746 1055 ;
+C -1 ; WX 600 ; N uni1E4F ; B 30 -14 586 912 ;
+C -1 ; WX 784 ; N uni1E50 ; B 38 -14 746 1057 ;
+C -1 ; WX 600 ; N uni1E51 ; B 30 -14 571 926 ;
+C -1 ; WX 784 ; N uni1E52 ; B 38 -14 746 1057 ;
+C -1 ; WX 600 ; N uni1E53 ; B 30 -14 593 926 ;
+C -1 ; WX 677 ; N uni1E54 ; B -22 0 681 927 ;
+C -1 ; WX 629 ; N uni1E55 ; B 22 -208 618 800 ;
+C -1 ; WX 677 ; N uni1E56 ; B -22 0 681 939 ;
+C -1 ; WX 629 ; N uni1E57 ; B 22 -208 618 788 ;
+C -1 ; WX 748 ; N uni1E58 ; B -22 0 700 939 ;
+C -1 ; WX 474 ; N uni1E59 ; B 50 0 528 788 ;
+C -1 ; WX 748 ; N uni1E5A ; B -22 -213 700 729 ;
+C -1 ; WX 474 ; N uni1E5B ; B 42 -213 529 533 ;
+C -1 ; WX 748 ; N uni1E5C ; B -22 -213 700 914 ;
+C -1 ; WX 474 ; N uni1E5D ; B 42 -213 529 756 ;
+C -1 ; WX 748 ; N uni1E5E ; B -22 -161 700 729 ;
+C -1 ; WX 474 ; N uni1E5F ; B -46 -161 528 533 ;
+C -1 ; WX 650 ; N uni1E60 ; B 12 -14 613 939 ;
+C -1 ; WX 506 ; N uni1E61 ; B 0 -14 488 788 ;
+C -1 ; WX 650 ; N uni1E62 ; B 12 -213 613 742 ;
+C -1 ; WX 506 ; N uni1E63 ; B 0 -213 488 533 ;
+C -1 ; WX 650 ; N uni1E64 ; B 12 -14 628 959 ;
+C -1 ; WX 506 ; N uni1E65 ; B 0 -14 533 777 ;
+C -1 ; WX 650 ; N uni1E66 ; B 12 -14 613 1065 ;
+C -1 ; WX 506 ; N uni1E67 ; B 0 -14 505 883 ;
+C -1 ; WX 650 ; N uni1E68 ; B 12 -213 613 939 ;
+C -1 ; WX 506 ; N uni1E69 ; B 0 -213 488 788 ;
+C -1 ; WX 669 ; N uni1E6A ; B 42 0 725 939 ;
+C -1 ; WX 416 ; N uni1E6B ; B 43 -14 407 939 ;
+C -1 ; WX 669 ; N uni1E6C ; B 42 -213 725 729 ;
+C -1 ; WX 416 ; N uni1E6D ; B 43 -213 407 680 ;
+C -1 ; WX 669 ; N uni1E6E ; B 42 -161 724 729 ;
+C -1 ; WX 416 ; N uni1E6F ; B 20 -161 407 680 ;
+C -1 ; WX 669 ; N uni1E70 ; B 42 -240 725 729 ;
+C -1 ; WX 416 ; N uni1E71 ; B -18 -240 407 680 ;
+C -1 ; WX 785 ; N uni1E72 ; B 85 -213 831 729 ;
+C -1 ; WX 654 ; N uni1E73 ; B 56 -213 604 519 ;
+C -1 ; WX 785 ; N uni1E74 ; B 85 -222 831 729 ;
+C -1 ; WX 654 ; N uni1E75 ; B 56 -222 604 519 ;
+C -1 ; WX 785 ; N uni1E76 ; B 85 -240 831 729 ;
+C -1 ; WX 654 ; N uni1E77 ; B 56 -240 604 519 ;
+C -1 ; WX 785 ; N uni1E78 ; B 85 -14 831 1057 ;
+C -1 ; WX 654 ; N uni1E79 ; B 57 -14 632 915 ;
+C -1 ; WX 785 ; N uni1E7A ; B 85 -14 831 1055 ;
+C -1 ; WX 654 ; N uni1E7B ; B 57 -14 604 930 ;
+C -1 ; WX 698 ; N uni1E7C ; B 47 0 774 929 ;
+C -1 ; WX 523 ; N uni1E7D ; B 18 0 529 792 ;
+C -1 ; WX 698 ; N uni1E7E ; B 48 -213 775 729 ;
+C -1 ; WX 523 ; N uni1E7F ; B 19 -213 530 521 ;
+C -1 ; WX 1011 ; N Wgrave ; B 45 0 1085 931 ;
+C -1 ; WX 774 ; N wgrave ; B 27 0 801 800 ;
+C -1 ; WX 1011 ; N Wacute ; B 45 0 1085 931 ;
+C -1 ; WX 774 ; N wacute ; B 27 0 801 800 ;
+C -1 ; WX 1011 ; N Wdieresis ; B 45 0 1085 945 ;
+C -1 ; WX 774 ; N wdieresis ; B 27 0 801 736 ;
+C -1 ; WX 1011 ; N uni1E86 ; B 45 0 1085 974 ;
+C -1 ; WX 774 ; N uni1E87 ; B 26 0 801 788 ;
+C -1 ; WX 1011 ; N uni1E88 ; B 45 -211 1085 729 ;
+C -1 ; WX 774 ; N uni1E89 ; B 27 -213 801 519 ;
+C -1 ; WX 698 ; N uni1E8A ; B -48 0 727 939 ;
+C -1 ; WX 536 ; N uni1E8B ; B -17 0 545 788 ;
+C -1 ; WX 698 ; N uni1E8C ; B -48 0 727 939 ;
+C -1 ; WX 536 ; N uni1E8D ; B -17 0 545 788 ;
+C -1 ; WX 642 ; N uni1E8E ; B 45 0 715 942 ;
+C -1 ; WX 523 ; N uni1E8F ; B -18 -222 574 788 ;
+C -1 ; WX 657 ; N uni1E90 ; B -31 0 684 982 ;
+C -1 ; WX 511 ; N uni1E91 ; B -14 -41 526 800 ;
+C -1 ; WX 657 ; N uni1E92 ; B -31 -213 684 729 ;
+C -1 ; WX 511 ; N uni1E93 ; B -14 -213 526 560 ;
+C -1 ; WX 657 ; N uni1E94 ; B -31 -161 684 729 ;
+C -1 ; WX 511 ; N uni1E95 ; B -14 -161 526 560 ;
+C -1 ; WX 654 ; N uni1E96 ; B 30 -161 577 760 ;
+C -1 ; WX 416 ; N uni1E97 ; B 43 -14 430 939 ;
+C -1 ; WX 774 ; N uni1E98 ; B 26 0 801 888 ;
+C -1 ; WX 523 ; N uni1E99 ; B -18 -222 574 888 ;
+C -1 ; WX 913 ; N uni1E9A ; B 30 -14 870 760 ;
+C -1 ; WX 387 ; N uni1E9B ; B -53 -190 516 939 ;
+C -1 ; WX 387 ; N uni1E9C ; B -53 -190 516 760 ;
+C -1 ; WX 387 ; N uni1E9D ; B -53 -190 516 760 ;
+C -1 ; WX 852 ; N uni1E9E ; B -35 -14 807 743 ;
+C -1 ; WX 600 ; N uni1E9F ; B 17 -14 566 765 ;
+C -1 ; WX 698 ; N uni1EA0 ; B -71 -213 655 729 ;
+C -1 ; WX 583 ; N uni1EA1 ; B 30 -213 519 533 ;
+C -1 ; WX 698 ; N uni1EA2 ; B -71 0 655 1048 ;
+C -1 ; WX 583 ; N uni1EA3 ; B 30 -14 519 866 ;
+C -1 ; WX 698 ; N uni1EA4 ; B -71 0 748 1054 ;
+C -1 ; WX 583 ; N uni1EA5 ; B 31 -14 658 872 ;
+C -1 ; WX 698 ; N uni1EA6 ; B -71 0 688 1054 ;
+C -1 ; WX 583 ; N uni1EA7 ; B 31 -14 599 872 ;
+C -1 ; WX 698 ; N uni1EA8 ; B -71 0 761 1116 ;
+C -1 ; WX 583 ; N uni1EA9 ; B 31 -14 671 934 ;
+C -1 ; WX 698 ; N uni1EAA ; B -71 0 655 1069 ;
+C -1 ; WX 583 ; N uni1EAB ; B 31 -14 532 887 ;
+C -1 ; WX 698 ; N uni1EAC ; B -71 -213 655 982 ;
+C -1 ; WX 583 ; N uni1EAD ; B 30 -213 519 800 ;
+C -1 ; WX 698 ; N uni1EAE ; B -71 0 655 1057 ;
+C -1 ; WX 583 ; N uni1EAF ; B 31 -14 539 901 ;
+C -1 ; WX 698 ; N uni1EB0 ; B -71 0 655 1057 ;
+C -1 ; WX 583 ; N uni1EB1 ; B 31 -14 519 901 ;
+C -1 ; WX 698 ; N uni1EB2 ; B -71 0 655 1145 ;
+C -1 ; WX 583 ; N uni1EB3 ; B 31 -14 519 989 ;
+C -1 ; WX 698 ; N uni1EB4 ; B -71 0 655 1069 ;
+C -1 ; WX 583 ; N uni1EB5 ; B 31 -14 550 913 ;
+C -1 ; WX 698 ; N uni1EB6 ; B -71 -213 655 958 ;
+C -1 ; WX 583 ; N uni1EB7 ; B 30 -213 519 776 ;
+C -1 ; WX 686 ; N uni1EB8 ; B -22 -213 696 729 ;
+C -1 ; WX 572 ; N uni1EB9 ; B 30 -213 534 533 ;
+C -1 ; WX 686 ; N uni1EBA ; B -22 0 696 1048 ;
+C -1 ; WX 572 ; N uni1EBB ; B 30 -14 534 866 ;
+C -1 ; WX 686 ; N uni1EBC ; B -22 0 696 929 ;
+C -1 ; WX 572 ; N uni1EBD ; B 30 -14 534 792 ;
+C -1 ; WX 686 ; N uni1EBE ; B -22 0 766 1054 ;
+C -1 ; WX 572 ; N uni1EBF ; B 30 -14 681 872 ;
+C -1 ; WX 686 ; N uni1EC0 ; B -22 0 708 1054 ;
+C -1 ; WX 572 ; N uni1EC1 ; B 30 -14 622 872 ;
+C -1 ; WX 686 ; N uni1EC2 ; B -22 0 779 1116 ;
+C -1 ; WX 572 ; N uni1EC3 ; B 30 -14 694 934 ;
+C -1 ; WX 686 ; N uni1EC4 ; B -22 0 696 1069 ;
+C -1 ; WX 572 ; N uni1EC5 ; B 30 -14 554 887 ;
+C -1 ; WX 686 ; N uni1EC6 ; B -22 -213 696 982 ;
+C -1 ; WX 572 ; N uni1EC7 ; B 30 -213 534 800 ;
+C -1 ; WX 421 ; N uni1EC8 ; B -22 0 444 1048 ;
+C -1 ; WX 342 ; N uni1EC9 ; B 30 0 418 1106 ;
+C -1 ; WX 421 ; N uni1ECA ; B -22 -213 444 729 ;
+C -1 ; WX 342 ; N uni1ECB ; B 28 -213 303 760 ;
+C -1 ; WX 784 ; N uni1ECC ; B 38 -213 746 742 ;
+C -1 ; WX 600 ; N uni1ECD ; B 30 -213 571 533 ;
+C -1 ; WX 784 ; N uni1ECE ; B 38 -14 746 1048 ;
+C -1 ; WX 600 ; N uni1ECF ; B 30 -14 570 866 ;
+C -1 ; WX 784 ; N uni1ED0 ; B 38 -14 800 1054 ;
+C -1 ; WX 600 ; N uni1ED1 ; B 30 -14 695 872 ;
+C -1 ; WX 784 ; N uni1ED2 ; B 38 -14 746 1054 ;
+C -1 ; WX 600 ; N uni1ED3 ; B 30 -14 636 872 ;
+C -1 ; WX 784 ; N uni1ED4 ; B 38 -14 813 1116 ;
+C -1 ; WX 600 ; N uni1ED5 ; B 30 -14 708 934 ;
+C -1 ; WX 784 ; N uni1ED6 ; B 38 -14 746 1069 ;
+C -1 ; WX 600 ; N uni1ED7 ; B 30 -14 571 887 ;
+C -1 ; WX 784 ; N uni1ED8 ; B 38 -213 746 982 ;
+C -1 ; WX 600 ; N uni1ED9 ; B 30 -213 570 800 ;
+C -1 ; WX 784 ; N uni1EDA ; B 37 -14 844 927 ;
+C -1 ; WX 600 ; N uni1EDB ; B 31 -14 680 800 ;
+C -1 ; WX 784 ; N uni1EDC ; B 37 -14 844 927 ;
+C -1 ; WX 600 ; N uni1EDD ; B 31 -14 680 800 ;
+C -1 ; WX 784 ; N uni1EDE ; B 37 -14 844 1048 ;
+C -1 ; WX 600 ; N uni1EDF ; B 31 -14 680 866 ;
+C -1 ; WX 784 ; N uni1EE0 ; B 37 -14 844 929 ;
+C -1 ; WX 600 ; N uni1EE1 ; B 31 -14 680 792 ;
+C -1 ; WX 784 ; N uni1EE2 ; B 37 -213 844 760 ;
+C -1 ; WX 600 ; N uni1EE3 ; B 31 -213 680 548 ;
+C -1 ; WX 785 ; N uni1EE4 ; B 85 -213 831 729 ;
+C -1 ; WX 654 ; N uni1EE5 ; B 57 -213 604 519 ;
+C -1 ; WX 785 ; N uni1EE6 ; B 85 -14 831 1048 ;
+C -1 ; WX 654 ; N uni1EE7 ; B 56 -14 604 866 ;
+C -1 ; WX 785 ; N uni1EE8 ; B 88 -14 1015 927 ;
+C -1 ; WX 654 ; N uni1EE9 ; B 59 -14 734 800 ;
+C -1 ; WX 785 ; N uni1EEA ; B 88 -14 1015 927 ;
+C -1 ; WX 654 ; N uni1EEB ; B 59 -14 734 800 ;
+C -1 ; WX 785 ; N uni1EEC ; B 88 -14 1015 1048 ;
+C -1 ; WX 654 ; N uni1EED ; B 59 -14 734 866 ;
+C -1 ; WX 785 ; N uni1EEE ; B 88 -14 1015 929 ;
+C -1 ; WX 654 ; N uni1EEF ; B 59 -14 734 792 ;
+C -1 ; WX 785 ; N uni1EF0 ; B 88 -213 1015 816 ;
+C -1 ; WX 654 ; N uni1EF1 ; B 59 -213 734 548 ;
+C -1 ; WX 642 ; N Ygrave ; B 45 0 715 931 ;
+C -1 ; WX 523 ; N ygrave ; B -18 -222 574 776 ;
+C -1 ; WX 642 ; N uni1EF4 ; B 45 -213 714 729 ;
+C -1 ; WX 523 ; N uni1EF5 ; B -18 -222 574 519 ;
+C -1 ; WX 642 ; N uni1EF6 ; B 45 0 714 1051 ;
+C -1 ; WX 523 ; N uni1EF7 ; B -18 -222 574 866 ;
+C -1 ; WX 642 ; N uni1EF8 ; B 45 0 714 929 ;
+C -1 ; WX 523 ; N uni1EF9 ; B -18 -222 574 792 ;
+C -1 ; WX 970 ; N uni1EFA ; B -22 0 918 729 ;
+C -1 ; WX 630 ; N uni1EFB ; B 31 0 653 760 ;
+C -1 ; WX 692 ; N uni1F00 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F01 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F02 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F03 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F04 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F05 ; B 37 -14 672 837 ;
+C -1 ; WX 692 ; N uni1F06 ; B 37 -14 672 1009 ;
+C -1 ; WX 692 ; N uni1F07 ; B 37 -14 672 1009 ;
+C -1 ; WX 698 ; N uni1F08 ; B -71 0 655 837 ;
+C -1 ; WX 698 ; N uni1F09 ; B -71 0 655 837 ;
+C -1 ; WX 880 ; N uni1F0A ; B 55 0 837 837 ;
+C -1 ; WX 880 ; N uni1F0B ; B 63 0 837 837 ;
+C -1 ; WX 748 ; N uni1F0C ; B -21 0 705 837 ;
+C -1 ; WX 764 ; N uni1F0D ; B -5 0 721 837 ;
+C -1 ; WX 698 ; N uni1F0E ; B -71 0 655 1009 ;
+C -1 ; WX 698 ; N uni1F0F ; B -71 0 655 1009 ;
+C -1 ; WX 547 ; N uni1F10 ; B 22 -12 529 837 ;
+C -1 ; WX 547 ; N uni1F11 ; B 22 -12 529 837 ;
+C -1 ; WX 547 ; N uni1F12 ; B 22 -12 529 837 ;
+C -1 ; WX 547 ; N uni1F13 ; B 22 -12 529 837 ;
+C -1 ; WX 547 ; N uni1F14 ; B 22 -12 567 837 ;
+C -1 ; WX 547 ; N uni1F15 ; B 22 -12 570 837 ;
+C -1 ; WX 826 ; N uni1F18 ; B 62 0 835 837 ;
+C -1 ; WX 817 ; N uni1F19 ; B 63 0 828 837 ;
+C -1 ; WX 1052 ; N uni1F1A ; B 55 0 1063 837 ;
+C -1 ; WX 1052 ; N uni1F1B ; B 63 0 1063 837 ;
+C -1 ; WX 984 ; N uni1F1C ; B 51 0 994 837 ;
+C -1 ; WX 1007 ; N uni1F1D ; B 57 0 1018 837 ;
+C -1 ; WX 654 ; N uni1F20 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F21 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F22 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F23 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F24 ; B 68 -208 610 837 ;
+C -1 ; WX 654 ; N uni1F25 ; B 68 -208 606 837 ;
+C -1 ; WX 654 ; N uni1F26 ; B 68 -208 613 1009 ;
+C -1 ; WX 654 ; N uni1F27 ; B 68 -208 604 1009 ;
+C -1 ; WX 990 ; N uni1F28 ; B 62 0 1014 837 ;
+C -1 ; WX 984 ; N uni1F29 ; B 63 0 1008 837 ;
+C -1 ; WX 1222 ; N uni1F2A ; B 55 0 1246 837 ;
+C -1 ; WX 1225 ; N uni1F2B ; B 63 0 1249 837 ;
+C -1 ; WX 1151 ; N uni1F2C ; B 51 0 1174 837 ;
+C -1 ; WX 1177 ; N uni1F2D ; B 57 0 1201 837 ;
+C -1 ; WX 1077 ; N uni1F2E ; B 95 0 1101 1009 ;
+C -1 ; WX 1074 ; N uni1F2F ; B 92 0 1098 1009 ;
+C -1 ; WX 435 ; N uni1F30 ; B 66 16 371 837 ;
+C -1 ; WX 435 ; N uni1F31 ; B 66 16 371 837 ;
+C -1 ; WX 435 ; N uni1F32 ; B 40 16 417 837 ;
+C -1 ; WX 435 ; N uni1F33 ; B 50 16 425 837 ;
+C -1 ; WX 435 ; N uni1F34 ; B 62 16 448 837 ;
+C -1 ; WX 435 ; N uni1F35 ; B 53 16 448 837 ;
+C -1 ; WX 435 ; N uni1F36 ; B 66 16 459 1009 ;
+C -1 ; WX 435 ; N uni1F37 ; B 66 16 453 1009 ;
+C -1 ; WX 566 ; N uni1F38 ; B 62 0 589 837 ;
+C -1 ; WX 555 ; N uni1F39 ; B 63 0 578 837 ;
+C -1 ; WX 790 ; N uni1F3A ; B 55 0 813 837 ;
+C -1 ; WX 792 ; N uni1F3B ; B 63 0 815 837 ;
+C -1 ; WX 719 ; N uni1F3C ; B 51 0 742 837 ;
+C -1 ; WX 748 ; N uni1F3D ; B 57 0 771 837 ;
+C -1 ; WX 650 ; N uni1F3E ; B 95 0 673 1009 ;
+C -1 ; WX 642 ; N uni1F3F ; B 92 0 665 1009 ;
+C -1 ; WX 600 ; N uni1F40 ; B 30 -14 571 837 ;
+C -1 ; WX 600 ; N uni1F41 ; B 30 -14 571 837 ;
+C -1 ; WX 600 ; N uni1F42 ; B 30 -14 571 837 ;
+C -1 ; WX 600 ; N uni1F43 ; B 30 -14 571 837 ;
+C -1 ; WX 600 ; N uni1F44 ; B 30 -14 601 837 ;
+C -1 ; WX 600 ; N uni1F45 ; B 30 -14 591 837 ;
+C -1 ; WX 810 ; N uni1F48 ; B 62 -14 772 837 ;
+C -1 ; WX 841 ; N uni1F49 ; B 63 -14 803 837 ;
+C -1 ; WX 1116 ; N uni1F4A ; B 55 -14 1077 837 ;
+C -1 ; WX 1113 ; N uni1F4B ; B 63 -14 1075 837 ;
+C -1 ; WX 931 ; N uni1F4C ; B 51 -14 893 837 ;
+C -1 ; WX 959 ; N uni1F4D ; B 57 -14 921 837 ;
+C -1 ; WX 624 ; N uni1F50 ; B 66 -1 592 837 ;
+C -1 ; WX 624 ; N uni1F51 ; B 66 -1 592 837 ;
+C -1 ; WX 624 ; N uni1F52 ; B 66 -1 592 837 ;
+C -1 ; WX 624 ; N uni1F53 ; B 66 -1 592 837 ;
+C -1 ; WX 624 ; N uni1F54 ; B 66 -1 603 837 ;
+C -1 ; WX 624 ; N uni1F55 ; B 66 -1 600 837 ;
+C -1 ; WX 624 ; N uni1F56 ; B 66 -1 592 1009 ;
+C -1 ; WX 624 ; N uni1F57 ; B 66 -1 592 1009 ;
+C -1 ; WX 830 ; N uni1F59 ; B 63 0 902 837 ;
+C -1 ; WX 1067 ; N uni1F5B ; B 63 0 1139 837 ;
+C -1 ; WX 1020 ; N uni1F5D ; B 57 0 1092 837 ;
+C -1 ; WX 917 ; N uni1F5F ; B 92 0 989 1009 ;
+C -1 ; WX 857 ; N uni1F60 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F61 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F62 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F63 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F64 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F65 ; B 38 -1 822 837 ;
+C -1 ; WX 857 ; N uni1F66 ; B 38 -1 822 1009 ;
+C -1 ; WX 857 ; N uni1F67 ; B 38 -1 822 1009 ;
+C -1 ; WX 838 ; N uni1F68 ; B 17 0 803 837 ;
+C -1 ; WX 867 ; N uni1F69 ; B 45 0 832 837 ;
+C -1 ; WX 1141 ; N uni1F6A ; B 55 0 1106 837 ;
+C -1 ; WX 1146 ; N uni1F6B ; B 63 0 1111 837 ;
+C -1 ; WX 949 ; N uni1F6C ; B 51 0 914 837 ;
+C -1 ; WX 979 ; N uni1F6D ; B 57 0 944 837 ;
+C -1 ; WX 920 ; N uni1F6E ; B 95 0 885 1009 ;
+C -1 ; WX 954 ; N uni1F6F ; B 92 0 919 1009 ;
+C -1 ; WX 692 ; N uni1F70 ; B 37 -14 672 800 ;
+C -1 ; WX 692 ; N uni1F71 ; B 37 -14 672 800 ;
+C -1 ; WX 547 ; N uni1F72 ; B 22 -12 529 800 ;
+C -1 ; WX 547 ; N uni1F73 ; B 22 -12 545 800 ;
+C -1 ; WX 654 ; N uni1F74 ; B 68 -208 596 800 ;
+C -1 ; WX 654 ; N uni1F75 ; B 68 -208 596 800 ;
+C -1 ; WX 435 ; N uni1F76 ; B 66 16 371 800 ;
+C -1 ; WX 435 ; N uni1F77 ; B 66 16 430 800 ;
+C -1 ; WX 600 ; N uni1F78 ; B 30 -14 571 800 ;
+C -1 ; WX 600 ; N uni1F79 ; B 30 -14 571 800 ;
+C -1 ; WX 624 ; N uni1F7A ; B 66 -1 592 800 ;
+C -1 ; WX 624 ; N uni1F7B ; B 66 -1 592 800 ;
+C -1 ; WX 857 ; N uni1F7C ; B 38 -1 822 800 ;
+C -1 ; WX 857 ; N uni1F7D ; B 38 -1 822 800 ;
+C -1 ; WX 692 ; N uni1F80 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F81 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F82 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F83 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F84 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F85 ; B 37 -208 672 837 ;
+C -1 ; WX 692 ; N uni1F86 ; B 37 -208 672 1009 ;
+C -1 ; WX 692 ; N uni1F87 ; B 37 -208 672 1009 ;
+C -1 ; WX 698 ; N uni1F88 ; B -71 -208 655 837 ;
+C -1 ; WX 698 ; N uni1F89 ; B -71 -208 655 837 ;
+C -1 ; WX 880 ; N uni1F8A ; B 55 -208 837 837 ;
+C -1 ; WX 880 ; N uni1F8B ; B 63 -208 837 837 ;
+C -1 ; WX 748 ; N uni1F8C ; B -21 -208 705 837 ;
+C -1 ; WX 764 ; N uni1F8D ; B -5 -208 721 837 ;
+C -1 ; WX 698 ; N uni1F8E ; B -71 -208 655 1009 ;
+C -1 ; WX 698 ; N uni1F8F ; B -71 -208 655 1009 ;
+C -1 ; WX 654 ; N uni1F90 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F91 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F92 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F93 ; B 68 -208 596 837 ;
+C -1 ; WX 654 ; N uni1F94 ; B 68 -208 610 837 ;
+C -1 ; WX 654 ; N uni1F95 ; B 68 -208 606 837 ;
+C -1 ; WX 654 ; N uni1F96 ; B 68 -208 613 1009 ;
+C -1 ; WX 654 ; N uni1F97 ; B 68 -208 604 1009 ;
+C -1 ; WX 990 ; N uni1F98 ; B 62 -208 1014 837 ;
+C -1 ; WX 984 ; N uni1F99 ; B 63 -208 1008 837 ;
+C -1 ; WX 1222 ; N uni1F9A ; B 55 -208 1246 837 ;
+C -1 ; WX 1225 ; N uni1F9B ; B 63 -208 1249 837 ;
+C -1 ; WX 1151 ; N uni1F9C ; B 51 -208 1174 837 ;
+C -1 ; WX 1177 ; N uni1F9D ; B 57 -208 1201 837 ;
+C -1 ; WX 1077 ; N uni1F9E ; B 95 -208 1101 1009 ;
+C -1 ; WX 1074 ; N uni1F9F ; B 92 -208 1098 1009 ;
+C -1 ; WX 857 ; N uni1FA0 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA1 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA2 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA3 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA4 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA5 ; B 38 -208 822 837 ;
+C -1 ; WX 857 ; N uni1FA6 ; B 38 -208 822 1009 ;
+C -1 ; WX 857 ; N uni1FA7 ; B 38 -208 822 1009 ;
+C -1 ; WX 838 ; N uni1FA8 ; B 17 -208 803 837 ;
+C -1 ; WX 867 ; N uni1FA9 ; B 45 -208 832 837 ;
+C -1 ; WX 1141 ; N uni1FAA ; B 55 -208 1106 837 ;
+C -1 ; WX 1146 ; N uni1FAB ; B 63 -208 1111 837 ;
+C -1 ; WX 949 ; N uni1FAC ; B 51 -208 914 837 ;
+C -1 ; WX 979 ; N uni1FAD ; B 57 -208 944 837 ;
+C -1 ; WX 920 ; N uni1FAE ; B 95 -208 885 1009 ;
+C -1 ; WX 954 ; N uni1FAF ; B 92 -208 919 1009 ;
+C -1 ; WX 692 ; N uni1FB0 ; B 37 -14 672 776 ;
+C -1 ; WX 692 ; N uni1FB1 ; B 37 -14 672 756 ;
+C -1 ; WX 692 ; N uni1FB2 ; B 37 -208 672 800 ;
+C -1 ; WX 692 ; N uni1FB3 ; B 37 -208 672 532 ;
+C -1 ; WX 692 ; N uni1FB4 ; B 37 -208 672 800 ;
+C -1 ; WX 692 ; N uni1FB6 ; B 37 -14 672 792 ;
+C -1 ; WX 692 ; N uni1FB7 ; B 37 -208 672 792 ;
+C -1 ; WX 698 ; N uni1FB8 ; B -71 0 655 936 ;
+C -1 ; WX 698 ; N uni1FB9 ; B -71 0 655 914 ;
+C -1 ; WX 729 ; N uni1FBA ; B -40 0 687 800 ;
+C -1 ; WX 698 ; N uni1FBB ; B -71 0 655 800 ;
+C -1 ; WX 698 ; N uni1FBC ; B -71 -208 655 729 ;
+C -1 ; WX 450 ; N uni1FBD ; B 210 596 350 837 ;
+C -1 ; WX 450 ; N uni1FBE ; B 184 -208 309 -60 ;
+C -1 ; WX 450 ; N uni1FBF ; B 210 596 350 837 ;
+C -1 ; WX 450 ; N uni1FC0 ; B 120 638 461 792 ;
+C -1 ; WX 450 ; N uni1FC1 ; B 147 645 520 959 ;
+C -1 ; WX 654 ; N uni1FC2 ; B 68 -208 596 800 ;
+C -1 ; WX 654 ; N uni1FC3 ; B 68 -208 596 533 ;
+C -1 ; WX 654 ; N uni1FC4 ; B 68 -208 596 800 ;
+C -1 ; WX 654 ; N uni1FC6 ; B 68 -208 596 792 ;
+C -1 ; WX 654 ; N uni1FC7 ; B 68 -208 596 792 ;
+C -1 ; WX 899 ; N uni1FC8 ; B 55 0 910 800 ;
+C -1 ; WX 852 ; N uni1FC9 ; B 38 0 859 800 ;
+C -1 ; WX 1072 ; N uni1FCA ; B 55 0 1095 800 ;
+C -1 ; WX 1006 ; N uni1FCB ; B 38 0 1040 800 ;
+C -1 ; WX 850 ; N uni1FCC ; B -22 -208 874 729 ;
+C -1 ; WX 450 ; N uni1FCD ; B 92 596 468 837 ;
+C -1 ; WX 450 ; N uni1FCE ; B 101 596 487 837 ;
+C -1 ; WX 450 ; N uni1FCF ; B 160 596 501 1009 ;
+C -1 ; WX 435 ; N uni1FD0 ; B 66 16 407 776 ;
+C -1 ; WX 435 ; N uni1FD1 ; B 66 16 391 756 ;
+C -1 ; WX 435 ; N uni1FD2 ; B 66 16 423 997 ;
+C -1 ; WX 435 ; N uni1FD3 ; B 66 16 491 996 ;
+C -1 ; WX 435 ; N uni1FD6 ; B 66 16 411 792 ;
+C -1 ; WX 435 ; N uni1FD7 ; B 66 16 470 959 ;
+C -1 ; WX 421 ; N uni1FD8 ; B -22 0 444 927 ;
+C -1 ; WX 421 ; N uni1FD9 ; B -22 0 444 914 ;
+C -1 ; WX 642 ; N uni1FDA ; B 55 0 665 800 ;
+C -1 ; WX 595 ; N uni1FDB ; B 38 0 610 800 ;
+C -1 ; WX 450 ; N uni1FDD ; B 101 596 476 837 ;
+C -1 ; WX 450 ; N uni1FDE ; B 91 596 487 837 ;
+C -1 ; WX 450 ; N uni1FDF ; B 157 596 499 1009 ;
+C -1 ; WX 624 ; N uni1FE0 ; B 66 -1 592 776 ;
+C -1 ; WX 624 ; N uni1FE1 ; B 66 -1 592 756 ;
+C -1 ; WX 624 ; N uni1FE2 ; B 66 -1 592 997 ;
+C -1 ; WX 624 ; N uni1FE3 ; B 66 -1 631 996 ;
+C -1 ; WX 598 ; N uni1FE4 ; B -8 -208 580 837 ;
+C -1 ; WX 598 ; N uni1FE5 ; B -8 -208 580 837 ;
+C -1 ; WX 624 ; N uni1FE6 ; B 66 -1 592 792 ;
+C -1 ; WX 624 ; N uni1FE7 ; B 66 -1 604 959 ;
+C -1 ; WX 642 ; N uni1FE8 ; B 45 0 715 927 ;
+C -1 ; WX 642 ; N uni1FE9 ; B 45 0 715 914 ;
+C -1 ; WX 917 ; N uni1FEA ; B 55 0 989 800 ;
+C -1 ; WX 857 ; N uni1FEB ; B 38 0 928 800 ;
+C -1 ; WX 819 ; N uni1FEC ; B 63 0 824 837 ;
+C -1 ; WX 450 ; N uni1FED ; B 147 645 474 997 ;
+C -1 ; WX 450 ; N uni1FEE ; B 147 645 545 996 ;
+C -1 ; WX 450 ; N uni1FEF ; B 115 616 319 800 ;
+C -1 ; WX 857 ; N uni1FF2 ; B 38 -208 822 800 ;
+C -1 ; WX 857 ; N uni1FF3 ; B 38 -208 822 519 ;
+C -1 ; WX 857 ; N uni1FF4 ; B 38 -208 822 800 ;
+C -1 ; WX 857 ; N uni1FF6 ; B 38 -1 822 746 ;
+C -1 ; WX 857 ; N uni1FF7 ; B 38 -208 822 746 ;
+C -1 ; WX 962 ; N uni1FF8 ; B 55 -14 923 800 ;
+C -1 ; WX 798 ; N uni1FF9 ; B 38 -14 760 800 ;
+C -1 ; WX 991 ; N uni1FFA ; B 55 0 956 800 ;
+C -1 ; WX 820 ; N uni1FFB ; B 1 0 787 800 ;
+C -1 ; WX 801 ; N uni1FFC ; B -21 -208 766 742 ;
+C -1 ; WX 450 ; N uni1FFD ; B 204 616 473 800 ;
+C -1 ; WX 450 ; N uni1FFE ; B 212 596 352 837 ;
+C -1 ; WX 450 ; N uni2000 ; B 37 202 336 334 ;
+C -1 ; WX 900 ; N uni2001 ; B 37 202 336 334 ;
+C -1 ; WX 450 ; N uni2002 ; B 37 202 336 334 ;
+C -1 ; WX 900 ; N uni2003 ; B 37 202 336 334 ;
+C -1 ; WX 296 ; N uni2004 ; B 37 202 336 334 ;
+C -1 ; WX 225 ; N uni2005 ; B 37 202 336 334 ;
+C -1 ; WX 150 ; N uni2006 ; B 37 202 336 334 ;
+C -1 ; WX 626 ; N uni2007 ; B 37 202 336 334 ;
+C -1 ; WX 313 ; N uni2008 ; B 37 202 336 334 ;
+C -1 ; WX 180 ; N uni2009 ; B 37 202 336 334 ;
+C -1 ; WX 89 ; N uni200A ; B 37 202 336 334 ;
+C -1 ; WX 0 ; N uni200B ; B 37 202 336 334 ;
+C -1 ; WX 0 ; N uni200C ; B 37 202 336 334 ;
+C -1 ; WX 0 ; N uni200D ; B 37 202 336 334 ;
+C -1 ; WX 0 ; N uni200E ; B 37 202 336 334 ;
+C -1 ; WX 0 ; N uni200F ; B 37 202 336 334 ;
+C -1 ; WX 374 ; N uni2010 ; B 37 202 336 334 ;
+C -1 ; WX 374 ; N uni2011 ; B 37 202 336 334 ;
+C -1 ; WX 626 ; N figuredash ; B 38 207 588 324 ;
+C -1 ; WX 900 ; N uni2015 ; B -10 207 911 324 ;
+C -1 ; WX 450 ; N uni2016 ; B 116 -236 356 764 ;
+C -1 ; WX 450 ; N underscoredbl ; B 0 -236 450 -9 ;
+C -1 ; WX 313 ; N quotereversed ; B 75 443 239 729 ;
+C -1 ; WX 518 ; N uni201F ; B 75 443 444 729 ;
+C -1 ; WX 575 ; N uni2023 ; B 129 157 481 586 ;
+C -1 ; WX 313 ; N onedotenleader ; B 73 -14 241 172 ;
+C -1 ; WX 606 ; N twodotenleader ; B 73 -14 534 172 ;
+C -1 ; WX 0 ; N uni202A ; B 53 -14 1194 742 ;
+C -1 ; WX 0 ; N uni202B ; B 53 -14 1194 742 ;
+C -1 ; WX 0 ; N uni202C ; B 53 -14 1194 742 ;
+C -1 ; WX 0 ; N uni202D ; B 53 -14 1194 742 ;
+C -1 ; WX 0 ; N uni202E ; B 53 -14 1194 742 ;
+C -1 ; WX 180 ; N uni202F ; B 53 -14 1194 742 ;
+C -1 ; WX 1631 ; N uni2031 ; B 53 -14 1579 742 ;
+C -1 ; WX 237 ; N minute ; B 1 547 232 729 ;
+C -1 ; WX 402 ; N second ; B 1 547 396 729 ;
+C -1 ; WX 567 ; N uni2034 ; B 1 547 562 729 ;
+C -1 ; WX 237 ; N uni2035 ; B 145 547 312 729 ;
+C -1 ; WX 402 ; N uni2036 ; B 145 547 479 729 ;
+C -1 ; WX 567 ; N uni2037 ; B 145 547 642 729 ;
+C -1 ; WX 659 ; N uni2038 ; B 91 -238 569 29 ;
+C -1 ; WX 566 ; N exclamdbl ; B 9 -14 570 729 ;
+C -1 ; WX 527 ; N uni203D ; B 92 -14 517 742 ;
+C -1 ; WX 450 ; N uni203E ; B 0 663 450 755 ;
+C -1 ; WX 920 ; N uni2042 ; B 20 -37 901 832 ;
+C -1 ; WX 150 ; N fraction ; B -234 -14 384 742 ;
+C -1 ; WX 426 ; N uni2045 ; B 35 -132 439 760 ;
+C -1 ; WX 426 ; N uni2046 ; B -14 -132 391 760 ;
+C -1 ; WX 974 ; N uni2047 ; B 63 -14 975 742 ;
+C -1 ; WX 770 ; N uni2048 ; B 92 -14 776 742 ;
+C -1 ; WX 770 ; N uni2049 ; B 9 -14 742 742 ;
+C -1 ; WX 572 ; N uni204B ; B 42 -96 554 729 ;
+C -1 ; WX 450 ; N uni204C ; B 67 189 382 541 ;
+C -1 ; WX 450 ; N uni204D ; B 67 189 382 541 ;
+C -1 ; WX 470 ; N uni204E ; B 20 0 451 464 ;
+C -1 ; WX 332 ; N uni204F ; B 34 -161 231 490 ;
+C -1 ; WX 470 ; N uni2051 ; B 47 -14 396 797 ;
+C -1 ; WX 500 ; N uni2052 ; B 2 -93 476 729 ;
+C -1 ; WX 900 ; N uni2053 ; B 44 221 856 406 ;
+C -1 ; WX 731 ; N uni2057 ; B 1 547 726 729 ;
+C -1 ; WX 200 ; N uni205F ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni2060 ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni2061 ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni2062 ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni2063 ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni2064 ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206A ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206B ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206C ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206D ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206E ; B 21 326 364 742 ;
+C -1 ; WX 0 ; N uni206F ; B 21 326 364 742 ;
+C -1 ; WX 394 ; N uni2070 ; B 21 326 364 742 ;
+C -1 ; WX 215 ; N uni2071 ; B 19 334 191 752 ;
+C -1 ; WX 394 ; N uni2074 ; B 4 334 354 742 ;
+C -1 ; WX 394 ; N uni2075 ; B 10 326 362 742 ;
+C -1 ; WX 394 ; N uni2076 ; B 19 326 368 742 ;
+C -1 ; WX 394 ; N uni2077 ; B 31 334 362 742 ;
+C -1 ; WX 394 ; N uni2078 ; B 10 326 373 742 ;
+C -1 ; WX 394 ; N uni2079 ; B 13 326 363 742 ;
+C -1 ; WX 475 ; N uni207A ; B 60 334 415 679 ;
+C -1 ; WX 475 ; N uni207B ; B 60 475 415 537 ;
+C -1 ; WX 475 ; N uni207C ; B 60 415 415 598 ;
+C -1 ; WX 268 ; N uni207D ; B 53 249 290 752 ;
+C -1 ; WX 268 ; N uni207E ; B -22 249 215 752 ;
+C -1 ; WX 412 ; N uni207F ; B 31 334 376 627 ;
+C -1 ; WX 394 ; N uni2080 ; B 21 0 364 416 ;
+C -1 ; WX 394 ; N uni2081 ; B 35 8 305 416 ;
+C -1 ; WX 394 ; N uni2082 ; B 2 8 357 416 ;
+C -1 ; WX 394 ; N uni2083 ; B 6 0 361 416 ;
+C -1 ; WX 394 ; N uni2084 ; B 4 8 354 416 ;
+C -1 ; WX 394 ; N uni2085 ; B 10 0 362 416 ;
+C -1 ; WX 394 ; N uni2086 ; B 19 0 368 416 ;
+C -1 ; WX 394 ; N uni2087 ; B 31 8 362 416 ;
+C -1 ; WX 394 ; N uni2088 ; B 10 0 373 416 ;
+C -1 ; WX 394 ; N uni2089 ; B 13 0 363 416 ;
+C -1 ; WX 475 ; N uni208A ; B 60 8 415 353 ;
+C -1 ; WX 475 ; N uni208B ; B 60 149 415 211 ;
+C -1 ; WX 475 ; N uni208C ; B 60 89 415 272 ;
+C -1 ; WX 268 ; N uni208D ; B 53 -78 290 426 ;
+C -1 ; WX 268 ; N uni208E ; B -22 -78 215 426 ;
+C -1 ; WX 367 ; N uni2090 ; B 19 -8 327 299 ;
+C -1 ; WX 400 ; N uni2091 ; B 33 0 352 301 ;
+C -1 ; WX 420 ; N uni2092 ; B 34 0 374 301 ;
+C -1 ; WX 338 ; N uni2093 ; B -11 8 343 293 ;
+C -1 ; WX 400 ; N uni2094 ; B 40 0 350 301 ;
+C -1 ; WX 469 ; N uni2095 ; B 47 0 402 425 ;
+C -1 ; WX 471 ; N uni2096 ; B 38 8 386 426 ;
+C -1 ; WX 263 ; N uni2097 ; B 45 0 221 425 ;
+C -1 ; WX 655 ; N uni2098 ; B 50 8 583 301 ;
+C -1 ; WX 412 ; N uni2099 ; B 31 8 376 301 ;
+C -1 ; WX 448 ; N uni209A ; B 39 -106 414 301 ;
+C -1 ; WX 355 ; N uni209B ; B 18 1 328 307 ;
+C -1 ; WX 333 ; N uni209C ; B 52 0 281 382 ;
+C -1 ; WX 626 ; N uni20A6 ; B -16 0 642 729 ;
+C -1 ; WX 1039 ; N uni20AF ; B -17 -193 1051 723 ;
+C -1 ; WX 710 ; N uni20B1 ; B -22 0 726 729 ;
+C -1 ; WX 788 ; N uni20B4 ; B 3 -14 788 742 ;
+C -1 ; WX 626 ; N uni20B5 ; B 74 -146 620 761 ;
+C -1 ; WX 626 ; N uni20B9 ; B 48 0 654 729 ;
+C -1 ; WX 1078 ; N uni2103 ; B 78 -14 1070 749 ;
+C -1 ; WX 1001 ; N uni2109 ; B 78 0 1053 749 ;
+C -1 ; WX 654 ; N uni210E ; B 30 0 578 760 ;
+C -1 ; WX 654 ; N uni210F ; B 31 0 578 760 ;
+C -1 ; WX 978 ; N uni2116 ; B -31 -14 938 731 ;
+C -1 ; WX 801 ; N uni2126 ; B -21 0 766 742 ;
+C -1 ; WX 801 ; N uni2127 ; B 35 0 821 742 ;
+C -1 ; WX 782 ; N uni212A ; B -22 0 812 729 ;
+C -1 ; WX 698 ; N uni212B ; B -88 0 638 928 ;
+C -1 ; WX 707 ; N uni2141 ; B 4 -14 672 742 ;
+C -1 ; WX 518 ; N uni2142 ; B 8 0 499 729 ;
+C -1 ; WX 573 ; N uni2143 ; B 10 0 604 729 ;
+C -1 ; WX 684 ; N uni2144 ; B 2 0 674 729 ;
+C -1 ; WX 813 ; N uni214B ; B 42 -14 838 742 ;
+C -1 ; WX 932 ; N uni2150 ; B 25 -14 906 742 ;
+C -1 ; WX 932 ; N uni2151 ; B 25 -14 907 742 ;
+C -1 ; WX 1326 ; N uni2152 ; B 25 -14 1303 742 ;
+C -1 ; WX 932 ; N onethird ; B 25 -14 905 742 ;
+C -1 ; WX 932 ; N twothirds ; B 2 -14 905 742 ;
+C -1 ; WX 932 ; N uni2155 ; B 25 -14 906 742 ;
+C -1 ; WX 932 ; N uni2156 ; B 2 -14 906 742 ;
+C -1 ; WX 932 ; N uni2157 ; B 6 -14 906 742 ;
+C -1 ; WX 932 ; N uni2158 ; B 4 -14 906 742 ;
+C -1 ; WX 932 ; N uni2159 ; B 25 -14 913 742 ;
+C -1 ; WX 932 ; N uni215A ; B 10 -14 913 742 ;
+C -1 ; WX 932 ; N oneeighth ; B 25 -14 917 742 ;
+C -1 ; WX 932 ; N threeeighths ; B 6 -14 917 742 ;
+C -1 ; WX 932 ; N fiveeighths ; B 10 -14 917 742 ;
+C -1 ; WX 932 ; N seveneighths ; B 31 -14 917 742 ;
+C -1 ; WX 554 ; N uni215F ; B 25 -14 788 742 ;
+C -1 ; WX 421 ; N uni2160 ; B -22 0 444 729 ;
+C -1 ; WX 663 ; N uni2161 ; B -22 0 686 729 ;
+C -1 ; WX 904 ; N uni2162 ; B -22 0 927 729 ;
+C -1 ; WX 984 ; N uni2163 ; B -22 0 1061 729 ;
+C -1 ; WX 698 ; N uni2164 ; B 48 0 775 729 ;
+C -1 ; WX 1014 ; N uni2165 ; B 48 0 1037 729 ;
+C -1 ; WX 1256 ; N uni2166 ; B 48 0 1279 729 ;
+C -1 ; WX 1498 ; N uni2167 ; B 48 0 1521 729 ;
+C -1 ; WX 962 ; N uni2168 ; B -22 0 991 729 ;
+C -1 ; WX 698 ; N uni2169 ; B -48 0 727 729 ;
+C -1 ; WX 970 ; N uni216A ; B -48 0 993 729 ;
+C -1 ; WX 1212 ; N uni216B ; B -48 0 1235 729 ;
+C -1 ; WX 633 ; N uni216C ; B -22 0 582 729 ;
+C -1 ; WX 716 ; N uni216D ; B 38 -14 708 742 ;
+C -1 ; WX 780 ; N uni216E ; B -22 0 743 729 ;
+C -1 ; WX 996 ; N uni216F ; B -26 0 1018 729 ;
+C -1 ; WX 342 ; N uni2170 ; B 30 0 303 760 ;
+C -1 ; WX 684 ; N uni2171 ; B 30 0 645 760 ;
+C -1 ; WX 1025 ; N uni2172 ; B 30 0 987 760 ;
+C -1 ; WX 865 ; N uni2173 ; B 30 0 872 760 ;
+C -1 ; WX 523 ; N uni2174 ; B 19 0 530 521 ;
+C -1 ; WX 865 ; N uni2175 ; B 19 0 826 760 ;
+C -1 ; WX 1207 ; N uni2176 ; B 19 0 1168 760 ;
+C -1 ; WX 1548 ; N uni2177 ; B 19 0 1510 760 ;
+C -1 ; WX 878 ; N uni2178 ; B 30 0 887 760 ;
+C -1 ; WX 536 ; N uni2179 ; B -17 0 545 519 ;
+C -1 ; WX 878 ; N uni217A ; B -17 0 840 760 ;
+C -1 ; WX 1220 ; N uni217B ; B -17 0 1182 760 ;
+C -1 ; WX 342 ; N uni217C ; B 30 0 319 760 ;
+C -1 ; WX 548 ; N uni217D ; B 30 -14 533 533 ;
+C -1 ; WX 629 ; N uni217E ; B 9 -14 610 760 ;
+C -1 ; WX 952 ; N uni217F ; B 50 0 896 533 ;
+C -1 ; WX 1129 ; N uni2180 ; B 33 0 1115 729 ;
+C -1 ; WX 780 ; N uni2181 ; B -22 0 751 729 ;
+C -1 ; WX 1141 ; N uni2182 ; B 33 0 1115 729 ;
+C -1 ; WX 716 ; N uni2183 ; B 10 -14 679 742 ;
+C -1 ; WX 548 ; N uni2184 ; B 20 -14 514 533 ;
+C -1 ; WX 716 ; N uni2185 ; B 54 -208 725 742 ;
+C -1 ; WX 932 ; N uni2189 ; B 21 -14 905 742 ;
+C -1 ; WX 754 ; N arrowleft ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N arrowup ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N arrowright ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N arrowdown ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N arrowboth ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N arrowupdn ; B 193 -20 561 744 ;
+C -1 ; WX 754 ; N uni2196 ; B 132 29 642 595 ;
+C -1 ; WX 754 ; N uni2197 ; B 112 29 622 595 ;
+C -1 ; WX 754 ; N uni2198 ; B 112 52 622 617 ;
+C -1 ; WX 754 ; N uni2199 ; B 132 52 642 617 ;
+C -1 ; WX 754 ; N uni219A ; B 33 88 703 558 ;
+C -1 ; WX 754 ; N uni219B ; B 51 88 721 558 ;
+C -1 ; WX 754 ; N uni219C ; B 48 191 716 499 ;
+C -1 ; WX 754 ; N uni219D ; B 38 191 706 499 ;
+C -1 ; WX 754 ; N uni219E ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni219F ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21A0 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21A1 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni21A2 ; B 33 118 710 529 ;
+C -1 ; WX 754 ; N uni21A3 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni21A4 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21A5 ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21A6 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21A7 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N arrowupdnbse ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21A9 ; B 33 119 703 571 ;
+C -1 ; WX 754 ; N uni21AA ; B 51 119 721 571 ;
+C -1 ; WX 754 ; N uni21AB ; B 33 119 703 571 ;
+C -1 ; WX 754 ; N uni21AC ; B 51 119 721 571 ;
+C -1 ; WX 754 ; N uni21AD ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni21AE ; B 33 88 721 558 ;
+C -1 ; WX 765 ; N uni21AF ; B 154 -17 629 730 ;
+C -1 ; WX 754 ; N uni21B0 ; B 187 0 549 744 ;
+C -1 ; WX 754 ; N uni21B1 ; B 205 0 567 744 ;
+C -1 ; WX 754 ; N uni21B2 ; B 187 -20 549 724 ;
+C -1 ; WX 754 ; N uni21B3 ; B 205 -20 567 724 ;
+C -1 ; WX 754 ; N uni21B4 ; B 117 90 655 614 ;
+C -1 ; WX 754 ; N carriagereturn ; B 132 53 604 650 ;
+C -1 ; WX 754 ; N uni21B6 ; B 68 141 672 569 ;
+C -1 ; WX 754 ; N uni21B7 ; B 82 141 686 569 ;
+C -1 ; WX 754 ; N uni21B8 ; B 119 29 642 736 ;
+C -1 ; WX 754 ; N uni21B9 ; B 51 -52 703 698 ;
+C -1 ; WX 754 ; N uni21BA ; B 103 48 660 600 ;
+C -1 ; WX 754 ; N uni21BB ; B 94 48 651 600 ;
+C -1 ; WX 754 ; N uni21BC ; B 31 270 703 527 ;
+C -1 ; WX 754 ; N uni21BD ; B 31 119 703 377 ;
+C -1 ; WX 754 ; N uni21BE ; B 329 0 561 747 ;
+C -1 ; WX 754 ; N uni21BF ; B 193 0 426 747 ;
+C -1 ; WX 754 ; N uni21C0 ; B 51 270 724 527 ;
+C -1 ; WX 754 ; N uni21C1 ; B 51 119 724 377 ;
+C -1 ; WX 754 ; N uni21C2 ; B 329 -23 561 724 ;
+C -1 ; WX 754 ; N uni21C3 ; B 193 -23 426 724 ;
+C -1 ; WX 754 ; N uni21C4 ; B 33 -52 721 698 ;
+C -1 ; WX 754 ; N uni21C5 ; B 40 -20 715 744 ;
+C -1 ; WX 754 ; N uni21C6 ; B 33 -52 721 698 ;
+C -1 ; WX 754 ; N uni21C7 ; B 33 -101 703 747 ;
+C -1 ; WX 754 ; N uni21C8 ; B -4 0 759 744 ;
+C -1 ; WX 754 ; N uni21C9 ; B 51 -101 721 747 ;
+C -1 ; WX 754 ; N uni21CA ; B -4 -20 759 724 ;
+C -1 ; WX 754 ; N uni21CB ; B 31 21 724 625 ;
+C -1 ; WX 754 ; N uni21CC ; B 31 21 724 625 ;
+C -1 ; WX 754 ; N uni21CD ; B 33 88 703 558 ;
+C -1 ; WX 754 ; N uni21CE ; B 33 88 721 558 ;
+C -1 ; WX 754 ; N uni21CF ; B 51 88 721 558 ;
+C -1 ; WX 754 ; N arrowdblleft ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N arrowdblup ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N arrowdblright ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N arrowdbldown ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N arrowdblboth ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni21D5 ; B 193 -20 561 744 ;
+C -1 ; WX 754 ; N uni21D6 ; B 132 -31 696 595 ;
+C -1 ; WX 754 ; N uni21D7 ; B 58 -31 622 595 ;
+C -1 ; WX 754 ; N uni21D8 ; B 58 52 622 677 ;
+C -1 ; WX 754 ; N uni21D9 ; B 132 52 696 677 ;
+C -1 ; WX 754 ; N uni21DA ; B 33 70 703 576 ;
+C -1 ; WX 754 ; N uni21DB ; B 51 70 721 576 ;
+C -1 ; WX 754 ; N uni21DC ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21DD ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21DE ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21DF ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni21E0 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21E1 ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21E2 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21E3 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni21E4 ; B 51 119 703 527 ;
+C -1 ; WX 754 ; N uni21E5 ; B 51 119 703 527 ;
+C -1 ; WX 754 ; N uni21E6 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21E7 ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21E8 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21E9 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni21EA ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21EB ; B 172 0 582 744 ;
+C -1 ; WX 754 ; N uni21EC ; B 172 0 582 744 ;
+C -1 ; WX 754 ; N uni21ED ; B 172 0 582 744 ;
+C -1 ; WX 754 ; N uni21EE ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni21EF ; B 172 0 582 744 ;
+C -1 ; WX 754 ; N uni21F0 ; B 51 96 721 550 ;
+C -1 ; WX 754 ; N uni21F1 ; B 69 0 690 694 ;
+C -1 ; WX 754 ; N uni21F2 ; B 64 0 686 694 ;
+C -1 ; WX 754 ; N uni21F3 ; B 193 -20 561 744 ;
+C -1 ; WX 754 ; N uni21F4 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21F5 ; B 40 -20 715 744 ;
+C -1 ; WX 754 ; N uni21F6 ; B 51 -140 721 786 ;
+C -1 ; WX 754 ; N uni21F7 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21F8 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21F9 ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni21FA ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21FB ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21FC ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni21FD ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni21FE ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni21FF ; B 33 119 721 527 ;
+C -1 ; WX 577 ; N universal ; B 4 0 573 729 ;
+C -1 ; WX 480 ; N partialdiff ; B 33 -12 449 659 ;
+C -1 ; WX 558 ; N existential ; B 63 0 479 729 ;
+C -1 ; WX 558 ; N uni2204 ; B 63 -120 479 849 ;
+C -1 ; WX 677 ; N increment ; B 18 0 661 729 ;
+C -1 ; WX 677 ; N gradient ; B 18 0 661 729 ;
+C -1 ; WX 666 ; N element ; B 95 0 571 627 ;
+C -1 ; WX 666 ; N notelement ; B 95 -138 571 765 ;
+C -1 ; WX 666 ; N suchthat ; B 95 0 571 627 ;
+C -1 ; WX 666 ; N uni220C ; B 95 -138 571 765 ;
+C -1 ; WX 757 ; N product ; B 21 -192 734 719 ;
+C -1 ; WX 757 ; N uni2210 ; B 21 -192 734 719 ;
+C -1 ; WX 677 ; N summation ; B 9 -192 661 719 ;
+C -1 ; WX 754 ; N minus ; B 95 257 659 369 ;
+C -1 ; WX 754 ; N uni2213 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni2214 ; B 95 0 659 681 ;
+C -1 ; WX 329 ; N uni2215 ; B -72 -93 401 729 ;
+C -1 ; WX 622 ; N asteriskmath ; B 95 82 527 546 ;
+C -1 ; WX 466 ; N uni2218 ; B 95 161 372 468 ;
+C -1 ; WX 466 ; N uni2219 ; B 95 161 372 468 ;
+C -1 ; WX 591 ; N radical ; B 31 -20 593 827 ;
+C -1 ; WX 591 ; N uni221B ; B 31 -20 593 940 ;
+C -1 ; WX 591 ; N uni221C ; B 29 -20 593 928 ;
+C -1 ; WX 604 ; N proportional ; B 90 97 515 499 ;
+C -1 ; WX 750 ; N infinity ; B 90 97 661 499 ;
+C -1 ; WX 754 ; N orthogonal ; B 106 79 648 681 ;
+C -1 ; WX 754 ; N angle ; B 106 79 648 681 ;
+C -1 ; WX 292 ; N uni2223 ; B 95 -98 197 827 ;
+C -1 ; WX 546 ; N uni2224 ; B 78 -98 469 827 ;
+C -1 ; WX 476 ; N uni2225 ; B 95 -98 381 827 ;
+C -1 ; WX 696 ; N uni2226 ; B 78 -98 619 827 ;
+C -1 ; WX 730 ; N logicaland ; B 136 0 595 584 ;
+C -1 ; WX 730 ; N logicalor ; B 136 0 595 584 ;
+C -1 ; WX 754 ; N intersection ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N union ; B 95 -12 659 615 ;
+C -1 ; WX 521 ; N integral ; B 21 -182 500 759 ;
+C -1 ; WX 900 ; N uni222C ; B 21 -182 852 759 ;
+C -1 ; WX 1252 ; N uni222D ; B 21 -182 1203 759 ;
+C -1 ; WX 754 ; N uni2238 ; B 95 258 659 567 ;
+C -1 ; WX 754 ; N uni2239 ; B 95 60 659 567 ;
+C -1 ; WX 754 ; N uni223A ; B 95 60 659 567 ;
+C -1 ; WX 754 ; N uni223B ; B 95 60 659 567 ;
+C -1 ; WX 754 ; N similar ; B 95 222 659 406 ;
+C -1 ; WX 754 ; N uni223D ; B 95 222 659 406 ;
+C -1 ; WX 754 ; N uni2242 ; B 95 119 659 480 ;
+C -1 ; WX 754 ; N uni2243 ; B 95 147 659 508 ;
+C -1 ; WX 754 ; N approxequal ; B 95 119 659 508 ;
+C -1 ; WX 754 ; N uni2250 ; B 95 147 659 717 ;
+C -1 ; WX 754 ; N uni2251 ; B 95 -90 659 717 ;
+C -1 ; WX 754 ; N uni2252 ; B 95 -90 659 717 ;
+C -1 ; WX 754 ; N uni2253 ; B 95 -90 659 717 ;
+C -1 ; WX 974 ; N uni2254 ; B 95 110 879 518 ;
+C -1 ; WX 974 ; N uni2255 ; B 95 110 879 518 ;
+C -1 ; WX 754 ; N notequal ; B 95 -5 659 631 ;
+C -1 ; WX 754 ; N equivalence ; B 95 91 659 536 ;
+C -1 ; WX 754 ; N lessequal ; B 95 0 659 580 ;
+C -1 ; WX 754 ; N greaterequal ; B 95 0 659 580 ;
+C -1 ; WX 754 ; N propersubset ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N propersuperset ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N notsubset ; B 95 -138 659 765 ;
+C -1 ; WX 754 ; N uni2285 ; B 95 -138 659 765 ;
+C -1 ; WX 754 ; N reflexsubset ; B 95 -85 659 712 ;
+C -1 ; WX 754 ; N reflexsuperset ; B 95 -85 659 712 ;
+C -1 ; WX 754 ; N uni228C ; B 95 -12 659 615 ;
+C -1 ; WX 754 ; N uni228D ; B 95 -12 659 615 ;
+C -1 ; WX 754 ; N uni228E ; B 95 -12 659 615 ;
+C -1 ; WX 754 ; N uni228F ; B 95 1 659 627 ;
+C -1 ; WX 754 ; N uni2290 ; B 95 1 659 627 ;
+C -1 ; WX 754 ; N uni2291 ; B 95 -85 659 712 ;
+C -1 ; WX 754 ; N uni2292 ; B 95 -85 659 712 ;
+C -1 ; WX 754 ; N uni2293 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni2294 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N circleplus ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni2296 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N circlemultiply ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni2298 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni2299 ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni229A ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni229B ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni229C ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni229D ; B 95 0 659 627 ;
+C -1 ; WX 754 ; N uni229E ; B 95 1 659 627 ;
+C -1 ; WX 754 ; N uni229F ; B 95 1 659 627 ;
+C -1 ; WX 754 ; N uni22A0 ; B 95 1 659 627 ;
+C -1 ; WX 754 ; N uni22A1 ; B 95 1 659 627 ;
+C -1 ; WX 795 ; N uni22A2 ; B 95 0 701 729 ;
+C -1 ; WX 795 ; N uni22A3 ; B 95 0 701 729 ;
+C -1 ; WX 864 ; N uni22A4 ; B 95 0 769 688 ;
+C -1 ; WX 864 ; N perpendicular ; B 95 0 769 688 ;
+C -1 ; WX 554 ; N uni22A6 ; B 95 0 459 729 ;
+C -1 ; WX 554 ; N uni22A7 ; B 95 0 459 729 ;
+C -1 ; WX 795 ; N uni22A8 ; B 95 0 701 729 ;
+C -1 ; WX 795 ; N uni22A9 ; B 95 0 701 729 ;
+C -1 ; WX 795 ; N uni22AA ; B 95 0 701 729 ;
+C -1 ; WX 971 ; N uni22AB ; B 95 0 876 729 ;
+C -1 ; WX 795 ; N uni22AC ; B 95 -123 701 852 ;
+C -1 ; WX 795 ; N uni22AD ; B 95 -123 701 852 ;
+C -1 ; WX 795 ; N uni22AE ; B 95 -123 701 852 ;
+C -1 ; WX 971 ; N uni22AF ; B 95 -123 876 852 ;
+C -1 ; WX 358 ; N dotmath ; B 95 255 263 440 ;
+C -1 ; WX 751 ; N house ; B 64 0 687 596 ;
+C -1 ; WX 426 ; N uni2308 ; B 34 -132 440 760 ;
+C -1 ; WX 426 ; N uni2309 ; B 79 -132 391 760 ;
+C -1 ; WX 426 ; N uni230A ; B 34 -132 346 760 ;
+C -1 ; WX 426 ; N uni230B ; B -15 -132 391 760 ;
+C -1 ; WX 754 ; N revlogicalnot ; B 95 140 659 441 ;
+C -1 ; WX 484 ; N uni2311 ; B 2 113 482 646 ;
+C -1 ; WX 835 ; N uni2318 ; B 76 0 759 759 ;
+C -1 ; WX 754 ; N uni2319 ; B 95 140 659 441 ;
+C -1 ; WX 521 ; N integraltp ; B 203 -250 500 925 ;
+C -1 ; WX 521 ; N integralbt ; B 20 -239 316 940 ;
+C -1 ; WX 900 ; N uni2325 ; B 76 0 824 723 ;
+C -1 ; WX 1299 ; N uni2328 ; B 53 0 1247 729 ;
+C -1 ; WX 907 ; N uni237D ; B 1 -228 906 85 ;
+C -1 ; WX 450 ; N uni239B ; B 56 -252 394 928 ;
+C -1 ; WX 450 ; N uni239C ; B 56 -252 185 940 ;
+C -1 ; WX 450 ; N uni239D ; B 56 -240 394 940 ;
+C -1 ; WX 450 ; N uni239E ; B 56 -252 394 928 ;
+C -1 ; WX 450 ; N uni239F ; B 266 -252 394 940 ;
+C -1 ; WX 450 ; N uni23A0 ; B 56 -240 394 940 ;
+C -1 ; WX 450 ; N uni23A1 ; B 56 -252 394 928 ;
+C -1 ; WX 450 ; N uni23A2 ; B 56 -252 185 940 ;
+C -1 ; WX 450 ; N uni23A3 ; B 56 -240 394 940 ;
+C -1 ; WX 450 ; N uni23A4 ; B 56 -252 394 928 ;
+C -1 ; WX 450 ; N uni23A5 ; B 266 -252 394 940 ;
+C -1 ; WX 450 ; N uni23A6 ; B 56 -240 394 940 ;
+C -1 ; WX 675 ; N uni23A7 ; B 275 -261 602 928 ;
+C -1 ; WX 675 ; N uni23A8 ; B 74 -247 400 934 ;
+C -1 ; WX 675 ; N uni23A9 ; B 275 -240 602 934 ;
+C -1 ; WX 675 ; N uni23AA ; B 275 -256 400 934 ;
+C -1 ; WX 675 ; N uni23AB ; B 74 -261 400 928 ;
+C -1 ; WX 675 ; N uni23AC ; B 275 -247 602 934 ;
+C -1 ; WX 675 ; N uni23AD ; B 74 -240 400 934 ;
+C -1 ; WX 521 ; N uni23AE ; B 203 -250 316 940 ;
+C -1 ; WX 850 ; N uni23CF ; B 82 0 769 596 ;
+C -1 ; WX 751 ; N uni2423 ; B 24 -228 702 85 ;
+C -1 ; WX 692 ; N upblock ; B -9 260 701 770 ;
+C -1 ; WX 692 ; N uni2581 ; B -9 -250 701 -123 ;
+C -1 ; WX 692 ; N uni2582 ; B -9 -250 701 -5 ;
+C -1 ; WX 692 ; N uni2583 ; B -9 -250 701 132 ;
+C -1 ; WX 692 ; N dnblock ; B -9 -250 701 260 ;
+C -1 ; WX 692 ; N uni2585 ; B -9 -250 701 387 ;
+C -1 ; WX 692 ; N uni2586 ; B -9 -250 701 515 ;
+C -1 ; WX 692 ; N uni2587 ; B -9 -250 701 642 ;
+C -1 ; WX 692 ; N block ; B -9 -250 701 770 ;
+C -1 ; WX 692 ; N uni2589 ; B -9 -250 612 770 ;
+C -1 ; WX 692 ; N uni258A ; B -9 -250 523 770 ;
+C -1 ; WX 692 ; N uni258B ; B -9 -250 435 770 ;
+C -1 ; WX 692 ; N lfblock ; B -9 -250 346 770 ;
+C -1 ; WX 692 ; N uni258D ; B -9 -250 257 770 ;
+C -1 ; WX 692 ; N uni258E ; B -9 -250 168 770 ;
+C -1 ; WX 692 ; N uni258F ; B -9 -250 80 770 ;
+C -1 ; WX 692 ; N rtblock ; B 346 -250 701 770 ;
+C -1 ; WX 692 ; N ltshade ; B -9 -250 612 770 ;
+C -1 ; WX 692 ; N shade ; B -9 -250 701 770 ;
+C -1 ; WX 692 ; N dkshade ; B -9 -250 701 770 ;
+C -1 ; WX 692 ; N uni2594 ; B -9 642 701 770 ;
+C -1 ; WX 692 ; N uni2595 ; B 612 -250 701 770 ;
+C -1 ; WX 692 ; N uni2596 ; B -9 -250 346 260 ;
+C -1 ; WX 692 ; N uni2597 ; B 346 -250 700 260 ;
+C -1 ; WX 692 ; N uni2598 ; B -9 260 346 770 ;
+C -1 ; WX 692 ; N uni2599 ; B -9 -250 700 770 ;
+C -1 ; WX 692 ; N uni259A ; B -9 -250 700 770 ;
+C -1 ; WX 692 ; N uni259B ; B -9 -250 700 770 ;
+C -1 ; WX 692 ; N uni259C ; B -9 -250 700 770 ;
+C -1 ; WX 692 ; N uni259D ; B 346 260 700 770 ;
+C -1 ; WX 692 ; N uni259E ; B -9 -250 700 770 ;
+C -1 ; WX 692 ; N uni259F ; B -9 -250 700 770 ;
+C -1 ; WX 850 ; N filledbox ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N H22073 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A2 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A3 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A4 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A5 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A6 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A7 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A8 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25A9 ; B 82 -124 769 643 ;
+C -1 ; WX 610 ; N H18543 ; B 82 11 528 509 ;
+C -1 ; WX 610 ; N H18551 ; B 82 11 528 509 ;
+C -1 ; WX 850 ; N filledrect ; B 82 75 769 444 ;
+C -1 ; WX 850 ; N uni25AD ; B 82 75 769 444 ;
+C -1 ; WX 495 ; N uni25AE ; B 82 -122 414 642 ;
+C -1 ; WX 495 ; N uni25AF ; B 82 -122 414 642 ;
+C -1 ; WX 692 ; N uni25B0 ; B 2 75 690 444 ;
+C -1 ; WX 692 ; N uni25B1 ; B 2 75 690 444 ;
+C -1 ; WX 692 ; N triagup ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25B3 ; B 2 -124 690 643 ;
+C -1 ; WX 452 ; N uni25B4 ; B 2 11 449 509 ;
+C -1 ; WX 452 ; N uni25B5 ; B 2 11 449 509 ;
+C -1 ; WX 692 ; N uni25B6 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25B7 ; B 2 -124 690 643 ;
+C -1 ; WX 452 ; N uni25B8 ; B 2 11 449 509 ;
+C -1 ; WX 452 ; N uni25B9 ; B 2 11 449 509 ;
+C -1 ; WX 692 ; N triagrt ; B 2 11 690 509 ;
+C -1 ; WX 692 ; N uni25BB ; B 2 11 690 509 ;
+C -1 ; WX 692 ; N triagdn ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25BD ; B 2 -124 690 643 ;
+C -1 ; WX 452 ; N uni25BE ; B 2 11 449 509 ;
+C -1 ; WX 452 ; N uni25BF ; B 2 11 449 509 ;
+C -1 ; WX 692 ; N uni25C0 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25C1 ; B 2 -124 690 643 ;
+C -1 ; WX 452 ; N uni25C2 ; B 2 11 449 509 ;
+C -1 ; WX 452 ; N uni25C3 ; B 2 11 449 509 ;
+C -1 ; WX 692 ; N triaglf ; B 2 11 690 509 ;
+C -1 ; WX 692 ; N uni25C5 ; B 2 11 690 509 ;
+C -1 ; WX 692 ; N uni25C6 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25C7 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25C8 ; B 2 -124 690 643 ;
+C -1 ; WX 785 ; N uni25C9 ; B 49 -125 736 645 ;
+C -1 ; WX 444 ; N lozenge ; B 2 -233 442 807 ;
+C -1 ; WX 785 ; N circle ; B 49 -125 736 645 ;
+C -1 ; WX 785 ; N uni25CC ; B 50 -125 735 644 ;
+C -1 ; WX 785 ; N uni25CD ; B 49 -125 736 645 ;
+C -1 ; WX 785 ; N uni25CE ; B 49 -125 736 645 ;
+C -1 ; WX 785 ; N H18533 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D0 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D1 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D2 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D3 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D4 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25D5 ; B 49 -123 736 641 ;
+C -1 ; WX 474 ; N uni25D6 ; B 49 -125 393 645 ;
+C -1 ; WX 474 ; N uni25D7 ; B 82 -125 425 645 ;
+C -1 ; WX 712 ; N invbullet ; B 82 -10 630 770 ;
+C -1 ; WX 873 ; N invcircle ; B 82 -250 792 770 ;
+C -1 ; WX 873 ; N uni25DA ; B 82 260 792 770 ;
+C -1 ; WX 873 ; N uni25DB ; B 82 -250 792 260 ;
+C -1 ; WX 348 ; N uni25DC ; B 2 260 346 645 ;
+C -1 ; WX 348 ; N uni25DD ; B 2 260 346 645 ;
+C -1 ; WX 348 ; N uni25DE ; B 2 -125 346 260 ;
+C -1 ; WX 348 ; N uni25DF ; B 2 -125 346 260 ;
+C -1 ; WX 785 ; N uni25E0 ; B 49 260 736 645 ;
+C -1 ; WX 785 ; N uni25E1 ; B 49 -125 736 260 ;
+C -1 ; WX 692 ; N uni25E2 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25E3 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25E4 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25E5 ; B 2 -124 690 643 ;
+C -1 ; WX 531 ; N openbullet ; B 135 227 396 516 ;
+C -1 ; WX 850 ; N uni25E7 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25E8 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25E9 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25EA ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25EB ; B 82 -124 769 643 ;
+C -1 ; WX 692 ; N uni25EC ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25ED ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25EE ; B 2 -124 690 643 ;
+C -1 ; WX 1007 ; N uni25EF ; B 49 -250 958 770 ;
+C -1 ; WX 850 ; N uni25F0 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25F1 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25F2 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni25F3 ; B 82 -124 769 643 ;
+C -1 ; WX 785 ; N uni25F4 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25F5 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25F6 ; B 49 -123 736 641 ;
+C -1 ; WX 785 ; N uni25F7 ; B 49 -123 736 641 ;
+C -1 ; WX 692 ; N uni25F8 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25F9 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni25FA ; B 2 -124 690 643 ;
+C -1 ; WX 747 ; N uni25FB ; B 82 -66 666 585 ;
+C -1 ; WX 747 ; N uni25FC ; B 82 -66 666 585 ;
+C -1 ; WX 659 ; N uni25FD ; B 82 -17 578 537 ;
+C -1 ; WX 659 ; N uni25FE ; B 82 -17 578 537 ;
+C -1 ; WX 692 ; N uni25FF ; B 2 -124 690 643 ;
+C -1 ; WX 807 ; N uni2600 ; B 75 0 731 729 ;
+C -1 ; WX 807 ; N uni2638 ; B 71 3 735 721 ;
+C -1 ; WX 807 ; N uni2639 ; B 75 0 732 730 ;
+C -1 ; WX 807 ; N smileface ; B 75 0 732 730 ;
+C -1 ; WX 807 ; N invsmileface ; B 75 0 732 730 ;
+C -1 ; WX 807 ; N sun ; B 75 0 732 730 ;
+C -1 ; WX 552 ; N uni263F ; B 77 -102 476 732 ;
+C -1 ; WX 658 ; N female ; B 77 -125 581 731 ;
+C -1 ; WX 658 ; N uni2641 ; B 77 -125 581 731 ;
+C -1 ; WX 807 ; N male ; B 77 -5 748 729 ;
+C -1 ; WX 807 ; N uni2643 ; B 149 0 657 730 ;
+C -1 ; WX 807 ; N uni2644 ; B 197 0 609 730 ;
+C -1 ; WX 807 ; N uni2645 ; B 109 0 697 730 ;
+C -1 ; WX 807 ; N uni2646 ; B 114 0 692 730 ;
+C -1 ; WX 807 ; N uni2647 ; B 216 0 590 730 ;
+C -1 ; WX 807 ; N spade ; B 142 0 665 729 ;
+C -1 ; WX 807 ; N uni2661 ; B 81 0 726 727 ;
+C -1 ; WX 807 ; N uni2662 ; B 151 0 655 729 ;
+C -1 ; WX 807 ; N club ; B 100 0 707 729 ;
+C -1 ; WX 807 ; N uni2664 ; B 141 0 666 729 ;
+C -1 ; WX 807 ; N heart ; B 80 0 728 729 ;
+C -1 ; WX 807 ; N diamond ; B 151 0 655 729 ;
+C -1 ; WX 807 ; N uni2667 ; B 100 0 707 732 ;
+C -1 ; WX 424 ; N uni2669 ; B 75 -5 306 729 ;
+C -1 ; WX 574 ; N musicalnote ; B 75 -5 499 729 ;
+C -1 ; WX 807 ; N musicalnotedbl ; B 165 -102 642 729 ;
+C -1 ; WX 807 ; N uni266C ; B 83 -5 724 729 ;
+C -1 ; WX 424 ; N uni266D ; B 79 -3 353 731 ;
+C -1 ; WX 321 ; N uni266E ; B 75 0 246 731 ;
+C -1 ; WX 435 ; N uni266F ; B 76 0 360 731 ;
+C -1 ; WX 754 ; N uni27A1 ; B 51 119 721 527 ;
+C -1 ; WX 411 ; N uni27C5 ; B 4 -163 394 769 ;
+C -1 ; WX 411 ; N uni27C6 ; B -33 -163 429 769 ;
+C -1 ; WX 444 ; N uni27E0 ; B 2 -233 442 807 ;
+C -1 ; WX 411 ; N uni27E8 ; B 94 -132 417 759 ;
+C -1 ; WX 411 ; N uni27E9 ; B -6 -132 317 759 ;
+C -1 ; WX 754 ; N uni27F0 ; B 62 0 693 744 ;
+C -1 ; WX 754 ; N uni27F1 ; B 62 -20 693 724 ;
+C -1 ; WX 754 ; N uni27F2 ; B 68 48 672 618 ;
+C -1 ; WX 754 ; N uni27F3 ; B 82 48 686 618 ;
+C -1 ; WX 930 ; N uni27F4 ; B 51 39 896 608 ;
+C -1 ; WX 1290 ; N uni27F5 ; B 33 119 1239 527 ;
+C -1 ; WX 1290 ; N uni27F6 ; B 51 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27F7 ; B 33 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27F8 ; B 33 119 1239 527 ;
+C -1 ; WX 1290 ; N uni27F9 ; B 51 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27FA ; B 33 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27FB ; B 33 119 1239 527 ;
+C -1 ; WX 1290 ; N uni27FC ; B 51 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27FD ; B 33 119 1239 527 ;
+C -1 ; WX 1290 ; N uni27FE ; B 51 119 1257 527 ;
+C -1 ; WX 1290 ; N uni27FF ; B 51 119 1257 527 ;
+C -1 ; WX 703 ; N uni2800 ; B 132 586 308 781 ;
+C -1 ; WX 703 ; N uni2801 ; B 132 586 308 781 ;
+C -1 ; WX 703 ; N uni2802 ; B 132 325 308 521 ;
+C -1 ; WX 703 ; N uni2803 ; B 132 325 308 781 ;
+C -1 ; WX 703 ; N uni2804 ; B 132 65 308 260 ;
+C -1 ; WX 703 ; N uni2805 ; B 132 65 308 781 ;
+C -1 ; WX 703 ; N uni2806 ; B 132 65 308 521 ;
+C -1 ; WX 703 ; N uni2807 ; B 132 65 308 781 ;
+C -1 ; WX 703 ; N uni2808 ; B 396 586 571 781 ;
+C -1 ; WX 703 ; N uni2809 ; B 132 586 571 781 ;
+C -1 ; WX 703 ; N uni280A ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni280B ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni280C ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni280D ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni280E ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni280F ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2810 ; B 396 325 571 521 ;
+C -1 ; WX 703 ; N uni2811 ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni2812 ; B 132 325 571 521 ;
+C -1 ; WX 703 ; N uni2813 ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni2814 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2815 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2816 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2817 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2818 ; B 396 325 571 781 ;
+C -1 ; WX 703 ; N uni2819 ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni281A ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni281B ; B 132 325 571 781 ;
+C -1 ; WX 703 ; N uni281C ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni281D ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni281E ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni281F ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2820 ; B 396 65 571 260 ;
+C -1 ; WX 703 ; N uni2821 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2822 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2823 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2824 ; B 132 65 571 260 ;
+C -1 ; WX 703 ; N uni2825 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2826 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2827 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2828 ; B 396 65 571 781 ;
+C -1 ; WX 703 ; N uni2829 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282A ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282B ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282C ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282D ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282E ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni282F ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2830 ; B 396 65 571 521 ;
+C -1 ; WX 703 ; N uni2831 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2832 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2833 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2834 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2835 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2836 ; B 132 65 571 521 ;
+C -1 ; WX 703 ; N uni2837 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2838 ; B 396 65 571 781 ;
+C -1 ; WX 703 ; N uni2839 ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283A ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283B ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283C ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283D ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283E ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni283F ; B 132 65 571 781 ;
+C -1 ; WX 703 ; N uni2840 ; B 132 -195 308 0 ;
+C -1 ; WX 703 ; N uni2841 ; B 132 -195 308 781 ;
+C -1 ; WX 703 ; N uni2842 ; B 132 -195 308 521 ;
+C -1 ; WX 703 ; N uni2843 ; B 132 -195 308 781 ;
+C -1 ; WX 703 ; N uni2844 ; B 132 -195 308 260 ;
+C -1 ; WX 703 ; N uni2845 ; B 132 -195 308 781 ;
+C -1 ; WX 703 ; N uni2846 ; B 132 -195 308 521 ;
+C -1 ; WX 703 ; N uni2847 ; B 132 -195 308 781 ;
+C -1 ; WX 703 ; N uni2848 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2849 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni284F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2850 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2851 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2852 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2853 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2854 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2855 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2856 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2857 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2858 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2859 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni285F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2860 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni2861 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2862 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2863 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2864 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni2865 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2866 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2867 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2868 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2869 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni286F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2870 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2871 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2872 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2873 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2874 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2875 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2876 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2877 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2878 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2879 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni287F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2880 ; B 396 -195 571 0 ;
+C -1 ; WX 703 ; N uni2881 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2882 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2883 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2884 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni2885 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2886 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2887 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2888 ; B 396 -195 571 781 ;
+C -1 ; WX 703 ; N uni2889 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni288F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2890 ; B 396 -195 571 521 ;
+C -1 ; WX 703 ; N uni2891 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2892 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2893 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2894 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2895 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2896 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni2897 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni2898 ; B 396 -195 571 781 ;
+C -1 ; WX 703 ; N uni2899 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289A ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289B ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289C ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289D ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289E ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni289F ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A0 ; B 396 -195 571 260 ;
+C -1 ; WX 703 ; N uni28A1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28A3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A4 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni28A5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28A7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A8 ; B 396 -195 571 781 ;
+C -1 ; WX 703 ; N uni28A9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AD ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28AF ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B0 ; B 396 -195 571 521 ;
+C -1 ; WX 703 ; N uni28B1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28B3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B4 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28B5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28B7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B8 ; B 396 -195 571 781 ;
+C -1 ; WX 703 ; N uni28B9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BD ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28BF ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C0 ; B 132 -195 571 0 ;
+C -1 ; WX 703 ; N uni28C1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28C3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C4 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni28C5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28C7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C8 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28C9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CD ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28CF ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D0 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28D1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28D3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D4 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28D5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28D7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D8 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28D9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DD ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28DF ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E0 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni28E1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28E3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E4 ; B 132 -195 571 260 ;
+C -1 ; WX 703 ; N uni28E5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28E7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E8 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28E9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28EA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28EB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28EC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28ED ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28EE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28EF ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F0 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28F1 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F2 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28F3 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F4 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28F5 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F6 ; B 132 -195 571 521 ;
+C -1 ; WX 703 ; N uni28F7 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F8 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28F9 ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FA ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FB ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FC ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FD ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FE ; B 132 -195 571 781 ;
+C -1 ; WX 703 ; N uni28FF ; B 132 -195 571 781 ;
+C -1 ; WX 754 ; N uni2900 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2901 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2902 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni2903 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2904 ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni2905 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2906 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni2907 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2908 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni2909 ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni290A ; B 149 0 605 744 ;
+C -1 ; WX 754 ; N uni290B ; B 149 -20 605 724 ;
+C -1 ; WX 754 ; N uni290C ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni290D ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni290E ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni290F ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2910 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2911 ; B 48 119 721 527 ;
+C -1 ; WX 754 ; N uni2912 ; B 193 0 561 724 ;
+C -1 ; WX 754 ; N uni2913 ; B 193 0 561 724 ;
+C -1 ; WX 754 ; N uni2914 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2915 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2916 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2917 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2918 ; B 44 118 721 529 ;
+C -1 ; WX 754 ; N uni2919 ; B 51 118 710 529 ;
+C -1 ; WX 754 ; N uni291A ; B 44 118 703 529 ;
+C -1 ; WX 754 ; N uni291B ; B 51 118 710 529 ;
+C -1 ; WX 754 ; N uni291C ; B 44 118 703 529 ;
+C -1 ; WX 754 ; N uni291D ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni291E ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni291F ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni2920 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2921 ; B 132 52 622 595 ;
+C -1 ; WX 754 ; N uni2922 ; B 132 52 622 595 ;
+C -1 ; WX 754 ; N uni2923 ; B 132 -45 585 595 ;
+C -1 ; WX 754 ; N uni2924 ; B 168 -45 622 595 ;
+C -1 ; WX 754 ; N uni2925 ; B 168 52 622 692 ;
+C -1 ; WX 754 ; N uni2926 ; B 132 52 585 692 ;
+C -1 ; WX 754 ; N uni2927 ; B 112 29 642 595 ;
+C -1 ; WX 754 ; N uni2928 ; B 112 29 622 617 ;
+C -1 ; WX 754 ; N uni2929 ; B 112 52 642 617 ;
+C -1 ; WX 754 ; N uni292A ; B 132 29 642 617 ;
+C -1 ; WX 754 ; N uni292B ; B 112 29 642 617 ;
+C -1 ; WX 754 ; N uni292C ; B 112 29 642 617 ;
+C -1 ; WX 754 ; N uni292D ; B 112 29 622 617 ;
+C -1 ; WX 754 ; N uni292E ; B 112 29 622 617 ;
+C -1 ; WX 754 ; N uni292F ; B 112 29 642 617 ;
+C -1 ; WX 754 ; N uni2930 ; B 112 29 642 617 ;
+C -1 ; WX 754 ; N uni2931 ; B 112 29 642 595 ;
+C -1 ; WX 754 ; N uni2932 ; B 112 29 642 595 ;
+C -1 ; WX 754 ; N uni2933 ; B 38 119 721 527 ;
+C -1 ; WX 754 ; N uni2934 ; B 131 94 637 623 ;
+C -1 ; WX 754 ; N uni2935 ; B 131 80 637 608 ;
+C -1 ; WX 754 ; N uni2936 ; B 132 70 608 632 ;
+C -1 ; WX 754 ; N uni2937 ; B 146 70 622 632 ;
+C -1 ; WX 754 ; N uni2938 ; B 255 -13 532 735 ;
+C -1 ; WX 754 ; N uni2939 ; B 222 -13 499 735 ;
+C -1 ; WX 754 ; N uni293A ; B 46 188 720 495 ;
+C -1 ; WX 754 ; N uni293B ; B 35 151 708 459 ;
+C -1 ; WX 754 ; N uni293C ; B 35 78 708 495 ;
+C -1 ; WX 754 ; N uni293D ; B 46 0 720 495 ;
+C -1 ; WX 754 ; N uni293E ; B 126 58 623 593 ;
+C -1 ; WX 754 ; N uni293F ; B 132 58 628 593 ;
+C -1 ; WX 754 ; N uni2940 ; B 121 48 633 719 ;
+C -1 ; WX 754 ; N uni2941 ; B 121 48 633 719 ;
+C -1 ; WX 754 ; N uni2942 ; B 33 -52 721 698 ;
+C -1 ; WX 754 ; N uni2943 ; B 33 -52 721 698 ;
+C -1 ; WX 754 ; N uni2944 ; B 33 -52 721 698 ;
+C -1 ; WX 754 ; N uni2945 ; B 51 0 721 527 ;
+C -1 ; WX 754 ; N uni2946 ; B 33 0 703 527 ;
+C -1 ; WX 754 ; N uni2947 ; B 51 119 721 527 ;
+C -1 ; WX 754 ; N uni2948 ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni2949 ; B 193 -12 561 744 ;
+C -1 ; WX 754 ; N uni294A ; B 31 119 724 527 ;
+C -1 ; WX 754 ; N uni294B ; B 31 119 724 527 ;
+C -1 ; WX 754 ; N uni294C ; B 193 -23 561 747 ;
+C -1 ; WX 754 ; N uni294D ; B 193 -23 561 747 ;
+C -1 ; WX 754 ; N uni294E ; B 31 270 724 527 ;
+C -1 ; WX 754 ; N uni294F ; B 329 -23 561 747 ;
+C -1 ; WX 754 ; N uni2950 ; B 31 119 724 377 ;
+C -1 ; WX 754 ; N uni2951 ; B 193 -23 426 747 ;
+C -1 ; WX 754 ; N uni2952 ; B 51 131 703 527 ;
+C -1 ; WX 754 ; N uni2953 ; B 51 131 703 527 ;
+C -1 ; WX 754 ; N uni2954 ; B 204 0 561 724 ;
+C -1 ; WX 754 ; N uni2955 ; B 204 0 561 724 ;
+C -1 ; WX 754 ; N uni2956 ; B 51 119 703 515 ;
+C -1 ; WX 754 ; N uni2957 ; B 51 119 703 515 ;
+C -1 ; WX 754 ; N uni2958 ; B 193 0 550 724 ;
+C -1 ; WX 754 ; N uni2959 ; B 193 0 550 724 ;
+C -1 ; WX 754 ; N uni295A ; B 31 131 703 527 ;
+C -1 ; WX 754 ; N uni295B ; B 51 131 724 527 ;
+C -1 ; WX 754 ; N uni295C ; B 204 0 561 747 ;
+C -1 ; WX 754 ; N uni295D ; B 204 -23 561 724 ;
+C -1 ; WX 754 ; N uni295E ; B 31 119 703 515 ;
+C -1 ; WX 754 ; N uni295F ; B 51 119 724 515 ;
+C -1 ; WX 754 ; N uni2960 ; B 193 0 550 747 ;
+C -1 ; WX 754 ; N uni2961 ; B 193 -23 550 724 ;
+C -1 ; WX 754 ; N uni2962 ; B 31 21 703 625 ;
+C -1 ; WX 754 ; N uni2963 ; B 105 0 649 747 ;
+C -1 ; WX 754 ; N uni2964 ; B 51 21 724 625 ;
+C -1 ; WX 754 ; N uni2965 ; B 105 -23 649 724 ;
+C -1 ; WX 754 ; N uni2966 ; B 31 172 724 625 ;
+C -1 ; WX 754 ; N uni2967 ; B 31 21 724 475 ;
+C -1 ; WX 754 ; N uni2968 ; B 31 172 724 625 ;
+C -1 ; WX 754 ; N uni2969 ; B 31 21 724 475 ;
+C -1 ; WX 754 ; N uni296A ; B 31 184 703 613 ;
+C -1 ; WX 754 ; N uni296B ; B 31 34 703 462 ;
+C -1 ; WX 754 ; N uni296C ; B 51 184 724 613 ;
+C -1 ; WX 754 ; N uni296D ; B 51 34 724 462 ;
+C -1 ; WX 754 ; N uni296E ; B 105 -23 649 747 ;
+C -1 ; WX 754 ; N uni296F ; B 105 -23 649 747 ;
+C -1 ; WX 754 ; N uni2970 ; B 51 270 703 571 ;
+C -1 ; WX 754 ; N uni2971 ; B 51 119 721 757 ;
+C -1 ; WX 754 ; N uni2972 ; B 51 119 721 610 ;
+C -1 ; WX 754 ; N uni2973 ; B 33 36 703 527 ;
+C -1 ; WX 754 ; N uni2974 ; B 51 36 721 527 ;
+C -1 ; WX 754 ; N uni2975 ; B 51 -138 721 527 ;
+C -1 ; WX 754 ; N uni2976 ; B 33 -76 703 791 ;
+C -1 ; WX 929 ; N uni2977 ; B 33 42 878 604 ;
+C -1 ; WX 754 ; N uni2978 ; B 51 -76 721 791 ;
+C -1 ; WX 754 ; N uni2979 ; B 51 -76 721 748 ;
+C -1 ; WX 864 ; N uni297A ; B 33 10 813 637 ;
+C -1 ; WX 754 ; N uni297B ; B 33 -76 703 748 ;
+C -1 ; WX 754 ; N uni297C ; B 147 11 618 636 ;
+C -1 ; WX 754 ; N uni297D ; B 136 11 606 636 ;
+C -1 ; WX 754 ; N uni297E ; B 96 62 659 584 ;
+C -1 ; WX 754 ; N uni297F ; B 96 54 659 576 ;
+C -1 ; WX 444 ; N uni29EB ; B 2 -233 442 807 ;
+C -1 ; WX 1604 ; N uni2A0C ; B 21 -182 1555 759 ;
+C -1 ; WX 549 ; N uni2A0D ; B 22 -182 527 760 ;
+C -1 ; WX 549 ; N uni2A0E ; B 22 -182 527 760 ;
+C -1 ; WX 754 ; N uni2A2F ; B 116 23 638 604 ;
+C -1 ; WX 754 ; N uni2B00 ; B 64 -28 621 591 ;
+C -1 ; WX 754 ; N uni2B01 ; B 133 -28 690 591 ;
+C -1 ; WX 754 ; N uni2B02 ; B 64 52 621 671 ;
+C -1 ; WX 754 ; N uni2B03 ; B 133 52 690 671 ;
+C -1 ; WX 754 ; N uni2B04 ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni2B05 ; B 33 119 703 527 ;
+C -1 ; WX 754 ; N uni2B06 ; B 193 0 561 744 ;
+C -1 ; WX 754 ; N uni2B07 ; B 193 -20 561 724 ;
+C -1 ; WX 754 ; N uni2B08 ; B 64 -28 621 591 ;
+C -1 ; WX 754 ; N uni2B09 ; B 133 -28 690 591 ;
+C -1 ; WX 754 ; N uni2B0A ; B 64 52 621 671 ;
+C -1 ; WX 754 ; N uni2B0B ; B 133 52 690 671 ;
+C -1 ; WX 754 ; N uni2B0C ; B 33 119 721 527 ;
+C -1 ; WX 754 ; N uni2B0D ; B 193 -20 561 744 ;
+C -1 ; WX 754 ; N uni2B0E ; B 51 112 721 514 ;
+C -1 ; WX 754 ; N uni2B0F ; B 51 132 721 534 ;
+C -1 ; WX 754 ; N uni2B10 ; B 33 112 703 514 ;
+C -1 ; WX 754 ; N uni2B11 ; B 33 132 703 534 ;
+C -1 ; WX 850 ; N uni2B12 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni2B13 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni2B14 ; B 82 -124 769 643 ;
+C -1 ; WX 850 ; N uni2B15 ; B 82 -124 769 643 ;
+C -1 ; WX 692 ; N uni2B16 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni2B17 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni2B18 ; B 2 -124 690 643 ;
+C -1 ; WX 692 ; N uni2B19 ; B 2 -124 690 643 ;
+C -1 ; WX 850 ; N uni2B1A ; B 82 -124 769 643 ;
+C -1 ; WX 633 ; N uni2C60 ; B -22 0 581 729 ;
+C -1 ; WX 342 ; N uni2C61 ; B -16 0 366 760 ;
+C -1 ; WX 677 ; N uni2C63 ; B -22 0 681 729 ;
+C -1 ; WX 748 ; N uni2C64 ; B 129 -208 764 729 ;
+C -1 ; WX 850 ; N uni2C67 ; B -8 -157 888 729 ;
+C -1 ; WX 654 ; N uni2C68 ; B 31 -217 655 760 ;
+C -1 ; WX 782 ; N uni2C69 ; B -8 -157 826 729 ;
+C -1 ; WX 624 ; N uni2C6A ; B 31 -217 594 760 ;
+C -1 ; WX 657 ; N uni2C6B ; B -17 -157 698 729 ;
+C -1 ; WX 511 ; N uni2C6C ; B -14 -214 526 560 ;
+C -1 ; WX 763 ; N uni2C6D ; B 26 -14 791 742 ;
+C -1 ; WX 996 ; N uni2C6E ; B 38 -208 1082 729 ;
+C -1 ; WX 698 ; N uni2C6F ; B 110 0 836 729 ;
+C -1 ; WX 763 ; N uni2C70 ; B -26 -14 739 742 ;
+C -1 ; WX 638 ; N uni2C71 ; B 18 0 682 533 ;
+C -1 ; WX 1099 ; N uni2C72 ; B 45 0 1160 730 ;
+C -1 ; WX 886 ; N uni2C73 ; B 26 0 930 533 ;
+C -1 ; WX 701 ; N uni2C75 ; B -22 0 688 729 ;
+C -1 ; WX 519 ; N uni2C76 ; B 52 0 497 519 ;
+C -1 ; WX 814 ; N uni2C77 ; B 44 -14 774 533 ;
+C -1 ; WX 514 ; N uni2C79 ; B -41 -14 449 760 ;
+C -1 ; WX 600 ; N uni2C7A ; B 82 -14 610 533 ;
+C -1 ; WX 282 ; N uni2C7C ; B -7 -132 282 418 ;
+C -1 ; WX 439 ; N uni2C7D ; B 119 326 576 734 ;
+C -1 ; WX 650 ; N uni2C7E ; B 29 -208 630 742 ;
+C -1 ; WX 657 ; N uni2C7F ; B -13 -208 703 729 ;
+C -1 ; WX 695 ; N uni2D00 ; B 86 -53 722 514 ;
+C -1 ; WX 571 ; N uni2D01 ; B 28 -218 598 514 ;
+C -1 ; WX 723 ; N uni2D02 ; B 83 -218 750 514 ;
+C -1 ; WX 592 ; N uni2D03 ; B 75 -2 642 759 ;
+C -1 ; WX 708 ; N uni2D04 ; B 92 -217 735 514 ;
+C -1 ; WX 866 ; N uni2D05 ; B 40 -217 891 514 ;
+C -1 ; WX 680 ; N uni2D06 ; B 108 0 707 759 ;
+C -1 ; WX 864 ; N uni2D07 ; B 40 0 890 514 ;
+C -1 ; WX 555 ; N uni2D08 ; B 88 0 583 514 ;
+C -1 ; WX 581 ; N uni2D09 ; B 38 -217 608 729 ;
+C -1 ; WX 866 ; N uni2D0A ; B 34 0 886 514 ;
+C -1 ; WX 567 ; N uni2D0B ; B 74 -4 622 759 ;
+C -1 ; WX 581 ; N uni2D0C ; B 38 0 608 759 ;
+C -1 ; WX 866 ; N uni2D0D ; B 39 -2 892 514 ;
+C -1 ; WX 761 ; N uni2D0E ; B 96 0 787 514 ;
+C -1 ; WX 779 ; N uni2D0F ; B 81 -218 835 759 ;
+C -1 ; WX 865 ; N uni2D10 ; B 40 0 890 759 ;
+C -1 ; WX 580 ; N uni2D11 ; B 38 0 607 759 ;
+C -1 ; WX 580 ; N uni2D12 ; B 29 -217 589 515 ;
+C -1 ; WX 863 ; N uni2D13 ; B 40 -221 909 675 ;
+C -1 ; WX 851 ; N uni2D14 ; B 70 -217 836 555 ;
+C -1 ; WX 777 ; N uni2D15 ; B 57 -218 792 759 ;
+C -1 ; WX 580 ; N uni2D16 ; B 38 0 606 514 ;
+C -1 ; WX 581 ; N uni2D17 ; B 38 -217 608 514 ;
+C -1 ; WX 580 ; N uni2D18 ; B 38 -217 607 514 ;
+C -1 ; WX 584 ; N uni2D19 ; B 54 -217 611 759 ;
+C -1 ; WX 619 ; N uni2D1A ; B 66 -217 646 514 ;
+C -1 ; WX 842 ; N uni2D1B ; B 70 0 822 759 ;
+C -1 ; WX 883 ; N uni2D1C ; B 71 -217 909 514 ;
+C -1 ; WX 613 ; N uni2D1D ; B 29 -217 640 515 ;
+C -1 ; WX 608 ; N uni2D1E ; B 61 -217 636 514 ;
+C -1 ; WX 766 ; N uni2D1F ; B 23 -218 793 518 ;
+C -1 ; WX 1002 ; N uni2D20 ; B 88 0 1026 514 ;
+C -1 ; WX 569 ; N uni2D21 ; B 48 -217 596 759 ;
+C -1 ; WX 580 ; N uni2D22 ; B 60 -3 572 579 ;
+C -1 ; WX 582 ; N uni2D23 ; B 38 -217 639 759 ;
+C -1 ; WX 674 ; N uni2D24 ; B 38 -217 701 514 ;
+C -1 ; WX 822 ; N uni2D25 ; B 79 -4 818 759 ;
+C -1 ; WX 527 ; N uni2E18 ; B 10 -14 435 742 ;
+C -1 ; WX 426 ; N uni2E22 ; B 112 314 440 760 ;
+C -1 ; WX 426 ; N uni2E23 ; B 131 314 392 760 ;
+C -1 ; WX 426 ; N uni2E24 ; B 34 -132 294 314 ;
+C -1 ; WX 426 ; N uni2E25 ; B -15 -132 313 314 ;
+C -1 ; WX 527 ; N uni2E2E ; B 88 -14 547 742 ;
+C -1 ; WX 650 ; N uniA644 ; B 32 -14 622 742 ;
+C -1 ; WX 506 ; N uniA645 ; B 21 -14 489 533 ;
+C -1 ; WX 421 ; N uniA646 ; B 91 0 444 729 ;
+C -1 ; WX 342 ; N uniA647 ; B 67 0 298 519 ;
+C -1 ; WX 1200 ; N uniA650 ; B 37 0 1222 729 ;
+C -1 ; WX 976 ; N uniA651 ; B 16 -14 926 534 ;
+C -1 ; WX 1158 ; N uniA654 ; B 53 -14 1180 742 ;
+C -1 ; WX 923 ; N uniA655 ; B 40 -14 854 533 ;
+C -1 ; WX 1158 ; N uniA656 ; B -22 0 1115 729 ;
+C -1 ; WX 926 ; N uniA657 ; B 68 -14 862 533 ;
+C -1 ; WX 450 ; N uniA708 ; B 131 0 424 693 ;
+C -1 ; WX 450 ; N uniA709 ; B 105 0 424 693 ;
+C -1 ; WX 450 ; N uniA70A ; B 79 0 424 693 ;
+C -1 ; WX 450 ; N uniA70B ; B 52 0 424 693 ;
+C -1 ; WX 450 ; N uniA70C ; B 26 0 424 693 ;
+C -1 ; WX 450 ; N uniA70D ; B 26 0 424 693 ;
+C -1 ; WX 450 ; N uniA70E ; B 26 0 398 693 ;
+C -1 ; WX 450 ; N uniA70F ; B 26 0 372 693 ;
+C -1 ; WX 450 ; N uniA710 ; B 26 0 345 693 ;
+C -1 ; WX 450 ; N uniA711 ; B 26 0 319 693 ;
+C -1 ; WX 450 ; N uniA712 ; B 26 0 424 693 ;
+C -1 ; WX 450 ; N uniA713 ; B 26 0 398 693 ;
+C -1 ; WX 450 ; N uniA714 ; B 26 0 372 693 ;
+C -1 ; WX 450 ; N uniA715 ; B 26 0 345 693 ;
+C -1 ; WX 450 ; N uniA716 ; B 26 0 319 693 ;
+C -1 ; WX 346 ; N uniA71B ; B 71 326 305 743 ;
+C -1 ; WX 346 ; N uniA71C ; B 41 315 275 731 ;
+C -1 ; WX 249 ; N uniA71D ; B 44 318 213 734 ;
+C -1 ; WX 249 ; N uniA71E ; B 36 326 205 742 ;
+C -1 ; WX 249 ; N uniA71F ; B -21 0 147 416 ;
+C -1 ; WX 850 ; N uniA726 ; B -4 -208 892 729 ;
+C -1 ; WX 641 ; N uniA727 ; B 50 -222 578 760 ;
+C -1 ; WX 903 ; N uniA728 ; B 60 -203 861 729 ;
+C -1 ; WX 817 ; N uniA729 ; B 60 -203 780 680 ;
+C -1 ; WX 626 ; N uniA72A ; B 2 -14 628 742 ;
+C -1 ; WX 548 ; N uniA72B ; B 11 -12 549 742 ;
+C -1 ; WX 570 ; N uniA72C ; B 11 -14 534 729 ;
+C -1 ; WX 538 ; N uniA72D ; B 11 -222 515 519 ;
+C -1 ; WX 667 ; N uniA72E ; B 19 -104 638 729 ;
+C -1 ; WX 635 ; N uniA72F ; B 13 -240 601 519 ;
+C -1 ; WX 533 ; N uniA730 ; B -20 0 568 519 ;
+C -1 ; WX 506 ; N uniA731 ; B 0 -14 488 533 ;
+C -1 ; WX 1170 ; N uniA732 ; B -71 0 1127 729 ;
+C -1 ; WX 885 ; N uniA733 ; B 31 -14 821 533 ;
+C -1 ; WX 1134 ; N uniA734 ; B -71 -14 1096 742 ;
+C -1 ; WX 886 ; N uniA735 ; B 31 -14 875 533 ;
+C -1 ; WX 1051 ; N uniA736 ; B -90 -14 1097 729 ;
+C -1 ; WX 906 ; N uniA737 ; B 31 -14 856 533 ;
+C -1 ; WX 914 ; N uniA738 ; B -71 0 991 729 ;
+C -1 ; WX 749 ; N uniA739 ; B 31 -14 756 533 ;
+C -1 ; WX 914 ; N uniA73A ; B -71 0 991 729 ;
+C -1 ; WX 749 ; N uniA73B ; B 18 -14 766 533 ;
+C -1 ; WX 895 ; N uniA73C ; B -53 -208 990 729 ;
+C -1 ; WX 671 ; N uniA73D ; B 31 -222 723 533 ;
+C -1 ; WX 716 ; N uniA73E ; B 10 -14 679 742 ;
+C -1 ; WX 548 ; N uniA73F ; B 20 -14 514 533 ;
+C -1 ; WX 824 ; N uniA746 ; B 96 0 772 729 ;
+C -1 ; WX 523 ; N uniA747 ; B 83 0 446 760 ;
+C -1 ; WX 909 ; N uniA74A ; B -11 -14 920 742 ;
+C -1 ; WX 692 ; N uniA74B ; B -9 -14 703 533 ;
+C -1 ; WX 1303 ; N uniA74E ; B 38 -14 1265 742 ;
+C -1 ; WX 954 ; N uniA74F ; B 37 -14 918 533 ;
+C -1 ; WX 708 ; N uniA768 ; B -40 -208 752 729 ;
+C -1 ; WX 644 ; N uniA769 ; B 23 -208 653 519 ;
+C -1 ; WX 625 ; N uniA77B ; B 31 -208 694 742 ;
+C -1 ; WX 474 ; N uniA77C ; B 32 -208 547 533 ;
+C -1 ; WX 633 ; N uniA780 ; B 52 0 655 729 ;
+C -1 ; WX 342 ; N uniA781 ; B 22 -240 311 519 ;
+C -1 ; WX 785 ; N uniA782 ; B 31 -208 721 743 ;
+C -1 ; WX 654 ; N uniA783 ; B 32 -208 625 533 ;
+C -1 ; WX 625 ; N uniA784 ; B 31 -208 694 742 ;
+C -1 ; WX 474 ; N uniA785 ; B 32 -208 547 533 ;
+C -1 ; WX 716 ; N uniA786 ; B 39 -14 745 729 ;
+C -1 ; WX 548 ; N uniA787 ; B 38 -14 563 519 ;
+C -1 ; WX 395 ; N uniA78B ; B 143 225 345 729 ;
+C -1 ; WX 275 ; N uniA78C ; B 62 458 214 729 ;
+C -1 ; WX 822 ; N uniA78D ; B 81 0 839 729 ;
+C -1 ; WX 822 ; N uniA790 ; B -24 -157 851 729 ;
+C -1 ; WX 730 ; N uniA791 ; B 50 -217 676 533 ;
+C -1 ; WX 961 ; N uniA7FA ; B -16 0 976 519 ;
+C -1 ; WX 639 ; N uniA7FB ; B 45 0 661 729 ;
+C -1 ; WX 677 ; N uniA7FC ; B 48 0 699 729 ;
+C -1 ; WX 996 ; N uniA7FD ; B -22 0 1022 729 ;
+C -1 ; WX 421 ; N uniA7FE ; B -40 0 461 928 ;
+C -1 ; WX 1157 ; N uniA7FF ; B -71 0 1231 729 ;
+C -1 ; WX 653 ; N uniF400 ; B 6 -15 570 876 ;
+C -1 ; WX 663 ; N uniF401 ; B 19 -15 579 876 ;
+C -1 ; WX 707 ; N uniF402 ; B 11 -15 625 875 ;
+C -1 ; WX 917 ; N uniF403 ; B 73 -15 894 876 ;
+C -1 ; WX 663 ; N uniF404 ; B 5 -15 642 876 ;
+C -1 ; WX 658 ; N uniF405 ; B -1 -15 631 876 ;
+C -1 ; WX 716 ; N uniF406 ; B 75 -15 676 876 ;
+C -1 ; WX 952 ; N uniF407 ; B 33 -14 924 875 ;
+C -1 ; WX 663 ; N uniF408 ; B 41 -15 627 876 ;
+C -1 ; WX 663 ; N uniF409 ; B 6 -15 626 876 ;
+C -1 ; WX 1196 ; N uniF40A ; B 75 -21 1177 876 ;
+C -1 ; WX 679 ; N uniF40B ; B 20 -15 659 876 ;
+C -1 ; WX 678 ; N uniF40C ; B 29 -15 681 888 ;
+C -1 ; WX 922 ; N uniF40D ; B 42 -146 891 876 ;
+C -1 ; WX 663 ; N uniF40E ; B 12 -15 633 876 ;
+C -1 ; WX 678 ; N uniF40F ; B 5 -15 702 877 ;
+C -1 ; WX 963 ; N uniF410 ; B 22 -15 888 860 ;
+C -1 ; WX 736 ; N uniF411 ; B 59 -15 645 876 ;
+C -1 ; WX 783 ; N uniF412 ; B 29 -15 712 876 ;
+C -1 ; WX 737 ; N uniF413 ; B 72 -15 723 876 ;
+C -1 ; WX 914 ; N uniF414 ; B 82 -15 906 876 ;
+C -1 ; WX 677 ; N uniF415 ; B -1 -15 699 864 ;
+C -1 ; WX 907 ; N uniF416 ; B 81 -16 896 875 ;
+C -1 ; WX 677 ; N uniF417 ; B 4 -15 698 875 ;
+C -1 ; WX 684 ; N uniF418 ; B 23 -15 669 876 ;
+C -1 ; WX 678 ; N uniF419 ; B -24 -15 600 876 ;
+C -1 ; WX 720 ; N uniF41A ; B 25 -15 677 870 ;
+C -1 ; WX 678 ; N uniF41B ; B 19 -15 658 876 ;
+C -1 ; WX 684 ; N uniF41C ; B 29 -15 714 876 ;
+C -1 ; WX 664 ; N uniF41D ; B 1 -15 618 910 ;
+C -1 ; WX 721 ; N uniF41E ; B 64 -15 641 876 ;
+C -1 ; WX 860 ; N uniF41F ; B -19 -25 866 875 ;
+C -1 ; WX 663 ; N uniF420 ; B 1 -15 647 882 ;
+C -1 ; WX 762 ; N uniF421 ; B 31 -15 742 879 ;
+C -1 ; WX 664 ; N uniF422 ; B -26 -57 631 876 ;
+C -1 ; WX 663 ; N uniF423 ; B 3 -15 702 895 ;
+C -1 ; WX 663 ; N uniF424 ; B 3 -15 646 876 ;
+C -1 ; WX 714 ; N uniF425 ; B 0 -15 690 876 ;
+C -1 ; WX 930 ; N uniF426 ; B 66 -14 908 876 ;
+C -1 ; WX 813 ; N uniF428 ; B 64 -217 809 759 ;
+C -1 ; WX 342 ; N uniF6C4 ; B 51 0 351 763 ;
+C -1 ; WX 600 ; N uniF6C5 ; B 11 -14 597 756 ;
+C -1 ; WX 629 ; N uniF6C6 ; B 20 -222 600 533 ;
+C -1 ; WX 654 ; N uniF6C7 ; B 57 -14 644 731 ;
+C -1 ; WX 952 ; N uniF6C8 ; B 57 -14 938 731 ;
+C -1 ; WX 450 ; N cyrBreve ; B 53 616 404 816 ;
+C -1 ; WX 450 ; N cyrbreve ; B 72 624 406 840 ;
+C -1 ; WX 744 ; N uniFB00 ; B -53 -190 875 760 ;
+C -1 ; WX 654 ; N fi ; B -53 -190 611 760 ;
+C -1 ; WX 654 ; N fl ; B -53 -190 648 760 ;
+C -1 ; WX 998 ; N uniFB03 ; B -53 -190 968 760 ;
+C -1 ; WX 1031 ; N uniFB04 ; B -53 -190 1003 760 ;
+C -1 ; WX 791 ; N uniFB05 ; B -53 -190 791 760 ;
+C -1 ; WX 874 ; N uniFB06 ; B 0 -14 878 748 ;
+C -1 ; WX 0 ; N uniFE00 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE01 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE02 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE03 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE04 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE05 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE06 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE07 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE08 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE09 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0A ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0B ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0C ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0D ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0E ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFE0F ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFFF9 ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFFFA ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFFFB ; B 94 -108 1052 956 ;
+C -1 ; WX 0 ; N uniFFFC ; B 94 -108 1052 956 ;
+C -1 ; WX 1002 ; N uniFFFD ; B 94 -108 1052 956 ;
+C -1 ; WX 698 ; N u1D468 ; B -71 0 655 729 ;
+C -1 ; WX 760 ; N u1D469 ; B -22 0 704 729 ;
+C -1 ; WX 716 ; N u1D46A ; B 38 -14 708 742 ;
+C -1 ; WX 780 ; N u1D46B ; B -22 0 743 729 ;
+C -1 ; WX 686 ; N u1D46C ; B -22 0 696 729 ;
+C -1 ; WX 639 ; N u1D46D ; B -22 0 691 729 ;
+C -1 ; WX 769 ; N u1D46E ; B 38 -14 730 742 ;
+C -1 ; WX 850 ; N u1D46F ; B -22 0 874 729 ;
+C -1 ; WX 421 ; N u1D470 ; B -22 0 444 729 ;
+C -1 ; WX 426 ; N u1D471 ; B -142 -208 474 729 ;
+C -1 ; WX 782 ; N u1D472 ; B -22 0 812 729 ;
+C -1 ; WX 633 ; N u1D473 ; B -22 0 582 729 ;
+C -1 ; WX 996 ; N u1D474 ; B -26 0 1018 729 ;
+C -1 ; WX 822 ; N u1D475 ; B -24 0 851 729 ;
+C -1 ; WX 784 ; N u1D476 ; B 38 -14 746 742 ;
+C -1 ; WX 677 ; N u1D477 ; B -22 0 681 729 ;
+C -1 ; WX 784 ; N u1D478 ; B 44 -196 771 742 ;
+C -1 ; WX 748 ; N u1D479 ; B -22 0 700 729 ;
+C -1 ; WX 650 ; N u1D47A ; B 12 -14 613 742 ;
+C -1 ; WX 669 ; N u1D47B ; B 42 0 725 729 ;
+C -1 ; WX 785 ; N u1D47C ; B 85 -14 831 729 ;
+C -1 ; WX 698 ; N u1D47D ; B 48 0 775 729 ;
+C -1 ; WX 1011 ; N u1D47E ; B 45 0 1085 729 ;
+C -1 ; WX 698 ; N u1D47F ; B -48 0 727 729 ;
+C -1 ; WX 642 ; N u1D480 ; B 45 0 715 729 ;
+C -1 ; WX 657 ; N u1D481 ; B -31 0 684 729 ;
+C -1 ; WX 583 ; N u1D482 ; B 31 -14 519 533 ;
+C -1 ; WX 629 ; N u1D483 ; B 22 -14 581 760 ;
+C -1 ; WX 548 ; N u1D484 ; B 30 -14 533 533 ;
+C -1 ; WX 629 ; N u1D485 ; B 9 -14 610 760 ;
+C -1 ; WX 572 ; N u1D486 ; B 30 -14 534 533 ;
+C -1 ; WX 387 ; N u1D487 ; B -53 -190 516 760 ;
+C -1 ; WX 629 ; N u1D488 ; B 20 -222 600 533 ;
+C -1 ; WX 654 ; N u1D489 ; B 30 0 578 760 ;
+C -1 ; WX 342 ; N u1D48A ; B 30 0 303 760 ;
+C -1 ; WX 325 ; N u1D48B ; B -149 -222 318 760 ;
+C -1 ; WX 624 ; N u1D48C ; B 30 0 583 760 ;
+C -1 ; WX 342 ; N u1D48D ; B 30 0 319 760 ;
+C -1 ; WX 952 ; N u1D48E ; B 50 0 896 533 ;
+C -1 ; WX 654 ; N u1D48F ; B 50 0 598 533 ;
+C -1 ; WX 600 ; N u1D490 ; B 30 -14 571 533 ;
+C -1 ; WX 629 ; N u1D491 ; B 22 -208 618 533 ;
+C -1 ; WX 629 ; N u1D492 ; B 47 -208 599 533 ;
+C -1 ; WX 474 ; N u1D493 ; B 50 0 529 533 ;
+C -1 ; WX 506 ; N u1D494 ; B 0 -14 488 533 ;
+C -1 ; WX 416 ; N u1D495 ; B 43 -14 407 680 ;
+C -1 ; WX 654 ; N u1D496 ; B 57 -14 604 519 ;
+C -1 ; WX 523 ; N u1D497 ; B 19 0 530 521 ;
+C -1 ; WX 774 ; N u1D498 ; B 27 0 801 519 ;
+C -1 ; WX 536 ; N u1D499 ; B -17 0 545 519 ;
+C -1 ; WX 523 ; N u1D49A ; B -18 -222 574 519 ;
+C -1 ; WX 511 ; N u1D49B ; B -14 -41 526 560 ;
+C -1 ; WX 698 ; N u1D71C ; B -71 0 655 729 ;
+C -1 ; WX 760 ; N u1D71D ; B -22 0 704 729 ;
+C -1 ; WX 639 ; N u1D71E ; B -22 0 691 729 ;
+C -1 ; WX 698 ; N u1D71F ; B -38 0 604 729 ;
+C -1 ; WX 686 ; N u1D720 ; B -22 0 696 729 ;
+C -1 ; WX 657 ; N u1D721 ; B -31 0 684 729 ;
+C -1 ; WX 850 ; N u1D722 ; B -22 0 874 729 ;
+C -1 ; WX 784 ; N u1D723 ; B 38 -14 746 742 ;
+C -1 ; WX 421 ; N u1D724 ; B -22 0 444 729 ;
+C -1 ; WX 782 ; N u1D725 ; B -22 0 812 729 ;
+C -1 ; WX 698 ; N u1D726 ; B -71 0 655 729 ;
+C -1 ; WX 996 ; N u1D727 ; B -26 0 1018 729 ;
+C -1 ; WX 822 ; N u1D728 ; B -24 0 851 729 ;
+C -1 ; WX 633 ; N u1D729 ; B -14 0 642 729 ;
+C -1 ; WX 784 ; N u1D72A ; B 38 -14 746 742 ;
+C -1 ; WX 850 ; N u1D72B ; B -22 0 874 729 ;
+C -1 ; WX 677 ; N u1D72C ; B -22 0 681 729 ;
+C -1 ; WX 784 ; N u1D72D ; B 38 -14 746 742 ;
+C -1 ; WX 636 ; N u1D72E ; B -27 0 640 729 ;
+C -1 ; WX 669 ; N u1D72F ; B 42 0 725 729 ;
+C -1 ; WX 642 ; N u1D730 ; B 45 0 715 729 ;
+C -1 ; WX 784 ; N u1D731 ; B 38 0 745 729 ;
+C -1 ; WX 698 ; N u1D732 ; B -48 0 727 729 ;
+C -1 ; WX 822 ; N u1D733 ; B 60 0 880 729 ;
+C -1 ; WX 801 ; N u1D734 ; B -21 0 766 742 ;
+C -1 ; WX 677 ; N u1D735 ; B 18 0 661 729 ;
+C -1 ; WX 692 ; N u1D736 ; B 37 -14 672 532 ;
+C -1 ; WX 598 ; N u1D737 ; B -29 -208 569 769 ;
+C -1 ; WX 594 ; N u1D738 ; B 76 -209 601 519 ;
+C -1 ; WX 600 ; N u1D739 ; B 17 -14 566 765 ;
+C -1 ; WX 547 ; N u1D73A ; B 22 -12 529 526 ;
+C -1 ; WX 533 ; N u1D73B ; B 34 -208 573 760 ;
+C -1 ; WX 654 ; N u1D73C ; B 68 -208 596 533 ;
+C -1 ; WX 600 ; N u1D73D ; B 37 -17 564 771 ;
+C -1 ; WX 435 ; N u1D73E ; B 66 16 371 519 ;
+C -1 ; WX 674 ; N u1D73F ; B -15 0 644 519 ;
+C -1 ; WX 631 ; N u1D740 ; B -33 0 540 739 ;
+C -1 ; WX 659 ; N u1D741 ; B 28 -208 625 519 ;
+C -1 ; WX 624 ; N u1D742 ; B 51 0 604 519 ;
+C -1 ; WX 533 ; N u1D743 ; B 24 -208 573 760 ;
+C -1 ; WX 600 ; N u1D744 ; B 30 -14 571 533 ;
+C -1 ; WX 659 ; N u1D745 ; B -15 0 674 519 ;
+C -1 ; WX 598 ; N u1D746 ; B -8 -208 580 533 ;
+C -1 ; WX 548 ; N u1D747 ; B 54 -208 550 533 ;
+C -1 ; WX 664 ; N u1D748 ; B 38 -14 664 519 ;
+C -1 ; WX 605 ; N u1D749 ; B 52 16 606 519 ;
+C -1 ; WX 624 ; N u1D74A ; B 66 -1 592 519 ;
+C -1 ; WX 814 ; N u1D74B ; B 62 -208 792 519 ;
+C -1 ; WX 592 ; N u1D74C ; B -53 -222 636 533 ;
+C -1 ; WX 847 ; N u1D74D ; B 97 -208 872 519 ;
+C -1 ; WX 857 ; N u1D74E ; B 38 -1 822 519 ;
+C -1 ; WX 480 ; N u1D74F ; B 33 -12 449 659 ;
+C -1 ; WX 548 ; N u1D750 ; B 30 -14 534 533 ;
+C -1 ; WX 764 ; N u1D751 ; B 45 -17 733 771 ;
+C -1 ; WX 589 ; N u1D752 ; B 8 -5 581 521 ;
+C -1 ; WX 847 ; N u1D753 ; B 34 -208 806 760 ;
+C -1 ; WX 598 ; N u1D754 ; B 20 -210 580 533 ;
+C -1 ; WX 857 ; N u1D755 ; B 38 -1 876 519 ;
+C -1 ; WX 0 ; N dlLtcaron ; B -314 616 -129 800 ;
+C -1 ; WX 0 ; N Dieresis ; B -308 614 19 757 ;
+C -1 ; WX 0 ; N Acute ; B -248 616 -22 745 ;
+C -1 ; WX 0 ; N Tilde ; B -337 615 1 747 ;
+C -1 ; WX 0 ; N Grave ; B -302 616 -122 745 ;
+C -1 ; WX 0 ; N Circumflex ; B -351 616 -19 745 ;
+C -1 ; WX 0 ; N Caron ; B -315 616 17 745 ;
+C -1 ; WX 0 ; N uni0311.case ; B -336 616 -37 745 ;
+C -1 ; WX 0 ; N Breve ; B -303 616 -3 745 ;
+C -1 ; WX 0 ; N Dotaccent ; B -229 614 -100 757 ;
+C -1 ; WX 0 ; N Hungarumlaut ; B -302 616 70 745 ;
+C -1 ; WX 0 ; N Doublegrave ; B -454 616 -127 745 ;
+C -1 ; WX 342 ; N iogonek.dotless ; B 47 -196 294 519 ;
+C -1 ; WX 342 ; N uni0268.dotless ; B 5 0 304 519 ;
+C -1 ; WX 342 ; N dotaccent.i ; B 131 573 303 760 ;
+C -1 ; WX 345 ; N uni029D.dotless ; B -107 -223 316 519 ;
+C -1 ; WX 342 ; N uni1E2D.dotless ; B -98 -222 277 519 ;
+C -1 ; WX 342 ; N uni1ECB.dotless ; B 28 -213 277 519 ;
+C -1 ; WX 744 ; N florinflorin ; B -167 -190 875 760 ;
+C -1 ; WX 654 ; N florini ; B -166 -190 611 760 ;
+C -1 ; WX 654 ; N florinl ; B -166 -190 648 760 ;
+C -1 ; WX 998 ; N florinflorini ; B -167 -190 968 760 ;
+C -1 ; WX 1031 ; N florinflorinl ; B -167 -190 1003 760 ;
+C -1 ; WX 822 ; N Eng.alt ; B -24 -222 851 729 ;
+C -1 ; WX 880 ; N ae.alt ; B 14 -14 842 533 ;
+C -1 ; WX 176 ; N brailledot ; B 0 0 176 195 ;
+C -1 ; WX 455 ; N uni0453.MKD ; B 50 -14 558 925 ;
+C -1 ; WX 615 ; N uni03080304 ; B 135 782 468 1036 ;
+C -1 ; WX 615 ; N uni03040308 ; B 146 789 481 1055 ;
+C -1 ; WX 615 ; N uni03070304 ; B 179 782 472 1036 ;
+C -1 ; WX 615 ; N uni03080301 ; B 158 782 506 1057 ;
+C -1 ; WX 615 ; N uni03080300 ; B 158 782 484 1057 ;
+C -1 ; WX 615 ; N uni03040301 ; B 146 795 506 1057 ;
+C -1 ; WX 615 ; N uni03040300 ; B 146 795 439 1057 ;
+C -1 ; WX 615 ; N uni03030304 ; B 130 781 470 1036 ;
+C -1 ; WX 615 ; N uni0308030C ; B 158 782 522 1058 ;
+C -1 ; WX 615 ; N uni03030308 ; B 130 781 508 1055 ;
+C -1 ; WX 615 ; N uni030C0307 ; B 153 798 485 1065 ;
+C -1 ; WX 615 ; N uni03030301 ; B 130 781 542 1057 ;
+C -1 ; WX 615 ; N uni03020301 ; B 117 798 615 1054 ;
+C -1 ; WX 615 ; N uni03020300 ; B 117 798 557 1054 ;
+C -1 ; WX 615 ; N uni03020303 ; B 117 798 489 1069 ;
+C -1 ; WX 615 ; N uni03060303 ; B 156 780 494 1069 ;
+C -1 ; WX 615 ; N uni03060301 ; B 158 780 482 1057 ;
+C -1 ; WX 615 ; N uni03060300 ; B 158 780 457 1057 ;
+C -1 ; WX 615 ; N uni03060309 ; B 158 780 457 1145 ;
+C -1 ; WX 615 ; N uni03020309 ; B 117 798 629 1116 ;
+C -1 ; WX 0 ; N uni03010307 ; B -341 671 10 832 ;
+C -1 ; WX 629 ; N g.alt ; B -3 -222 672 533 ;
+C -1 ; WX 822 ; N Eng.alt2 ; B 61 -14 853 729 ;
+C -1 ; WX 680 ; N uni01B7.alt ; B -3 0 708 729 ;
+EndCharMetrics
+StartKernData
+StartKernPairs 1100
+KPX hyphen T -166
+KPX hyphen V -73
+KPX hyphen W -55
+KPX hyphen X -73
+KPX hyphen Y -110
+KPX hyphen Yacute -110
+KPX hyphen Tcaron -166
+KPX hyphen Ydieresis -110
+KPX A T -55
+KPX A V -73
+KPX A W -50
+KPX A Y -50
+KPX A f -18
+KPX A t -18
+KPX A v -41
+KPX A w -41
+KPX A y -41
+KPX A Yacute -50
+KPX A yacute -41
+KPX A ydieresis -41
+KPX A Tcaron -55
+KPX A tcaron -18
+KPX A Ydieresis -50
+KPX A quoteright -119
+KPX A quotedblright -119
+KPX A fi -18
+KPX A fl -18
+KPX B hyphen 19
+KPX B C 19
+KPX B G 19
+KPX B O 19
+KPX B Y -18
+KPX B Ccedilla 19
+KPX B Ograve 19
+KPX B Oacute 19
+KPX B Ocircumflex 19
+KPX B Otilde 19
+KPX B Odieresis 19
+KPX B Oslash 19
+KPX B Yacute -18
+KPX B Cacute 19
+KPX B Ccaron 19
+KPX B Gbreve 19
+KPX B OE 19
+KPX B Ydieresis -18
+KPX C comma -18
+KPX C period -18
+KPX D comma -36
+KPX D hyphen 19
+KPX D period -36
+KPX D V -18
+KPX E hyphen 19
+KPX F comma -101
+KPX F hyphen -45
+KPX F period -101
+KPX F colon -36
+KPX F semicolon -36
+KPX F A -59
+KPX F a -55
+KPX F e -55
+KPX F o -55
+KPX F r -18
+KPX F u -18
+KPX F Agrave -59
+KPX F Aacute -59
+KPX F Acircumflex -59
+KPX F Atilde -59
+KPX F Adieresis -59
+KPX F agrave -55
+KPX F aacute -55
+KPX F acircumflex -55
+KPX F atilde -55
+KPX F adieresis -55
+KPX F aring -55
+KPX F ae -55
+KPX F egrave -55
+KPX F eacute -55
+KPX F ecircumflex -55
+KPX F edieresis -55
+KPX F ograve -55
+KPX F oacute -55
+KPX F ocircumflex -55
+KPX F otilde -55
+KPX F odieresis -55
+KPX F oslash -55
+KPX F ugrave -18
+KPX F uacute -18
+KPX F ucircumflex -18
+KPX F udieresis -18
+KPX F ecaron -55
+KPX F oe -55
+KPX F racute -18
+KPX F rcaron -18
+KPX F uring -18
+KPX G comma -36
+KPX G hyphen 19
+KPX G period -36
+KPX J comma -41
+KPX J period -78
+KPX J colon -41
+KPX J semicolon -41
+KPX K hyphen -73
+KPX K A -41
+KPX K C -27
+KPX K O -27
+KPX K U -36
+KPX K W -36
+KPX K Y -27
+KPX K e -22
+KPX K o -22
+KPX K u -22
+KPX K y -45
+KPX K Agrave -41
+KPX K Aacute -41
+KPX K Acircumflex -41
+KPX K Atilde -41
+KPX K Adieresis -41
+KPX K Ccedilla -27
+KPX K Ograve -27
+KPX K Oacute -27
+KPX K Ocircumflex -27
+KPX K Otilde -27
+KPX K Odieresis -27
+KPX K Oslash -27
+KPX K Ugrave -36
+KPX K Uacute -36
+KPX K Ucircumflex -36
+KPX K Udieresis -36
+KPX K Yacute -27
+KPX K egrave -22
+KPX K eacute -22
+KPX K ecircumflex -22
+KPX K edieresis -22
+KPX K ograve -22
+KPX K oacute -22
+KPX K ocircumflex -22
+KPX K otilde -22
+KPX K odieresis -22
+KPX K oslash -18
+KPX K ugrave -22
+KPX K uacute -22
+KPX K ucircumflex -22
+KPX K udieresis -22
+KPX K yacute -45
+KPX K ydieresis -45
+KPX K Cacute -27
+KPX K Ccaron -27
+KPX K ecaron -22
+KPX K OE -27
+KPX K oe -22
+KPX K Uring -36
+KPX K uring -22
+KPX K Ydieresis -27
+KPX L T -82
+KPX L U -55
+KPX L V -119
+KPX L W -68
+KPX L Y -64
+KPX L y -36
+KPX L Ugrave -55
+KPX L Uacute -55
+KPX L Ucircumflex -55
+KPX L Udieresis -55
+KPX L Yacute -64
+KPX L yacute -36
+KPX L ydieresis -36
+KPX L Tcaron -82
+KPX L Uring -55
+KPX L Ydieresis -64
+KPX L quoteleft -240
+KPX L quoteright -240
+KPX L quotedblleft -240
+KPX L quotedblright -240
+KPX N comma -64
+KPX N period -64
+KPX N colon -36
+KPX N semicolon -36
+KPX O comma -59
+KPX O hyphen 37
+KPX O period -59
+KPX O V -18
+KPX O X -18
+KPX P comma -129
+KPX P hyphen -55
+KPX P period -166
+KPX P colon -36
+KPX P semicolon -36
+KPX P A -73
+KPX P a -27
+KPX P e -27
+KPX P o -27
+KPX P Agrave -73
+KPX P Aacute -73
+KPX P Acircumflex -73
+KPX P Atilde -73
+KPX P Adieresis -73
+KPX P agrave -27
+KPX P aacute -27
+KPX P acircumflex -27
+KPX P atilde -27
+KPX P adieresis -27
+KPX P aring -27
+KPX P ae -27
+KPX P egrave -27
+KPX P eacute -27
+KPX P ecircumflex -27
+KPX P edieresis -27
+KPX P ograve -27
+KPX P oacute -27
+KPX P ocircumflex -27
+KPX P otilde -27
+KPX P odieresis -27
+KPX P oslash -27
+KPX P ecaron -27
+KPX P oe -27
+KPX P quotesinglbase -129
+KPX P quotedblbase -129
+KPX Q comma -50
+KPX Q hyphen 37
+KPX Q period -50
+KPX R T -18
+KPX R V -36
+KPX R W -22
+KPX R Y -31
+KPX R a 23
+KPX R y -18
+KPX R Yacute -31
+KPX R agrave 23
+KPX R aacute 23
+KPX R acircumflex 23
+KPX R atilde 23
+KPX R adieresis 23
+KPX R aring 23
+KPX R ae 23
+KPX R oslash 19
+KPX R yacute -18
+KPX R ydieresis -18
+KPX R Tcaron -18
+KPX R Ydieresis -31
+KPX R quoteright -36
+KPX R quotedblright -36
+KPX S comma -36
+KPX S hyphen 37
+KPX S period -36
+KPX S S -22
+KPX S Scedilla -22
+KPX S Scaron -22
+KPX T comma -110
+KPX T hyphen -166
+KPX T period -129
+KPX T colon -36
+KPX T semicolon -36
+KPX T A -55
+KPX T T -36
+KPX T a -96
+KPX T c -115
+KPX T e -115
+KPX T o -115
+KPX T r -73
+KPX T s -92
+KPX T u -92
+KPX T w -110
+KPX T y -110
+KPX T guillemotleft -73
+KPX T guillemotright -73
+KPX T Agrave -55
+KPX T Aacute -55
+KPX T Acircumflex -55
+KPX T Atilde -55
+KPX T Adieresis -55
+KPX T agrave -96
+KPX T aacute -96
+KPX T acircumflex -96
+KPX T atilde -96
+KPX T adieresis -96
+KPX T aring -96
+KPX T ae -78
+KPX T ccedilla -115
+KPX T egrave -115
+KPX T eacute -115
+KPX T ecircumflex -115
+KPX T edieresis -115
+KPX T ograve -115
+KPX T oacute -115
+KPX T ocircumflex -115
+KPX T otilde -115
+KPX T odieresis -115
+KPX T oslash -78
+KPX T ugrave -92
+KPX T uacute -92
+KPX T ucircumflex -92
+KPX T udieresis -92
+KPX T yacute -110
+KPX T ydieresis -110
+KPX T cacute -115
+KPX T ccaron -115
+KPX T ecaron -115
+KPX T oe -78
+KPX T racute -73
+KPX T rcaron -73
+KPX T scedilla -92
+KPX T scaron -92
+KPX T Tcaron -36
+KPX T uring -92
+KPX T quotesinglbase -73
+KPX T quotedblbase -73
+KPX T guilsinglleft -73
+KPX T guilsinglright -73
+KPX U comma -92
+KPX U hyphen -18
+KPX U period -92
+KPX U colon -36
+KPX U semicolon -36
+KPX U A -31
+KPX U Agrave -31
+KPX U Aacute -31
+KPX U Acircumflex -31
+KPX U Atilde -31
+KPX U Adieresis -31
+KPX V comma -175
+KPX V hyphen -73
+KPX V period -175
+KPX V colon -101
+KPX V semicolon -101
+KPX V A -78
+KPX V O -18
+KPX V a -92
+KPX V e -92
+KPX V i -18
+KPX V o -92
+KPX V u -64
+KPX V y -41
+KPX V Agrave -78
+KPX V Aacute -78
+KPX V Acircumflex -78
+KPX V Atilde -78
+KPX V Adieresis -78
+KPX V Ograve -18
+KPX V Oacute -18
+KPX V Ocircumflex -18
+KPX V Otilde -18
+KPX V Odieresis -18
+KPX V Oslash -18
+KPX V agrave -92
+KPX V aacute -92
+KPX V acircumflex -92
+KPX V atilde -92
+KPX V adieresis -92
+KPX V aring -92
+KPX V ae -92
+KPX V egrave -92
+KPX V eacute -92
+KPX V ecircumflex -92
+KPX V edieresis -92
+KPX V ograve -92
+KPX V oacute -92
+KPX V ocircumflex -92
+KPX V otilde -92
+KPX V odieresis -92
+KPX V oslash -92
+KPX V ugrave -64
+KPX V uacute -64
+KPX V ucircumflex -64
+KPX V udieresis -64
+KPX V yacute -41
+KPX V ydieresis -41
+KPX V ecaron -92
+KPX V OE -18
+KPX V oe -92
+KPX V uring -64
+KPX V quoteright 19
+KPX V quotesinglbase -129
+KPX V quotedblright 19
+KPX V quotedblbase -129
+KPX W comma -156
+KPX W hyphen -55
+KPX W period -156
+KPX W colon -68
+KPX W semicolon -68
+KPX W A -64
+KPX W a -87
+KPX W e -82
+KPX W i -18
+KPX W o -82
+KPX W r -45
+KPX W u -41
+KPX W y -22
+KPX W Agrave -64
+KPX W Aacute -64
+KPX W Acircumflex -64
+KPX W Atilde -64
+KPX W Adieresis -64
+KPX W agrave -87
+KPX W aacute -87
+KPX W acircumflex -87
+KPX W atilde -87
+KPX W adieresis -87
+KPX W aring -87
+KPX W ae -68
+KPX W egrave -82
+KPX W eacute -82
+KPX W ecircumflex -82
+KPX W edieresis -82
+KPX W ograve -82
+KPX W oacute -82
+KPX W ocircumflex -82
+KPX W otilde -82
+KPX W odieresis -82
+KPX W oslash -82
+KPX W ugrave -41
+KPX W uacute -41
+KPX W ucircumflex -41
+KPX W udieresis -41
+KPX W yacute -22
+KPX W ydieresis -22
+KPX W ecaron -82
+KPX W oe -82
+KPX W racute -45
+KPX W rcaron -45
+KPX W uring -41
+KPX W quoteright 19
+KPX W quotesinglbase -110
+KPX W quotedblright 19
+KPX W quotedblbase -110
+KPX X hyphen -36
+KPX X A -36
+KPX X C -18
+KPX X O -18
+KPX X Agrave -36
+KPX X Aacute -36
+KPX X Acircumflex -36
+KPX X Atilde -36
+KPX X Adieresis -36
+KPX X Ccedilla -18
+KPX X Ograve -18
+KPX X Oacute -18
+KPX X Ocircumflex -18
+KPX X Otilde -18
+KPX X Odieresis -18
+KPX X Oslash -18
+KPX X Cacute -18
+KPX X Ccaron -18
+KPX X OE -18
+KPX Y comma -129
+KPX Y hyphen -101
+KPX Y period -129
+KPX Y colon -124
+KPX Y semicolon -124
+KPX Y A -64
+KPX Y C -18
+KPX Y a -78
+KPX Y e -87
+KPX Y i -18
+KPX Y o -87
+KPX Y u -87
+KPX Y Agrave -64
+KPX Y Aacute -64
+KPX Y Acircumflex -64
+KPX Y Atilde -64
+KPX Y Adieresis -64
+KPX Y Ccedilla -18
+KPX Y agrave -78
+KPX Y aacute -78
+KPX Y acircumflex -78
+KPX Y atilde -78
+KPX Y adieresis -78
+KPX Y aring -78
+KPX Y ae -78
+KPX Y egrave -87
+KPX Y eacute -87
+KPX Y ecircumflex -87
+KPX Y edieresis -87
+KPX Y ograve -87
+KPX Y oacute -87
+KPX Y ocircumflex -87
+KPX Y otilde -87
+KPX Y odieresis -87
+KPX Y oslash -87
+KPX Y ugrave -87
+KPX Y uacute -87
+KPX Y ucircumflex -87
+KPX Y udieresis -87
+KPX Y Cacute -18
+KPX Y Ccaron -18
+KPX Y ecaron -87
+KPX Y oe -87
+KPX Y uring -87
+KPX Z comma -18
+KPX Z period -18
+KPX f comma -22
+KPX f hyphen -36
+KPX f period -36
+KPX f quoteright 74
+KPX f quotedblleft 32
+KPX f quotedblright 74
+KPX k hyphen -41
+KPX o period -18
+KPX r comma -73
+KPX r period -92
+KPX r quoteleft 37
+KPX r quoteright 37
+KPX r quotedblleft 37
+KPX r quotedblright 37
+KPX v comma -82
+KPX v period -101
+KPX v quoteleft 37
+KPX v quoteright 37
+KPX v quotedblleft 37
+KPX v quotedblright 37
+KPX w comma -82
+KPX w period -101
+KPX w quoteleft 37
+KPX w quoteright 37
+KPX w quotedblleft 37
+KPX w quotedblright 37
+KPX x hyphen -18
+KPX y comma -96
+KPX y period -115
+KPX y quoteleft 37
+KPX y quoteright 37
+KPX y quotedblleft 37
+KPX y quotedblright 37
+KPX guillemotleft J -36
+KPX guillemotleft T -73
+KPX guillemotleft Tcaron -73
+KPX guillemotright J -36
+KPX guillemotright T -73
+KPX guillemotright Tcaron -73
+KPX Agrave T -55
+KPX Agrave V -73
+KPX Agrave W -50
+KPX Agrave Y -50
+KPX Agrave f -18
+KPX Agrave t -18
+KPX Agrave v -41
+KPX Agrave w -41
+KPX Agrave y -41
+KPX Agrave Yacute -50
+KPX Agrave yacute -41
+KPX Agrave ydieresis -41
+KPX Agrave Tcaron -55
+KPX Agrave tcaron -18
+KPX Agrave Ydieresis -50
+KPX Agrave quoteright -119
+KPX Agrave quotedblright -119
+KPX Agrave fi -18
+KPX Agrave fl -18
+KPX Aacute T -55
+KPX Aacute V -73
+KPX Aacute W -50
+KPX Aacute Y -50
+KPX Aacute f -18
+KPX Aacute t -18
+KPX Aacute v -41
+KPX Aacute w -41
+KPX Aacute y -41
+KPX Aacute Yacute -50
+KPX Aacute yacute -41
+KPX Aacute ydieresis -41
+KPX Aacute Tcaron -55
+KPX Aacute tcaron -18
+KPX Aacute Ydieresis -50
+KPX Aacute quoteright -119
+KPX Aacute quotedblright -119
+KPX Aacute fi -18
+KPX Aacute fl -18
+KPX Acircumflex T -55
+KPX Acircumflex V -73
+KPX Acircumflex W -50
+KPX Acircumflex Y -50
+KPX Acircumflex f -18
+KPX Acircumflex t -18
+KPX Acircumflex v -41
+KPX Acircumflex w -41
+KPX Acircumflex y -41
+KPX Acircumflex Yacute -50
+KPX Acircumflex yacute -41
+KPX Acircumflex ydieresis -41
+KPX Acircumflex Tcaron -55
+KPX Acircumflex tcaron -18
+KPX Acircumflex Ydieresis -50
+KPX Acircumflex quoteright -119
+KPX Acircumflex quotedblright -119
+KPX Acircumflex fi -18
+KPX Acircumflex fl -18
+KPX Atilde T -55
+KPX Atilde V -73
+KPX Atilde W -50
+KPX Atilde Y -50
+KPX Atilde f -18
+KPX Atilde t -18
+KPX Atilde v -41
+KPX Atilde w -41
+KPX Atilde y -41
+KPX Atilde Yacute -50
+KPX Atilde yacute -41
+KPX Atilde ydieresis -41
+KPX Atilde Tcaron -55
+KPX Atilde tcaron -18
+KPX Atilde Ydieresis -50
+KPX Atilde quoteright -119
+KPX Atilde quotedblright -119
+KPX Atilde fi -18
+KPX Atilde fl -18
+KPX Adieresis T -55
+KPX Adieresis V -73
+KPX Adieresis W -50
+KPX Adieresis Y -50
+KPX Adieresis f -18
+KPX Adieresis t -18
+KPX Adieresis v -41
+KPX Adieresis w -41
+KPX Adieresis y -41
+KPX Adieresis Yacute -50
+KPX Adieresis yacute -41
+KPX Adieresis ydieresis -41
+KPX Adieresis Tcaron -55
+KPX Adieresis tcaron -18
+KPX Adieresis Ydieresis -50
+KPX Adieresis quoteright -119
+KPX Adieresis quotedblright -119
+KPX Adieresis fi -18
+KPX Adieresis fl -18
+KPX AE hyphen 19
+KPX Ccedilla comma -18
+KPX Ccedilla period -18
+KPX Egrave hyphen 19
+KPX Eacute hyphen 19
+KPX Ecircumflex hyphen 19
+KPX Edieresis hyphen 19
+KPX Eth comma -36
+KPX Eth hyphen 37
+KPX Eth period -36
+KPX Eth A -18
+KPX Eth V -18
+KPX Eth Y -18
+KPX Eth Agrave -18
+KPX Eth Aacute -18
+KPX Eth Acircumflex -18
+KPX Eth Atilde -18
+KPX Eth Adieresis -18
+KPX Eth Yacute -18
+KPX Eth Ydieresis -18
+KPX Ntilde comma -64
+KPX Ntilde period -64
+KPX Ntilde colon -36
+KPX Ntilde semicolon -36
+KPX Ograve comma -59
+KPX Ograve hyphen 37
+KPX Ograve period -59
+KPX Ograve V -18
+KPX Ograve X -18
+KPX Oacute comma -59
+KPX Oacute hyphen 37
+KPX Oacute period -59
+KPX Oacute V -18
+KPX Oacute X -18
+KPX Ocircumflex comma -59
+KPX Ocircumflex hyphen 37
+KPX Ocircumflex period -59
+KPX Ocircumflex V -18
+KPX Ocircumflex X -18
+KPX Otilde comma -59
+KPX Otilde hyphen 37
+KPX Otilde period -59
+KPX Otilde V -18
+KPX Otilde X -18
+KPX Odieresis comma -59
+KPX Odieresis hyphen 37
+KPX Odieresis period -59
+KPX Odieresis V -18
+KPX Odieresis X -18
+KPX Oslash comma -59
+KPX Oslash hyphen 37
+KPX Oslash period -59
+KPX Oslash V -18
+KPX Oslash X -18
+KPX Ugrave comma -92
+KPX Ugrave hyphen -18
+KPX Ugrave period -92
+KPX Ugrave colon -36
+KPX Ugrave semicolon -36
+KPX Ugrave A -31
+KPX Ugrave Agrave -31
+KPX Ugrave Aacute -31
+KPX Ugrave Acircumflex -31
+KPX Ugrave Atilde -31
+KPX Ugrave Adieresis -31
+KPX Uacute comma -92
+KPX Uacute hyphen -18
+KPX Uacute period -92
+KPX Uacute colon -36
+KPX Uacute semicolon -36
+KPX Uacute A -31
+KPX Uacute Agrave -31
+KPX Uacute Aacute -31
+KPX Uacute Acircumflex -31
+KPX Uacute Atilde -31
+KPX Uacute Adieresis -31
+KPX Ucircumflex comma -92
+KPX Ucircumflex hyphen -18
+KPX Ucircumflex period -92
+KPX Ucircumflex colon -36
+KPX Ucircumflex semicolon -36
+KPX Ucircumflex A -31
+KPX Ucircumflex Agrave -31
+KPX Ucircumflex Aacute -31
+KPX Ucircumflex Acircumflex -31
+KPX Ucircumflex Atilde -31
+KPX Ucircumflex Adieresis -31
+KPX Udieresis comma -92
+KPX Udieresis hyphen -18
+KPX Udieresis period -92
+KPX Udieresis colon -36
+KPX Udieresis semicolon -36
+KPX Udieresis A -31
+KPX Udieresis Agrave -31
+KPX Udieresis Aacute -31
+KPX Udieresis Acircumflex -31
+KPX Udieresis Atilde -31
+KPX Udieresis Adieresis -31
+KPX Yacute comma -129
+KPX Yacute hyphen -101
+KPX Yacute period -129
+KPX Yacute colon -124
+KPX Yacute semicolon -124
+KPX Yacute A -64
+KPX Yacute C -18
+KPX Yacute a -78
+KPX Yacute e -87
+KPX Yacute i -18
+KPX Yacute o -87
+KPX Yacute u -87
+KPX Yacute Agrave -64
+KPX Yacute Aacute -64
+KPX Yacute Acircumflex -64
+KPX Yacute Atilde -64
+KPX Yacute Adieresis -64
+KPX Yacute Ccedilla -18
+KPX Yacute agrave -78
+KPX Yacute aacute -78
+KPX Yacute acircumflex -78
+KPX Yacute atilde -78
+KPX Yacute adieresis -78
+KPX Yacute aring -78
+KPX Yacute ae -78
+KPX Yacute egrave -87
+KPX Yacute eacute -87
+KPX Yacute ecircumflex -87
+KPX Yacute edieresis -87
+KPX Yacute ograve -87
+KPX Yacute oacute -87
+KPX Yacute ocircumflex -87
+KPX Yacute otilde -87
+KPX Yacute odieresis -87
+KPX Yacute oslash -87
+KPX Yacute ugrave -87
+KPX Yacute uacute -87
+KPX Yacute ucircumflex -87
+KPX Yacute udieresis -87
+KPX Yacute Cacute -18
+KPX Yacute Ccaron -18
+KPX Yacute ecaron -87
+KPX Yacute oe -87
+KPX Yacute uring -87
+KPX Thorn comma -129
+KPX Thorn hyphen 19
+KPX Thorn period -147
+KPX eth period -18
+KPX ograve period -18
+KPX oacute period -18
+KPX ocircumflex period -18
+KPX otilde period -18
+KPX odieresis period -18
+KPX oslash period -18
+KPX yacute comma -96
+KPX yacute period -115
+KPX yacute quoteleft 37
+KPX yacute quoteright 37
+KPX yacute quotedblleft 37
+KPX yacute quotedblright 37
+KPX thorn comma -18
+KPX thorn period -50
+KPX ydieresis comma -96
+KPX ydieresis period -115
+KPX ydieresis quoteleft 37
+KPX ydieresis quoteright 37
+KPX ydieresis quotedblleft 37
+KPX ydieresis quotedblright 37
+KPX Cacute comma -18
+KPX Cacute period -18
+KPX Ccaron comma -18
+KPX Ccaron period -18
+KPX Dcaron comma -36
+KPX Dcaron hyphen 19
+KPX Dcaron period -36
+KPX Dcaron V -18
+KPX Ecaron hyphen 19
+KPX Gbreve comma -36
+KPX Gbreve hyphen 19
+KPX Gbreve period -36
+KPX Lacute T -82
+KPX Lacute U -55
+KPX Lacute V -119
+KPX Lacute W -68
+KPX Lacute Y -64
+KPX Lacute y -36
+KPX Lacute Ugrave -55
+KPX Lacute Uacute -55
+KPX Lacute Ucircumflex -55
+KPX Lacute Udieresis -55
+KPX Lacute Yacute -64
+KPX Lacute yacute -36
+KPX Lacute ydieresis -36
+KPX Lacute Tcaron -82
+KPX Lacute Uring -55
+KPX Lacute Ydieresis -64
+KPX Lacute quoteleft -240
+KPX Lacute quoteright -240
+KPX Lacute quotedblleft -240
+KPX Lacute quotedblright -240
+KPX Lcaron T -82
+KPX Lcaron U -55
+KPX Lcaron V -119
+KPX Lcaron W -68
+KPX Lcaron Y -64
+KPX Lcaron y -36
+KPX Lcaron Ugrave -55
+KPX Lcaron Uacute -55
+KPX Lcaron Ucircumflex -55
+KPX Lcaron Udieresis -55
+KPX Lcaron Yacute -64
+KPX Lcaron yacute -36
+KPX Lcaron ydieresis -36
+KPX Lcaron Tcaron -82
+KPX Lcaron Uring -55
+KPX Lcaron Ydieresis -64
+KPX Lcaron quoteleft -240
+KPX Lcaron quoteright -240
+KPX Lcaron quotedblleft -240
+KPX Lcaron quotedblright -240
+KPX ldot l -118
+KPX Lslash T -82
+KPX Lslash U -55
+KPX Lslash V -119
+KPX Lslash W -68
+KPX Lslash Y -64
+KPX Lslash y -36
+KPX Lslash Ugrave -55
+KPX Lslash Uacute -55
+KPX Lslash Ucircumflex -55
+KPX Lslash Udieresis -55
+KPX Lslash Yacute -64
+KPX Lslash yacute -36
+KPX Lslash ydieresis -36
+KPX Lslash Tcaron -82
+KPX Lslash Uring -55
+KPX Lslash Ydieresis -64
+KPX Lslash quoteright -152
+KPX Lslash quotedblright -147
+KPX Ncaron comma -64
+KPX Ncaron period -64
+KPX Ncaron colon -36
+KPX Ncaron semicolon -36
+KPX OE hyphen 19
+KPX Racute T -18
+KPX Racute V -36
+KPX Racute W -22
+KPX Racute Y -31
+KPX Racute a 23
+KPX Racute y -18
+KPX Racute Yacute -31
+KPX Racute agrave 23
+KPX Racute aacute 23
+KPX Racute acircumflex 23
+KPX Racute atilde 23
+KPX Racute adieresis 23
+KPX Racute aring 23
+KPX Racute ae 23
+KPX Racute oslash 19
+KPX Racute yacute -18
+KPX Racute ydieresis -18
+KPX Racute Tcaron -18
+KPX Racute Ydieresis -31
+KPX Racute quoteright -36
+KPX Racute quotedblright -36
+KPX racute comma -73
+KPX racute period -92
+KPX racute quoteleft 37
+KPX racute quoteright 37
+KPX racute quotedblleft 37
+KPX racute quotedblright 37
+KPX Rcaron T -18
+KPX Rcaron V -36
+KPX Rcaron W -22
+KPX Rcaron Y -31
+KPX Rcaron a 23
+KPX Rcaron y -18
+KPX Rcaron Yacute -31
+KPX Rcaron agrave 23
+KPX Rcaron aacute 23
+KPX Rcaron acircumflex 23
+KPX Rcaron atilde 23
+KPX Rcaron adieresis 23
+KPX Rcaron aring 23
+KPX Rcaron ae 23
+KPX Rcaron oslash 19
+KPX Rcaron yacute -18
+KPX Rcaron ydieresis -18
+KPX Rcaron Tcaron -18
+KPX Rcaron Ydieresis -31
+KPX Rcaron quoteright -36
+KPX Rcaron quotedblright -36
+KPX rcaron comma -73
+KPX rcaron period -92
+KPX rcaron quoteleft 37
+KPX rcaron quoteright 37
+KPX rcaron quotedblleft 37
+KPX rcaron quotedblright 37
+KPX Scedilla comma -36
+KPX Scedilla hyphen 37
+KPX Scedilla period -36
+KPX Scedilla S -22
+KPX Scedilla Scedilla -22
+KPX Scedilla Scaron -22
+KPX Scaron comma -36
+KPX Scaron hyphen 37
+KPX Scaron period -36
+KPX Scaron S -22
+KPX Scaron Scedilla -22
+KPX Scaron Scaron -22
+KPX Tcaron comma -110
+KPX Tcaron hyphen -166
+KPX Tcaron period -129
+KPX Tcaron colon -36
+KPX Tcaron semicolon -36
+KPX Tcaron A -55
+KPX Tcaron T -36
+KPX Tcaron a -96
+KPX Tcaron c -115
+KPX Tcaron e -115
+KPX Tcaron o -115
+KPX Tcaron r -73
+KPX Tcaron s -92
+KPX Tcaron u -92
+KPX Tcaron w -110
+KPX Tcaron y -110
+KPX Tcaron guillemotleft -73
+KPX Tcaron guillemotright -73
+KPX Tcaron Agrave -55
+KPX Tcaron Aacute -55
+KPX Tcaron Acircumflex -55
+KPX Tcaron Atilde -55
+KPX Tcaron Adieresis -55
+KPX Tcaron agrave -96
+KPX Tcaron aacute -96
+KPX Tcaron acircumflex -96
+KPX Tcaron atilde -96
+KPX Tcaron adieresis -96
+KPX Tcaron aring -96
+KPX Tcaron ae -78
+KPX Tcaron ccedilla -115
+KPX Tcaron egrave -115
+KPX Tcaron eacute -115
+KPX Tcaron ecircumflex -115
+KPX Tcaron edieresis -115
+KPX Tcaron ograve -115
+KPX Tcaron oacute -115
+KPX Tcaron ocircumflex -115
+KPX Tcaron otilde -115
+KPX Tcaron odieresis -115
+KPX Tcaron oslash -78
+KPX Tcaron ugrave -92
+KPX Tcaron uacute -92
+KPX Tcaron ucircumflex -92
+KPX Tcaron udieresis -92
+KPX Tcaron yacute -110
+KPX Tcaron ydieresis -110
+KPX Tcaron cacute -115
+KPX Tcaron ccaron -115
+KPX Tcaron ecaron -115
+KPX Tcaron oe -78
+KPX Tcaron racute -73
+KPX Tcaron rcaron -73
+KPX Tcaron scedilla -92
+KPX Tcaron scaron -92
+KPX Tcaron Tcaron -36
+KPX Tcaron uring -92
+KPX Tcaron quotesinglbase -73
+KPX Tcaron quotedblbase -73
+KPX Tcaron guilsinglleft -73
+KPX Tcaron guilsinglright -73
+KPX Uring comma -92
+KPX Uring hyphen -18
+KPX Uring period -92
+KPX Uring colon -36
+KPX Uring semicolon -36
+KPX Uring A -31
+KPX Uring Agrave -31
+KPX Uring Aacute -31
+KPX Uring Acircumflex -31
+KPX Uring Atilde -31
+KPX Uring Adieresis -31
+KPX Ydieresis comma -129
+KPX Ydieresis hyphen -101
+KPX Ydieresis period -129
+KPX Ydieresis colon -124
+KPX Ydieresis semicolon -124
+KPX Ydieresis A -64
+KPX Ydieresis C -18
+KPX Ydieresis a -78
+KPX Ydieresis e -87
+KPX Ydieresis i -18
+KPX Ydieresis o -87
+KPX Ydieresis u -87
+KPX Ydieresis Agrave -64
+KPX Ydieresis Aacute -64
+KPX Ydieresis Acircumflex -64
+KPX Ydieresis Atilde -64
+KPX Ydieresis Adieresis -64
+KPX Ydieresis Ccedilla -18
+KPX Ydieresis agrave -78
+KPX Ydieresis aacute -78
+KPX Ydieresis acircumflex -78
+KPX Ydieresis atilde -78
+KPX Ydieresis adieresis -78
+KPX Ydieresis aring -78
+KPX Ydieresis ae -78
+KPX Ydieresis egrave -87
+KPX Ydieresis eacute -87
+KPX Ydieresis ecircumflex -87
+KPX Ydieresis edieresis -87
+KPX Ydieresis ograve -87
+KPX Ydieresis oacute -87
+KPX Ydieresis ocircumflex -87
+KPX Ydieresis otilde -87
+KPX Ydieresis odieresis -87
+KPX Ydieresis oslash -87
+KPX Ydieresis ugrave -87
+KPX Ydieresis uacute -87
+KPX Ydieresis ucircumflex -87
+KPX Ydieresis udieresis -87
+KPX Ydieresis Cacute -18
+KPX Ydieresis Ccaron -18
+KPX Ydieresis ecaron -87
+KPX Ydieresis oe -87
+KPX Ydieresis uring -87
+KPX Zcaron comma -18
+KPX Zcaron period -18
+KPX uni02BB A -138
+KPX uni02BB Agrave -138
+KPX uni02BB Aacute -138
+KPX uni02BB Acircumflex -138
+KPX uni02BB Atilde -138
+KPX uni02BB Adieresis -138
+KPX uni02BB AE -124
+KPX uni2010 T -166
+KPX uni2010 V -73
+KPX uni2010 W -55
+KPX uni2010 X -73
+KPX uni2010 Y -110
+KPX uni2010 Yacute -110
+KPX uni2010 Tcaron -166
+KPX uni2010 Ydieresis -110
+KPX quoteleft A -138
+KPX quoteleft Agrave -138
+KPX quoteleft Aacute -138
+KPX quoteleft Acircumflex -138
+KPX quoteleft Atilde -138
+KPX quoteleft Adieresis -138
+KPX quoteleft AE -124
+KPX quotedblleft A -138
+KPX quotedblleft V 28
+KPX quotedblleft W 28
+KPX quotedblleft X 28
+KPX quotedblleft Y 28
+KPX quotedblleft Agrave -138
+KPX quotedblleft Aacute -138
+KPX quotedblleft Acircumflex -138
+KPX quotedblleft Atilde -138
+KPX quotedblleft Adieresis -138
+KPX quotedblleft AE -124
+KPX quotedblleft Yacute 28
+KPX quotedblleft Ydieresis 28
+KPX quotedblbase T -129
+KPX quotedblbase V -147
+KPX quotedblbase W -110
+KPX quotedblbase X 9
+KPX quotedblbase Y -92
+KPX quotedblbase v -36
+KPX quotedblbase w -36
+KPX quotedblbase Yacute -92
+KPX quotedblbase Tcaron -129
+KPX quotedblbase Ydieresis -92
+KPX guilsinglleft J -36
+KPX guilsinglleft T -73
+KPX guilsinglleft Tcaron -73
+KPX guilsinglright J -36
+KPX guilsinglright T -73
+KPX guilsinglright Tcaron -73
+EndKernPairs
+EndKernData
+EndFontMetrics

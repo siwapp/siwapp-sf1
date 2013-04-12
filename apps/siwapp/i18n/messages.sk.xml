@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="sk" datatype="plaintext" original="messages" date="2011-01-05T14:15:15Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+ <trans-unit>
+        <source>Username</source>
+        <target>Užívateľské meno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Heslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Zapamätať prihlásenie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Prihlásiť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Zabudli ste heslo?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Vitaj, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Odhlásiť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Prehľad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Aktuálne faktúry</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Faktúry čakajúce vybavenie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Číslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Meno zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Dátum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Splatnosť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Dlh</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Platby</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Pridať platbu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Zrušiť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Uložiť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Potvrdenky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Faktúry</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Nová Faktúra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Faktúra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Upraviť Faktúru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Identifikácia zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Detaily platby</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Platby boli úspešne uložené.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Z neznámeho dôvodu nemohli byť platby uložené.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Popis tovaru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Jednotková cena</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Kusov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>DPH</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Cena bez DPH</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Zľava</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Cena</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Pridať položku</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Pridať</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Cena bez DPH po zľave</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Celkom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Poznámky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Vymazať</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Uložiť koncept</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Uložiť a poslať e-mailom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Vytlačiť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Odoslať</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Faktúra bola úspešne odoslaná.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Faktúra nemohla byť z neznámeho dôvodu odoslaná.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Faktúra nemohla byť z neznámeho dôvodu uložená.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>% D invoices were successfully deleted.</source>
+        <target>% D faktúr bolo úspešne vymazaných.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>% D invoices were successfully sent.</source>
+        <target>% D faktúr bolo úspešne odoslaných.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all ([1] invoices)</source>
+        <target>prezrieť všetkých ([1] faktúr)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Vydaný v</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>bude po splatnosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>otvorené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>uzavreté</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>po splatnosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>koncept</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Odoslané e-mailom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Vynútene uzavreté</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Dátum vydania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Dátum splatnosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Pravidelné Faktúry</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Nová Pravidelná Faktúra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Po splatnosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Druh opakovania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Pravidelnosť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not Reflected in the total</source>
+        <target>Toto množstvo sa neprejaví v súčte.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are% d Recurring invoices that were not Executed.</source>
+        <target>Existuje% d pravidelných faktúr, ktoré neboli vybavené.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Upraviť pravidelnú faktúru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All% d Recurring invoices were processed.</source>
+        <target>Všetkých% d pravidelných faktúr bolo spracovaných.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Čas prevedenie fakturácie.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Počnúc</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Končiac</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Priemerný obrat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Vygenerovať nedokončené faktúry</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>povolené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>zakázané</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>dokončené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>nedokončené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Rokov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Mesiacov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Týždňov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dní</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>ročne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>mesačne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>denne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>týždenne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Série</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Vytvoriť každý</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Počnúc dátumom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Končiac dátumom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Maximálny počet výskytov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dní do splatnosti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Rozpočet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Nový rozpočet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Uložiť a vytvoriť faktúru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>Rozpočet bol úspešne uložený.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>Faktúra bola úspešne vytvorená</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Faktúra nemohla byť vytvorená kvôli chybe.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Podrobnosti rozpočtu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers</source>
+        <target>Zákazníci</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Nový zákazník</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Upraviť zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Zákazník</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Informácie o zákazníkovi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Meno Zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>IČO</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Adresa zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>DIČ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Fakturačná adresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Adresa dodania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>E-mail zákazníka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Zákazník nemohol byť z neznámeho dôvodu uložený.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>% D customers were successfully deleted.</source>
+        <target>% D zákazníkov bolo úspešne vymazané.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products</source>
+        <target>Produkty</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Nový produkt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Informácie o produkte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Hodnotenie produktu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Popis produktu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Cena produktu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>from</source>
+        <target>od</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>do</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>posledný týždeň</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>posledný mesiac</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>posledný rok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>posledných 5 rokov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Stav</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Otvorené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Uzavreté</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Koncepty</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Povolené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Zakázané</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Neukončené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Ukončené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Neodoslané</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Zamietnuté</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Schválené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Série</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Značky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Vyhľadať</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Vymazať</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First</source>
+        <target>Prvá</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Predchádzajúca</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>STRANA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Ďalšia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Posledná</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to</source>
+        <target>prejsť na</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Prejsť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>viac</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1] - [2] of [3] results</source>
+        <target>Zobrazené [1] - [2] zo [3] výsledkov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings</source>
+        <target>Nastavenie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Globálne nastavenia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Moje nastavenia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Tlačové šablóny</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Vaše nastavenia boli úspešné uložené.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check Entered values ​​and try to correct them.</source>
+        <target>Nastavenia nemohli byť uložené. Prosím, skontrolujte zadané hodnoty a opravte ich.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Prosím, skontrolujte nasledujúce chyby a pred uložením ich opravte:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Company</source>
+        <target>Spoločnosť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Názov</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Mena</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefón</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Web</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Nastavenie sadzieb DPH</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Hodnota</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Aktívne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Predvolené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Pridať novú sadzbu DPH.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>Nastavenie PDF výstupu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Veľkosť stránky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Orientácia stránky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Text oprávnenia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Podmienky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Série faktúr</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Štítok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Počiatočná hodnota</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Pridať novú sériu faktúr</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices Assigned.</source>
+        <target>Počiatočná hodnota bude použitá iba pri prvej uložené faktúry z danej série.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>odobrať aktuálny súbor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>About you</source>
+        <target>O vás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Meno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Priezvisko</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Nastavenie jazykovej verzie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Jazyk rozhrania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Zjednodušenie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Výsledky, ktoré sa majú zobraziť v zoznamoch</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Filter hľadania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Nastavenie predvoleného filtra hľadania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Východiskové rad pre fakturáciu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Zmeniť heslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Staré heslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nové heslo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nové heslo znova</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Aktualizované</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Vytvoriť novú šablónu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Vymazať označené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Označiť ako predvolené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Šablóna nemohla byť z nejakého dôvodu uložená.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Ste si istí?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Žiadne výsledky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>deň</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>týždeň</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>mesiac</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>rok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cant connect to database</source>
+        <target>Nemôžem sa pripojiť k databáze</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Na váš e-mail bola zaslaná správa s vaším novým heslom.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Nebolo možné správu odoslať, prosím skúste to neskôr.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Chybný kontrolný súčet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Ukážková dáta boli nahrané.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Pokiaľ ste zadali správne prihlasovacie meno alebo heslo, bol Vám zaslaný e-mail s aktivačnými inštrukciami.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, Youll need to reload this page first</source>
+        <target>Ak chcete zaslať nový aktivačný mail, obnovte túto stránku.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You Nechcem have the required permission to access this page.</source>
+        <target>Pre vstup na túto stránku nemáte potrebné oprávnenia.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>zavrieť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Zadajte prosím prihlasovacie meno alebo heslo a my vám obratom zašleme e-mail s aktivačným odkazom.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Prihlasovacie meno alebo e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Kontaktná osoba</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Fakturačná adresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Dodacia adresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Cena / kus</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Uložiť PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Upraviť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted.</source>
+        <target>Užívateľ nemohol byť vymazaný.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>Faktúra bola úspešne uložená.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice% s</source>
+        <target>Vyskytol sa problém s faktúrou% s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>tento týždeň</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>tento mesiac</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>tento rok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Zaslané</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>áno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>zamietnuté</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>schválené</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Jednotky</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Predané</target>
+      </trans-unit>
+      <trans-unit>
+        <source>% Q% products sold for a total of% t%</source>
+        <target>% Q% produktov predaných v hodnote celkom% t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Moduly</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Typ opakovania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identifikácia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Referencie</source>
+        <target>Hodnotenia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Vyberte modul, ktorý má byť aktivovaný v aplikácii siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Zákaznícky modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Rozpočtový modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Produktový modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Použiť vo faktúrach</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for estimates</source>
+        <target>Použiť v rozpočtoch</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target>Žiadny výber. Nič nebolo vykonané.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target>Sieť</target>
+      </trans-unit>
+      <trans-unit>
+        <source>% D customers could not be saved because they have associated data.</source>
+        <target>% D zákazníkov nemohlo byť uložených, pretože im nie sú pridelené žiadne údaje.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

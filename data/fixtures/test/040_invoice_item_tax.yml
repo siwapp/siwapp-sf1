@@ -1,0 +1,304 @@
+ItemTax:
+  ItemTax_1:
+    Item: Item_1
+    Tax: Tax_1
+  ItemTax_2:
+    Item: Item_1
+    Tax: Tax_4
+  ItemTax_3:
+    Item: Item_2
+    Tax: Tax_3
+  ItemTax_4:
+    Item: Item_3
+    Tax: Tax_3
+  ItemTax_5:
+    Item: Item_4
+    Tax: Tax_1
+  ItemTax_6:
+    Item: Item_4
+    Tax: Tax_2
+  ItemTax_7:
+    Item: Item_4
+    Tax: Tax_3
+  ItemTax_8:
+    Item: Item_5
+    Tax: Tax_1
+  ItemTax_9:
+    Item: Item_6
+    Tax: Tax_1
+  ItemTax_10:
+    Item: Item_7
+    Tax: Tax_1
+  ItemTax_11:
+    Item: Item_8
+    Tax: Tax_1
+  ItemTax_12:
+    Item: Item_9
+    Tax: Tax_3
+  ItemTax_13:
+    Item: Item_10
+    Tax: Tax_1
+  ItemTax_14:
+    Item: Item_11
+    Tax: Tax_1
+  ItemTax_15:
+    Item: Item_12
+    Tax: Tax_2
+  ItemTax_16:
+    Item: Item_13
+    Tax: Tax_1
+  ItemTax_17:
+    Item: Item_14
+    Tax: Tax_1
+  ItemTax_18:
+    Item: Item_15
+    Tax: Tax_1
+  ItemTax_19:
+    Item: Item_16
+    Tax: Tax_3
+  ItemTax_20:
+    Item: Item_17
+    Tax: Tax_2
+  ItemTax_21:
+    Item: Item_18
+    Tax: Tax_4
+  ItemTax_22:
+    Item: Item_19
+    Tax: Tax_3
+  ItemTax_23:
+    Item: Item_20
+    Tax: Tax_3
+  ItemTax_24:
+    Item: Item_21
+    Tax: Tax_1
+  ItemTax_25:
+    Item: Item_22
+    Tax: Tax_1
+  ItemTax_26:
+    Item: Item_23
+    Tax: Tax_2
+  ItemTax_27:
+    Item: Item_24
+    Tax: Tax_1
+  ItemTax_28:
+    Item: Item_25
+    Tax: Tax_1
+  ItemTax_29:
+    Item: Item_26
+    Tax: Tax_2
+  ItemTax_30:
+    Item: Item_27
+    Tax: Tax_1
+  ItemTax_31:
+    Item: Item_28
+    Tax: Tax_4
+  ItemTax_32:
+    Item: Item_29
+    Tax: Tax_1
+  ItemTax_33:
+    Item: Item_30
+    Tax: Tax_1
+  ItemTax_34:
+    Item: Item_31
+    Tax: Tax_2
+  ItemTax_35:
+    Item: Item_32
+    Tax: Tax_1
+  ItemTax_36:
+    Item: Item_33
+    Tax: Tax_1
+  ItemTax_37:
+    Item: Item_34
+    Tax: Tax_1
+  ItemTax_38:
+    Item: Item_35
+    Tax: Tax_1
+  ItemTax_39:
+    Item: Item_36
+    Tax: Tax_1
+  ItemTax_40:
+    Item: Item_37
+    Tax: Tax_2
+  ItemTax_41:
+    Item: Item_38
+    Tax: Tax_1
+  ItemTax_42:
+    Item: Item_39
+    Tax: Tax_4
+  ItemTax_43:
+    Item: Item_40
+    Tax: Tax_1
+  ItemTax_44:
+    Item: Item_41
+    Tax: Tax_3
+  ItemTax_45:
+    Item: Item_42
+    Tax: Tax_1
+  ItemTax_46:
+    Item: Item_43
+    Tax: Tax_4
+  ItemTax_47:
+    Item: Item_44
+    Tax: Tax_1
+  ItemTax_48:
+    Item: Item_45
+    Tax: Tax_2
+  ItemTax_49:
+    Item: Item_46
+    Tax: Tax_1
+  ItemTax_50:
+    Item: Item_47
+    Tax: Tax_4
+  ItemTax_51:
+    Item: Item_47
+    Tax: Tax_1
+  ItemTax_52:
+    Item: Item_48
+    Tax: Tax_3
+  ItemTax_53:
+    Item: Item_48
+    Tax: Tax_2
+  ItemTax_54:
+    Item: Item_49
+    Tax: Tax_4
+  ItemTax_55:
+    Item: Item_50
+    Tax: Tax_4
+  ItemTax_56:
+    Item: Item_51
+    Tax: Tax_1
+  ItemTax_57:
+    Item: Item_52
+    Tax: Tax_1
+  ItemTax_58:
+    Item: Item_53
+    Tax: Tax_2
+  ItemTax_59:
+    Item: Item_54
+    Tax: Tax_2
+  ItemTax_60:
+    Item: Item_55
+    Tax: Tax_1
+  ItemTax_61:
+    Item: Item_56
+    Tax: Tax_4
+  ItemTax_64:
+    Item: Item_57
+    Tax: Tax_2
+  ItemTax_65:
+    Item: Item_58
+    Tax: Tax_3
+  ItemTax_66:
+    Item: Item_59
+    Tax: Tax_4
+  ItemTax_67:
+    Item: Item_60
+    Tax: Tax_3
+  ItemTax_68:
+    Item: Item_60
+    Tax: Tax_4
+  ItemTax_69:
+    Item: Item_60
+    Tax: Tax_1
+  ItemTax_70:
+    Item: Item_61
+    Tax: Tax_1
+  ItemTax_71:
+    Item: Item_61
+    Tax: Tax_4
+  ItemTax_72:
+    Item: Item_62
+    Tax: Tax_4
+  ItemTax_73:
+    Item: Item_63
+    Tax: Tax_1
+  ItemTax_74:
+    Item: Item_64
+    Tax: Tax_1
+  ItemTax_75:
+    Item: Item_65
+    Tax: Tax_2
+  ItemTax_76:
+    Item: Item_66
+    Tax: Tax_4
+  ItemTax_77:
+    Item: Item_67
+    Tax: Tax_4
+  ItemTax_78:
+    Item: Item_68
+    Tax: Tax_2
+  ItemTax_79:
+    Item: Item_69
+    Tax: Tax_1
+  ItemTax_80:
+    Item: Item_70
+    Tax: Tax_1
+  ItemTax_81:
+    Item: Item_71
+    Tax: Tax_1
+  ItemTax_82:
+    Item: Item_72
+    Tax: Tax_1
+  ItemTax_83:
+    Item: Item_73
+    Tax: Tax_1
+  ItemTax_84:
+    Item: Item_74
+    Tax: Tax_2
+  ItemTax_85:
+    Item: Item_75
+    Tax: Tax_3
+  ItemTax_86:
+    Item: Item_76
+    Tax: Tax_1
+  ItemTax_87:
+    Item: Item_77
+    Tax: Tax_3
+  ItemTax_88:
+    Item: Item_78
+    Tax: Tax_4
+  ItemTax_89:
+    Item: Item_79
+    Tax: Tax_4
+  ItemTax_90:
+    Item: Item_80
+    Tax: Tax_4
+  ItemTax_91:
+    Item: Item_81
+    Tax: Tax_3
+  ItemTax_92:
+    Item: Item_82
+    Tax: Tax_2
+  ItemTax_93:
+    Item: Item_83
+    Tax: Tax_1
+  ItemTax_94:
+    Item: Item_84
+    Tax: Tax_3
+  ItemTax_95:
+    Item: Item_85
+    Tax: Tax_1
+  ItemTax_96:
+    Item: Item_86
+    Tax: Tax_2
+  ItemTax_97:
+    Item: Item_87
+    Tax: Tax_1
+  ItemTax_98:
+    Item: Item_88
+    Tax: Tax_1
+  ItemTax_99:
+    Item: Item_89
+    Tax: Tax_1
+  ItemTax_100:
+    Item: Item_90
+    Tax: Tax_2
+  ItemTax_101:
+    Item: Item_91
+    Tax: Tax_1
+  ItemTax_102:
+    Item: Item_92
+    Tax: Tax_1
+  ItemTax_103:
+    Item: Item_93
+    Tax: Tax_2

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packagerversion="1.4.1" version="2.0" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
+  <name>sfDateTime2Plugin</name>
+  <channel>pear.symfony-project.com</channel>
+  <summary>Date manipulation library.</summary>
+  <description>Date manipulation library.</description>
+  <lead>
+    <name>Jerome Etienne</name>
+    <user>jerome.etienne</user>
+    <email>jerome.etienne@gmail.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2009-04-24</date>
+  <version>
+    <release>0.9.0</release>
+    <api>0.9.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license uri="http://www.symfony-project.org/license">MIT license</license>
+  <notes>-</notes>
+  <contents>
+    <dir name="/"><file name="svn-commit.4.tmp" role="data"/><file name="Makefile" role="data"/><file name="README.internal" role="data"/><dir name="lib"><file name="sfTime.class.php" role="data"/><dir name="exception"><file name="sfDateTimeException.class.php" role="data"/></dir><file name="sfDate.class.php" role="data"/><file name="sfDateTimeToolkit.class.php" role="data"/></dir><file name="sfDateTime2Plugin-0.0.6.tgz" role="data"/><file name="svn-commit.3.tmp" role="data"/><file name="svn-commit.tmp" role="data"/><file name="README" role="data"/><file name="svn-commit.2.tmp" role="data"/><file name="LICENSE" role="data"/></dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.2.4</min>
+      </php>
+      <pearinstaller>
+        <min>1.4.1</min>
+      </pearinstaller>
+      <package>
+        <name>symfony</name>
+        <channel>pear.symfony-project.com</channel>
+        <min>1.2.0</min>
+        <max>1.3.0</max>
+        <exclude>1.3.0</exclude>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease></phprelease>
+	<changelog>
+		<release>
+			<version>
+				<release>0.0.4</release>
+				<api>0.0.4</api>
+			</version>
+			<stability>
+				<release>alpha</release>
+				<api>alpha</api>
+			</stability>
+			<date>2009-01-01</date>
+			<license uri="http://svn.symfony-project.com/plugins/sfDateTime2Plugin/trunk/LICENSE">
+				MIT license
+			</license>
+			<notes>
+				* improvement of the documentation
+			</notes>
+		</release>
+		<release>
+			<version>
+				<release>0.0.5</release>
+				<api>0.0.5</api>
+			</version>
+			<stability>
+				<release>stable</release>
+				<api>beta</api>
+			</stability>
+			<date>2009-04-01</date>
+			<license uri="http://svn.symfony-project.com/plugins/sfDateTime2Plugin/trunk/LICENSE">
+				MIT license
+			</license>
+			<notes>
+				* added a unit test
+				* isHoliday($culture), isHollidayFR()
+				  * return true if the day is an holiday (currently only the FR culture is implemented.
+				    patches for other $culture are more than welcomed.)
+				* added sfDate::getSecond(), sfDate::getMinute etc... (only shortcut on sfDate::retrieve)
+			</notes>
+		</release>
+		<release>
+			<version>
+				<release>0.0.6</release>
+				<api>0.0.6</api>
+			</version>
+			<stability>
+				<release>stable</release>
+				<api>beta</api>
+			</stability>
+			<date>2009-04-02</date>
+			<license uri="http://svn.symfony-project.com/plugins/sfDateTime2Plugin/trunk/LICENSE">
+				MIT license
+			</license>
+			<notes>
+				* added sfDate::dayOfWeek()
+			</notes>
+		</release>
+		<release>
+			<version>
+				<release>0.9.0</release>
+				<api>0.9.0</api>
+			</version>
+			<stability>
+				<release>stable</release>
+				<api>alpha</api>
+			</stability>
+			<date>2009-04-24</date>
+			<license uri="http://svn.symfony-project.com/plugins/sfDateTime2Plugin/trunk/LICENSE">
+				MIT license
+			</license>
+			<notes>
+				* bug fix in sfDate::finalDayOfMonth(). thanks thibault sebastien
+			</notes>
+		</release>		
+	</changelog>
+</package>

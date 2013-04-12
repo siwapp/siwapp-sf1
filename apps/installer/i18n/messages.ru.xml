@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ru" datatype="plaintext" original="messages" date="2010-07-11T22:13:57Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Choose language</source>
+        <target>Выбирите язык</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Next</source>
+       <target>Далее </target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please choose the language to use during the installation of Siwapp</source>
+       <target>Выбирите язык интерфейса инсталяции </target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pre-Installation Check</source>
+        <target>Проверка сервера</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Back</source>
+       <target>Назад </target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Checking Siwapp requirements</source>
+        <target>Проверка системных требований</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>If any of these items are highlighted in red then please take actions to correct them</source>
+        <target>Если чтолибо выделено красным - устраните данные ошибки</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Failure to do so could lead to your Siwapp installation not functioning correctly</source>
+        <target>Невыполнение этого требования может привести к неработоспособности приложения</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Recommended settings</source>
+        <target>Рекомендуемые установки</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>These settings are recommended for PHP in order to ensure full compatibility with Siwapp</source>
+       <target>Рекомендуемые настройки РНР для коректной работы Siwapp</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>However, Siwapp will still operate if your settings do not quite match the recommended</source>
+         <target>Тем не менее, Siwapp может и будет работать, несмотря на невыполнение этих требований</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>License Agreement</source>
+        <target>Лицензионное соглашение </target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Database Configuration</source>
+         <target>Настройки Базы Даных</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Connection Settings</source>
+         <target>Настройки соединения</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Enter your database connection details below.</source>
+        <target>Ниже введите параметры подключения к БД </target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>If you're not sure about these, contact your host.</source>
+        <target>Эти настройки можете узнать у своего провайдера </target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Database Name</source>
+        <target>Имя БД </target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>User Name</source>
+         <target>Пользователь БД</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Password</source>
+         <target>Пароль</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Database Host</source>
+         <target>Хост БД</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Main Configuration</source>
+         <target>Главная конфигурация</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Finish installation</source>
+         <target>Завершить установку</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Finish</source>
+         <target>Завершить</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Congratulations! Siwapp is now installed</source>
+         <target>Поздравляем! Siwapp установлена</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Language</source>
+        <target>Язык</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>License</source>
+        <target>Лицензия</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Database</source>
+        <target>База даных</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Configuration</source>
+        <target>Конфигурация</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>CORRECT</source>
+        <target>ВЕРНО</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>ERROR</source>
+       <target>ОШИБКА </target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>WARNING</source>
+        <target>ВНИМАНИЕ</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>PHP version is at least 5.2.4</source>
+       <target>Версия РНР не ниже 5.2.4</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Current PHP version is [1]</source>
+         <target>Ваша версия РНР</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>php.ini has zend.ze1_compatibility_mode set to off</source>
+         <target>В php.ini параметр zend.ze1_compatibility_mode установите off</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Set zend.ze1_compatibility_mode to off in php.ini ([1])</source>
+         <target>Установите zend.ze1_compatibility_mode значение off в php.ini ([1])</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>PDO is installed</source>
+        <target> PDO не установлено</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Install PDO (mandatory for Propel and Doctrine)</source>
+         <target>Установите PDO</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>PDO has some drivers installed: [1]</source>
+        <target>PDO имеет некоторые драйверы: [1] </target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Install PDO drivers (mandatory for Propel and Doctrine)</source>
+         <target>Установите PDO драйверы</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>PHP-XML module is installed</source>
+         <target>Модуль PHP-XML установлен</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Install the PHP-XML module (required by Propel)</source>
+        <target>Установите модуль PHP-XML </target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>The iconv() function is available</source>
+        <target> Функция iconv() доступна</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Install iconv() function</source>
+        <target>Установите функцию iconv()</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>The utf8_decode() function is available</source>
+        <target>Функция utf8_decode() доступна</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Install utf8_decode() function</source>
+        <target>Установите функцию utf8_decode()</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>XSL module is installed</source>
+        <target>XSL модуль установлен</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Install the XSL module (recommended for Propel)</source>
+        <target>Установите модуль XSL</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The token_get_all() function is available</source>
+        <target>Функция token_get_all() доступна</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Install token_get_all() function (highly recommended)</source>
+        <target>Установите функцию token_get_all() (очень рекомендуется)</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The mb_strlen() function is available</source>
+        <target>Функция mb_strlen() доступна</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Install mb_strlen() function</source>
+        <target>Установите функцию mb_strlen()</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>A PHP accelerator is installed</source>
+        <target>РНР акселератор установлен</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Install a PHP accelerator like APC (highly recommended)</source>
+        <target>Установите РНР акселератор (например АРС)</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>php.ini has safe_mode set to off</source>
+        <target>в php.ini значение safe_mode установлено в off</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>php.ini has short_open_tag set to off</source>
+        <target>в php.ini значение short_open_tag установлено в off</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>php.ini has magic_quotes_gpc set to off</source>
+        <target>в php.ini значение magic_quotes_gpc утановлено в off</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>php.ini has register_globals set to off</source>
+        <target>в php.ini значение register_globals установлено в off</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>php.ini has session.auto_start set to off</source>
+        <target>в php.ini значение session.auto_start установлено в off</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Set safe_mode to off in php.ini</source>
+        <target>Установите  safe_mode значение off в php.ini</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Set short_open_tag to off in php.ini</source>
+        <target>Установите short_open_tag to значение off в php.ini</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Set magic_quotes_gpc to off in php.ini</source>
+        <target>Установите magic_quotes_gpc значение off в php.ini</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Set register_globals to off in php.ini</source>
+        <target>Установите register_globals значение off в php.ini</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Set session.auto_start to off in php.ini</source>
+        <target>Установите session.auto_start значение off в php.ini</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>is Free Software released under the MIT license</source>
+        <target>Это свободное програмное обеспечение под лицензией MIT</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Can't connect to the database. Please review the data.</source>
+        <target>Не могу соединится с базой данных. Проверьте параметры</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Administrator user details</source>
+        <target>Детали Администратора</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Enter the following information for the super administrator user:</source>
+        <target>Введите следующую информацию об администраторе</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Administrator Email</source>
+        <target>Email администратора</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Username</source>
+        <target>Логин</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Password again</source>
+        <target>Пароль снова</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Load sample data</source>
+        <target>Загрузить демо-данные</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>If you want to preload the database with sample data, check the following checkbox.</source>
+        <target>Если вы хотите загрузить в базу данных Демо-данные, отметьте этот чекбокс</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Application initial data</source>
+        <target>Загрузка данных</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Click the "Finish" button to start the Siwapp application.</source>
+        <target>Кликните Завершить для перехода к приложению</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Enjoy!</source>
+        <target>Вперед к работе!</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Please review the following error messages carefully and try to correct them before you continue.</source>
+        <target>Внимательно прочтите сообщения об ошибках, и постарайтесь их исправить перед продолжением</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>File Permissions</source>
+        <target>Разрешения файла</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Siwapp needs to have write permissions over certain files and directories</source>
+        <target>Siwapp должен иметь права на запись в течение определенных файлов и каталогов</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Oops, there are some problems</source>
+        <target>Упс..чтото не так</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Siwapp is almost installed</source>
+        <target>Siwapp почти установлен</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Once you've checked out the instructions above, click the "Finish" button to finish the installation process.</source>
+        <target>Если прочитали инструкцию, и уверены в себе, нажмите кнопку Завершить для окончания инсталяции</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please read these instructions carefully:</source>
+        <target>Пожалуйста, полностью прочтите эту инструкцию</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>We couldn't write to %1% file. Please download it %2%here%3% and replace it at %4% by yourself</source>
+        <target>Ошибка при записи файла %1%. Скачайте его %2% здесь %3% и замените ним файл %4%</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>PLEASE TAKE THE FOLLOWING SECURITY MEASURES:</source>
+        <target>ОБРАТИТЕ ВНИМАНИЕ НА СЛЕДУЮЩИЕ ПАРАМЕТРЫ БЕЗОПАСНОСТИ</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Remove the write permissions of the %1% file</source>
+        <target>Удалите права на запись у файла  %1%</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>There were some sql errors creating the database.</source>
+        <target>Возникли ошибки при создании базы даных</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>The %1% directory exists and is writable</source>
+        <target>Директория %1% существует и доступна для записи</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Make sure the %1% directory is writable (%2%)</source>
+        <target>Убедитесь что директория %1% доступна для записи (%2%)</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Siwapp Upgrade</source>
+        <target>Обновление Siwapp</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>The following errors occurred</source>
+        <target>Возникли следующие ошибки</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Upgrade successfully completed</source>
+        <target>Обновление успешно завершено</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>No upgrade needed</source>
+        <target>Обновление не нужно</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Choose your country</source>
+        <target>Выберите страну</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overwrite previous Siwapp installations</source>
+        <target>Перезаписать предыдущую установку Siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are some tables at your database that will be overwritten by the Siwapp installation process</source>
+        <target>Некоторые таблицы уже существуют, при продолжении установки они будут перезаписаны</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You need to click the checkbox to allow the tables to be overwritten</source>
+        <target>Отметьте чекбокс, чтобы перезаписать данные</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The mod_rewrite apache module is available</source>
+        <target/>
+      </trans-unit>
+      <trans-unit>
+        <source>Install mod_rewrite module on apache</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="nl" datatype="plaintext" original="messages" date="2011-10-22T14:15:16Z" product-name="messages" xml:space="default">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Gebruikersnaam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Wachtwoord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Onthoud mij</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Aanmelden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Wachtwoord vergeten?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Welkom [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Afmelden</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Dashboard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Recente facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Vervallen facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Aantal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Klantnaam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Vervaldatum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Vervallen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Betalingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Betaling toevoegen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Annuleren</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Opslaan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Ontvangsten</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Nieuwe factuur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Factuur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Wijzig factuur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Klantkenmerk</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Betaling details</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Betalingen succesvol opgeslagen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Betalingen niet opgeslagen vanwege onbekende fout.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Omschrijving</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Kosten/Eenheid</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Aantal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Belastingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Grondslag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Korting</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Prijs</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Artikel toevoegen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Toevoegen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotaal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Totaal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Opmerkingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Verwijderen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Opslaan als concept</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Opslaan en verzenden per Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Afdrukken</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Verzenden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>De factuur is succesvol verzonden.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>De factuur werd niet verzonden vanwege een onbekende fout.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>De invoice is niet opgeslagen vanwege enkele fouten.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d facturen werden verwijderd.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d facturen werden verzonden.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>Bekijk alle [1] facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Afgegeven op</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>zal vervallen op</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>geopend</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>gesloten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>Achterstallig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>Concept</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Verzonden per email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Geforceerd sluiten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Datum van uitgifte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Vervaldatum</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Terugkerende facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Nieuwe terugkerende factuur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Achterstallig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Periode</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Frequentie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Dit bedrag is niet opgenomen in het totaal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Er zijn %d terugkerende facturen niet verwerkt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Wijzig terugkerende factuur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Alle %d terugkerende facturen werden verwerkt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Factuur uitvoeringstermijn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Start</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Eindigt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Gemiddelde omzet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Genereer uitstaande facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>ingeschakeld</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>uitgeschakeld</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>gereed</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>uitstaand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Jaren</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Maanden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Weken</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dagen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>jaarlijks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>maandelijks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>dagelijks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>wekelijks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Reeks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Genereer elke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Startdatum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Einddatum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Max. aantal keren</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dagen tot verval</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Schattingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Nieuwe schatting</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Bewaar en maak factuur aan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>DE schatting is succesvol opgeslagen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>De factuur is succesvol aangemaakt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Vanwege een fout kon de factuur niet aangemaakt worden.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Schatting details</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Klanten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Nieuwe klant</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Wijzig klant</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Klant</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Klant informatie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Klantnaam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Klant ID nummer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Klant adres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Contactpersoon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Factuuradres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Verzendadres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Klant Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>De Klant is niet opgeslagen vanwege enkele fouten.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d klanten werden verwijderd.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Producten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Nieuw Product</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Product informatie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Product referentie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Product beschrijving</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Product prijs</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>vanaf</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>tot</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>afgelopen week</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>afgelopen maand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>afgelopen jaar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>afgelopen 5 jaar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Geopend</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Gesloten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Concepten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Ingeschakeld</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Uitgeschakeld</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Uitstaand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Gereed</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Niet verzonden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Afgewezen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Goedgekeurd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Reeks</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Kenmerken</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Zoeken</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Reset</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Eerste</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Vorige</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>PAGINA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Volgende</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Einde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>ga naar </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Ga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>meer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Toon [1] - [2] van [3] resultaten</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Instellingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Algemene instellingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Mijn instellingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Print sjablonen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Instellingen werden succesvol opgeslagen.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Instellingen werden niet bewaard. Controleer ingevulde gegevens en probeer opnieuw.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Graag deze fouten controleren en zonodig corrigeren voordat u ze opslaat:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Bedrijf</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Naam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Valuta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefoon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>Fax</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Website</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Factuur belasting</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Waarde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Actief</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Standaard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Voeg nieuwe belasting perc. toe</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>PDF instellingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Pagina formaat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Pagina afdrukstand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Juridische tekst</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Algemene Voorwaarden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Factuur nummering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Beginwaarde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Nieuwe nummering toevoegen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>De beginwaarde wordt alleen gebruikt voor de eerst opgeslagen factuur van de betreffende (ongebruikte) nummering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>Verwijder huidig bestand</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Over u</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Voornaam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Achternaam</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Vertaal het programma</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>taal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Maak Eenvoudig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Resultaten tonen in lijsten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Zoekfilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Standaard datumfilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Standaard factuurnummering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Verander uw wachtwoord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Oude wachtwoord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nieuw wachtwoord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nieuw wachtwoord (bevestigen)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Gewijzigd op</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Maak nieuw sjabloon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Verwijder geselecteerde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Markeer als standaard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Het sjabloon is niet opgeslagen vanwege fouten.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Weet u het zeker?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Geen resultaten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>dag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>week</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>maand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>jaar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Kan geen verbinging maken met database</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Controleer uw e-mail voor uw nieuwe wachtwoord.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Er was een probleem met het mail-systeem. Probeer het later opnieuw.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Verkeerde hash code</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Voorbeeldgegevens zijn ingelezen.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Als u een geldige gebruikersnaam of email ingegeven hebt, is er een email naar u verzonden met de activatie instructies.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Als u nog een activatie email wil versturen, herlaad deze pagina dan eerst</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>U hebt niet de juiste machtigingen voor deze pagina.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>sluiten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Geef uw gebruikersnaam of email zodat we u een email kunnen sturen met de activatie-link.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Gebruikersnaam of email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Contactpersoon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Factuuradres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Verzendadres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Prijs/eenheid</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Opslaan als PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Wijzigen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>De klant kon niet verwijderd worden. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>De factuur is succesvol opgeslagen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Er is een probleem met factuur %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>deze week</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>deze maand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>dit jaar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>verzonden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>ja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nee</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>verworpen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>goedgekeurd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Eenheden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Verkocht</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% producten verkocht voor in totaal %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Modules</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Periode type</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identificatie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Referentie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in your siwapp application</source>
+        <target>Selecteer de modules die u wilt activeren in uw siwapp applicatie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Klanten Module</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Schattingen Module</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Producten Module</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Gebruik voor Facturen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Gebruik voor Schattingen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,60 @@
+/* global fonts & classes */
+html, textarea, input[type="text"], input[type="password"], select {
+  font-family:'lucida grande','lucida sans unicode','lucida sans',lucida,arial,helvetica,sans-serif;
+}
+
+.content { font-size:1.3em; }
+
+a, a:link, a:visited { text-decoration:none;      }
+a:hover, a:active    { text-decoration:underline; }
+.alt a:hover,
+.alt a:active,
+a.alt:hover,
+a.alt:active         { text-decoration:none;      }
+
+strong, .strong { font-weight:bold;  }
+em, .em         { font-style:italic; }
+
+.text-right, td.right, th.right { text-align:right; }
+
+.small  { font-size:0.820em; }   /* 11px */
+.big    { font-size:1.250em; }   /* 15px */
+.bigger { font-size:1.500em; }   /* 18px */
+.right  {}
+
+h1 { /* Reserved */ }
+h2 { font-size:1.833em; } /* 22px */
+h3 { font-size:1.500em; } /* 18px */
+h4 { font-size:1.250em; } /* 15px */
+
+/* header section */
+#hd-navbar-menu { font-size:1.2em; }
+#hd-navbar-menu li { font-weight:bold; }
+
+#new-invoice-button       { font-size:1.2em; font-weight:bold; }
+#new-invoice-button span  {}
+#new-invoice-button:hover {}
+
+/* notifications */
+#hd-notifications div.notification { font-weight:bold; font-size:0.85em; }
+
+/* tables & listings */
+span.status { font-size:0.833em; line-height:1em; text-align:center; }
+
+/* DASHBOARD */
+.dashboard table.dashboard-info    { font-size:1.2em; }
+
+/* INVOICES */
+#invoice-container .error_list { font-size:0.9em; }
+#invoice-container .show label { font-size:0.846em; font-weight:bold; font-size:1em; font-weight:normal; }
+
+/* SETTINGS */
+#settings-wrapper li small { line-height:1.2em; }
+#settings-menu li.selected a { font-weight:bold; }
+#settings-menu li.selected a:hover { text-decoration:none; }
+
+/* ERRORS */
+.error_list { font-size:0.85em; line-height:1.5em; }
+.errorBox   { font-size:0.85em; text-align:left; }
+.errorBox .error_list { font-size:1em; }
+.errorBox .error_list li { list-style-type:disc; }

@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="fa" datatype="plaintext" original="messages" date="2011-10-01T14:15:16Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>نام كاربري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>رمز</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>مرا به ياد داشته باش</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>ورود</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>رمز خود را فراموش كرده ايد؟</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>خوش آمديد, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>خروج</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>داشبورد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>آخرين صورتحساب ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>صورتحساب هاي دوره قبل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>شماره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>نام مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>تاريخ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>تاريخ دوره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>دوره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>پرداخت ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>اضافه كردن پرداخت</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>لغو</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>ذخيره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>رسيد</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>صورت حساب ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>صورت حساب جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>صورت حساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>ويرايش صورت حساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>شناسه مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>جزئيات پرداخت</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>پرداخت با موفقيت ذخيره شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>به خاطر يك خطاي ناشناخته پرداخت ذخيره نشد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>توصيف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>قيمت واحد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>تعداد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>ماليات و عوارض</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>اساس</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>تخفيف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>قيمت</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>اضافه كردن آيتم</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>اضافه كردن</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>جمع جر</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>مجموع</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>ياداشت ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>حذف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>ذخيره در پيشنويس</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>ذخيره و ارسال به ايميل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>چاپ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>پي دي اف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>اراسل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>صورتحساب با موفقيت ارسال شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>به خاطر وحود خطا صورتحساب ارسال نشد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>صورتحساب به دليل برخي خطاها ذخيره نشد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d صورتحساب با موفقيت حذف شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d صورتحساب با موفقيت ارسال شدند.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>مشاهده همه  ([1] صورت حساب ها)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>صادر شده در</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>سررسيد خواهد شد در</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>باز شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>بسته شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>سررسيده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>پيشنويس</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>ارسال به ايميل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>به بسته شدن</source>
+        <target>Forzarla a ser cerrada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>تاريخ صدور</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>تاريخ دوره</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>صورتحساب هاي دوره اي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>صورت حساب دوره اي جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>سررسيد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>نوع دوره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>تناوب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>اين مقدار در مجموع انعكاس داده نشده است</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>اينجا %d صورتحساب دوره اي هست كه هنوز تمام نشده است </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>ويرايش صورتحساب دوره اي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>همه %d صورتحساب هاي دوره اي پردازش شده اند</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>زمان اتمام صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>شروع</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>محختوم شدن</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>متوسط معاملات</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>توليد پيش صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>فعال شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>غير فعال شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>خاتمه يافته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>در انتظار</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>سال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>ماه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>هفته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>روز</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>ساليانه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>ماهيانه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>روزانه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>هفتگي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>مجموعه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>ايجاد هر</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>تاريخ شروع</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>تاريخ اتمام</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>بيشترين تعداد تكرار</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>روز به دوره</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>برآوردها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>برآورد جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>ذخيره و ايجاد صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>اين برآورد با موفقيت ذخيره شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>صورتحساب با موفقيت صدور گرديد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>به خاطر بعضي خطاها صورتحساب صدور نشد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>جزئيات برآورد</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>مشتريان</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>مشتري جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>ويرايش مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>اطلاعات مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>نام مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>ملاحظات قانوني مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>آدرس مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>ارتباط شخص</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>آدرس صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>آدرس محل زندگي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>ايميل مشتري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>به خاطر برخي خطاها مشتري ذخيره نشد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d مشتري حذف شد.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>محصولات</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>محصول جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>اطلاعات محصول</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>مرجع محصول</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>جزئيات محصول</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>قيمت محصول</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>از</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>به</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>هفته گذشته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>ماه گذشته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>پارسال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>5 سال گذشته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>وضعيت</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>باز شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>بسته شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>پيش نويس ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>فعال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>غير فعال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>در انتظار</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>خاتمه يافته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>ارسال نشده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>رد شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>تاييد شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>مجموعه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>تگ ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>جستجو</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>تازه سازي</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>اولين</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>پيشين</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>صفحه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>بعدي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>قبلي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>برو به </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>برو</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>بيشتر</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>نمايش [1]-[2] از [3] نتايج</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>تنظيمات</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>تنظيمات سراسري</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>تنظيمات من</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>قالب چاپي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>تنظيمات شما با موفقيت ذخير شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>تنظيمات نمي توانند ذخيره شوند. لطفا گزينه هايي را كه وارد نموده ايد را چك نماييد..</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>لطفا اين خطاها را قبل از ذخيره كردن بررسي نماييد.:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>شركت</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>نام</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>واحد پول</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>آدرس</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>تلفن</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>فاكس</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>ايميل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>آدرس وب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>لوگو</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>ماليات و عوارض صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>مقدار</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>فعال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>پيش فرض</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>اضافه نمودن مقدار جديد عوارض</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>تنظيمات پي دي اف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>اندازه صفحه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>گرايش صفحه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>متون حقوقي و قانوني</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>قوانين و مقررات</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>مجموعه صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>برچسب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>مقدار اوليه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>اضافه نمودن مقدار مجموعه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>مقدار اوليه براي مجموعه صورتحساب براي وقتي كه هنوز هيچ صورتحسابي اختصاص داده نشده است.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>حذف فايل جاري</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>درباره شما</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>نام</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>نام خانوادگي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>ترجمه اپليكيشن</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>زبان رابط</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>آسان بنما</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>نتایج برای نمایش در لیست</target>
+      </trans-unit>
+      <trans-unit>
+        <source>اساس بندي جستحو</source>
+        <target>Filtro de búsqueda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>اساس بندي بر اساس تاريخ پيش فرض</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>مجموعه پيش فرض صورت حساب ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>تغيير رمز</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>رمز قديمي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>رمز جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>تاييد رمز جديد</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>بروز شده در تاريخ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>ايجاد قالب جديد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>حذف انتخاب شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>علامت گذاری به عنوان پیش فرض</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>قالب به خاطر وجود برخي خطاها ذخيره نشد.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>آيا مطمئن هستيد؟</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>بدون نتيجه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>روز</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>هفته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>ماه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>سال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>عدم توانايي در اتصال به پابگاه داده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>ايميل خود را براي رمز جديد چك نماييد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>لطفا بعدا تلاش نماييد.در سيستم پيام رساني مشكلاتي بوجود آمده است.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>هش كد اشتباه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>داده هاي نمونه بارگزاري شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>اگر شما ايميل يا نام كاربري معتبري وارد كرده باشيد. اطلاعات فعال سازي براي شما فرستاده خواهد شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>اگر نياز به فعال سازي ايميل ديگر خود ميباشيد, بايداين صفحه را رفرش نماييد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>شما دسترسی لازم به این صفحه را ندارید</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>بستن</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>لطفا نام كاربري يا ايميل خود را وارد نماييد تا لينك فعال سازي را به ايميل شما ارسال نماييم.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>نام كاربري يا ايميل</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>ارتباط شخص</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>آدرس صورتحساب</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>آدرس محل زندگي</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>قيمت واحد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>ذخيره پي دي اف</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>ويرايش</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>مشتري نميتواند حذف شود. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>صورتحساب با موفقيت ذخيره شد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>اينجا مشكلاتي هست با صورتحساب %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>اين هفته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>ماه گذشته</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>امسال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>ارسال</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>بله</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>خير</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>رد شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>تاييد شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>واحد ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>فروخته شده</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% محصول فروخته شد از مجموع %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>ما‍ژوال ها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>نوع دوره</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>شناسه</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>ارجاع</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>ماژوال هايي را كه ميخواهيد در سيواپ فعال شوند را انتخاب نماييد.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>ماژوال مشتريان</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>ماژوال برآورد</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>ماژوال محصولات</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>استفاده براي فاكتورها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>استفاده براي برآوردها</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

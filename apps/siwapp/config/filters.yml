@@ -1,0 +1,12 @@
+rendering: ~
+security:
+  class: sfGuardBasicSecurityFilter
+
+# insert your own filters here
+search_filter:
+  class: SearchFilter
+
+cache:     ~
+common:
+  class: sfCommonFilter
+execution: ~

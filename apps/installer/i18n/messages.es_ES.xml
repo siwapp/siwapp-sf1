@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="es_ES" datatype="plaintext" original="messages" date="2010-07-11T22:13:57Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Choose language</source>
+        <target>Escoja idioma</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Next</source>
+        <target>Siguiente</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please choose the language to use during the installation of Siwapp</source>
+        <target>Por favor, escoja el idioma que quiere usar durante la instalación de Siwapp</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pre-Installation Check</source>
+        <target>Comprobaciones Pre-Instalación</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Back</source>
+        <target>Volver</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Checking Siwapp requirements</source>
+        <target>Comprobando requerimientos</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>If any of these items are highlighted in red then please take actions to correct them</source>
+        <target>Si alguno de estos elementos esta remarcado en rojo deberá tomar medidas para corregirlos</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Failure to do so could lead to your Siwapp installation not functioning correctly</source>
+        <target>En caso de no poder hacerlo puede provocar que su instalación de Siwapp no funcione correctamente</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Recommended settings</source>
+        <target>Configuración recomendada</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>These settings are recommended for PHP in order to ensure full compatibility with Siwapp</source>
+        <target>Esta es la configuración PHP recomendada para así garantizar una plena compatibilidad con Siwapp</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>However, Siwapp will still operate if your settings do not quite match the recommended</source>
+        <target>Sin embargo, Siwapp continuará funcionando aunque su configuración no se corresponda con la recomendada</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>License Agreement</source>
+        <target>Acuerdo de Licencia</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Database Configuration</source>
+        <target>Configuración de Base de datos</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Connection Settings</source>
+        <target>Configuración de Conexión</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Enter your database connection details below.</source>
+        <target>Abajo deberá introducir los detalles de su conexión a la base de datos.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>If you're not sure about these, contact your host.</source>
+        <target>Si no está seguro de éstos, contacte con su hosting.</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Database Name</source>
+        <target>Nombre de la Base de datos</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>User Name</source>
+        <target>Nombre usuario</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Password</source>
+        <target>Contraseña</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Database Host</source>
+        <target>Host de la Base de datos</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Main Configuration</source>
+        <target>Configuración Principal</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Finish installation</source>
+        <target>Finalizar instalación</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Finish</source>
+        <target>Finalizar</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Congratulations! Siwapp is now installed</source>
+        <target>¡Felicidades! Siwapp ya está instalado</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Language</source>
+        <target>Idioma</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>License</source>
+        <target>Licencia</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Database</source>
+        <target>Base de datos</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Configuration</source>
+        <target>Configuración</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>CORRECT</source>
+        <target>CORRECTO</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>ERROR</source>
+        <target>ERROR</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>WARNING</source>
+        <target>AVISO</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>PHP version is at least 5.2.4</source>
+        <target>La versión de PHP es almenos la 5.2.4</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Current PHP version is [1]</source>
+        <target>La versión instalada de PHP es [1]</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>php.ini has zend.ze1_compatibility_mode set to off</source>
+        <target>php.ini tiene el zend.ze1_compatibility_mode puesto a off</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Set zend.ze1_compatibility_mode to off in php.ini ([1])</source>
+        <target>Ponga a off el zend.ze1_compatibility_mode del php.ini ([1])</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>PDO is installed</source>
+        <target>PDO está instalado</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Install PDO (mandatory for Propel and Doctrine)</source>
+        <target>Instale el PDO (obligatorio para Propel y Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>PDO has some drivers installed: [1]</source>
+        <target>PDO tiene algunos drivers instalados: [1]</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Install PDO drivers (mandatory for Propel and Doctrine)</source>
+        <target>Instale los drivers del PDO (obligatorio para Propel y Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>PHP-XML module is installed</source>
+        <target>El módulo PHP-XML está instalado</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Install the PHP-XML module (required by Propel)</source>
+        <target>Instale el módul PHP-XML (requerido para Propel)</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>The iconv() function is available</source>
+        <target>La función iconv() está disponible</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Install iconv() function</source>
+        <target>Instale la función iconv()</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>The utf8_decode() function is available</source>
+        <target>La función utf8_decode() está disponible</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Install utf8_decode() function</source>
+        <target>Instale la función utf8_decode()</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>XSL module is installed</source>
+        <target>El módulo XSL está instalado</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Install the XSL module (recommended for Propel)</source>
+        <target>Instale el módulo XSL (recomendado para Propel)</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The token_get_all() function is available</source>
+        <target>La función token_get_all() está disponible</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Install token_get_all() function (highly recommended)</source>
+        <target>Instale la función token_get_all() (altamente recomendada)</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The mb_strlen() function is available</source>
+        <target>La función mb_strlen() está disponible</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Install mb_strlen() function</source>
+        <target>Instale la función mb_strlen()</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>A PHP accelerator is installed</source>
+        <target>Un acelerador PHP está instalado</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Install a PHP accelerator like APC (highly recommended)</source>
+        <target>Instale un acelerador PHP como APC (altamente recomendado)</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>php.ini has safe_mode set to off</source>
+        <target>El php.ini tiene el safe_mode puesto a off</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>php.ini has short_open_tag set to off</source>
+        <target>El php.ini tiene el short_open_tag puesto a off</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>php.ini has magic_quotes_gpc set to off</source>
+        <target>El php.ini tiene el magic_quotes_gpc puesto a off</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>php.ini has register_globals set to off</source>
+        <target>El php.ini tiene el register_globals puesto a off</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>php.ini has session.auto_start set to off</source>
+        <target>El php.ini tiene el session.auto_start puesto a off</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Set safe_mode to off in php.ini</source>
+        <target>Ponga el safe_mode a off en el php.ini</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Set short_open_tag to off in php.ini</source>
+        <target>Ponga el short_open_tag a off en el php.ini</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Set magic_quotes_gpc to off in php.ini</source>
+        <target>Ponga el magic_quotes_gpc a off en el php.ini</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Set register_globals to off in php.ini</source>
+        <target>Ponga el register_globals a off en el php.ini</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Set session.auto_start to off in php.ini</source>
+        <target>Ponga el session.auto_start a off en el php.ini</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>is Free Software released under the MIT license</source>
+        <target>es Software Libre liberado bajo la licencia MIT</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Can't connect to the database. Please review the data.</source>
+        <target>No se puede conectar a la base de datos. Por favor, revise los datos.</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Administrator user details</source>
+        <target>Detalles del usuario de administración</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Enter the following information for the super administrator user:</source>
+        <target>Introduzca la siguiente información para el usuario super administrador:</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Administrator Email</source>
+        <target>Email administrador</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Username</source>
+        <target>Nombre usuario</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Password again</source>
+        <target>Contraseña otra vez</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Load sample data</source>
+        <target>Cargar datos de prueba</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>If you want to preload the database with sample data, check the following checkbox.</source>
+        <target>Si quiere precargar la base de datos con datos de prueba, marque la siguiente casilla.</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Application initial data</source>
+        <target>Datos iniciales de la aplicación</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Click the "Finish" button to start the Siwapp application.</source>
+        <target>Clickee el botón "Finalizar" para iniciar la aplicación Siwapp.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Enjoy!</source>
+        <target>¡Disfrútalo!</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Please review the following error messages carefully and try to correct them before you continue.</source>
+        <target>Por favor, revise cuidadosamente los siguientes mensajes de error e intente corregirlos antes de continuar.</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>File Permissions</source>
+        <target>Permisos de Archivo</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Siwapp needs to have write permissions over certain files and directories</source>
+        <target>Siwapp necesita tener permisos de escritura sobre algunos archivos y directorios</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Oops, there are some problems</source>
+        <target>Ouch! hay algunos problemas</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Siwapp is almost installed</source>
+        <target>Siwapp está casi instalado</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Once you've checked out the instructions above, click the "Finish" button to finish the installation process.</source>
+        <target>Una vez que hayas revisado las instrucciones que se muestran más arriba, haz click en "Finalizar" para finalizar la instalación.</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please read these instructions carefully:</source>
+        <target>Por favor, lee cuidadosamente estas instruciones:</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>We couldn't write to %1% file. Please download it %2%here%3% and replace it at %4% by yourself</source>
+        <target>No pudimos escribir en el archivo %1%. Por favor descárgalo %2%aquí%3% y sustitúyelo tú mismo en %4%</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>PLEASE TAKE THE FOLLOWING SECURITY MEASURES:</source>
+        <target>POR FAVOR, EJECUTA LAS SIGUIENTES MEDIDAS DE SEGURIDAD:</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Remove the write permissions of the %1% file</source>
+        <target>Quita los permisos de escritura del archivo %1%</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>There were some sql errors creating the database.</source>
+        <target>Ha habido algunos errores de sql creando la base de datos.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>The %1% directory exists and is writable</source>
+        <target>El directorio %1% existe y se puede escribir</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Make sure the %1% directory is writable (%2%)</source>
+        <target>Asegúrese de que en el directorio %1% se puede escribir</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Siwapp Upgrade</source>
+        <target>Actualización de Siwapp</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>The following errors occurred</source>
+        <target>Ocurrieron los siguientes errores</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Upgrade successfully completed</source>
+        <target>Actualización completada con éxito</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>No upgrade needed</source>
+        <target>No se necesita actualización</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Choose your country</source>
+        <target>Escoge tu país</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overwrite previous Siwapp installations</source>
+        <target>Borrar la instalación anterior de Siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are some tables at your database that will be overwritten by the Siwapp installation process</source>
+        <target>Ya hay algunas tablas en tu base de datos que la instalación de Siwapp borrará</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You need to click the checkbox to allow the tables to be overwritten</source>
+        <target>Has de marcar la casilla para permitir el borrado</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The mod_rewrite apache module is available</source>
+        <target>El módulo mod_rewrite de apache está disponible</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Install mod_rewrite module on apache</source>
+        <target>Instale el módulo mod_rewrite en apache</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

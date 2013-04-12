@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ca" datatype="plaintext" original="messages" date="2010-10-22T14:15:16Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Contrassenya</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Recordar les meves dades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Entrar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Ha oblidat la contrasenya?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Benvingut, [1]</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Sortir</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Resum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Factures recents</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Factures endarrerides</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Número</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Nom Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Data</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Venciment</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Pendent</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Pagaments</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Afegir pagament</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Cancel·lar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Desar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Rebudes</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Factures</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Nova Factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Editar Factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Identificació client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Detalls del pagament</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Els pagaments han estat desats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Els pagaments no han pogut ser desats per un error.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Descripció</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Cost unitat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Quantitat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Impostos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Base</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Descompte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Preu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Afegir Item</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Afegir</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Notes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Eliminar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Desar com a esborrany</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Desar i enviar per e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Imprimir</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Enviar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>La factura ha estat enviada correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>La factura no ha pogut ser enviada.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>La factura no ha pogut ser desada.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d factures han estat esborrades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d factures han estat enviades.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>veure totes  ([1] factures)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Facturada el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>es convertirá en endarrerida el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>oberta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>tancada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>endarrerida</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>esborrany</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Enviat per email</target>
+      </trans-unit>
+       <trans-unit>
+        <source>Force to be closed</source>
+        <target>Forçar a ser tancada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Data d'emissió</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Data de venciment</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Factures periòdiques</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Nova Factura Periòdica</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Endarrerides</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Tipus de Periode</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Periodicitat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Aquesta quantitat no està reflexada en el total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Hi ha %d factures que no han estat executades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Editar Factura Periòdica</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Les %d factures periòdiques han estat processades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Temps d'Execució de la Factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Començant el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Acabant el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Mitjana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Generar factures pendents ara</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>activa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>no activa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>finalitzada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>pendent</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Anys</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Mesos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Setmanes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dies</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>anual</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>mensual</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>diària</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>setmanal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Sèrie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Crear cada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Data d'inici</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Data de finalització</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Màxim nombre d'ocurrències</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dies per al venciment</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Pressupostos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Nou Pressupost</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Desar i crear factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>El pressupost s'ha desat correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>La factura s'ha creat correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>No s'ha pogut crear la factura degut a un error desconegut.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Detalls del pressupost</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Clients</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Nou Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Editar Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Informació del client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Nom del Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Identificador legal del Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Adreça del Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Persona de Contacte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Adreça de Facturació</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Adreça d'Enviament</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Email del Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>El client no ha pogut ser desat.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d clients han estat esborrats.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Productes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Nou Producte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Informació del producte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Referència del producte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Descripció del producte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Preu del producte</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>des de</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>fins</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>darrera setmana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>darrer mes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>darrer any</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>darrers 5 anys</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Estat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Obertes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Tancades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Esborranys</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Activades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Desactivades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Pendents</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Acabades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>No enviada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Refusat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Aprovat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Sèries</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Etiquetes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Cercar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Netejar</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Primer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Anterior</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>PÀG</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Següent</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Últim</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>anar a </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Anar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>més</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Mostrant [1]-[2] de [3] resultats</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Configuració</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Configuració global</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>La meva configuració</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Plantilles d'Impressió</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>La seva configuració ha estat desada correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>No s'ha desat la configuració. Comprova que has introduït els valors correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Per favor, comprovi aquests errors abans de desar:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Empresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Moneda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adreça</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telèfon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Lloc Web</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logotip</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Impostos de facturació</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Valor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Vigents</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Predeterminat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Afegir un nou valor d'impost</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>Configuració PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Mides de la pàgina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Orientació de la pàgina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Textes legals</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Termes i condicions</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Sèries de facturació</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Etiqueta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Valor inicial</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Afegir un nou valor de sèries</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>El valor inicial només serà utilitzat per a la primera factura guardada de les sèries en cas que no tingui factures assignades.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>eliminar el fitxer actual</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Quant a tu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Nom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Cognoms</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Traduïr l'aplicació</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Idioma de l'interfície</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Faci-ho fàcil</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Resultats a visualitzar als llistats</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Filtre de cerca</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Filtre de data per defecte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Sèrie de facturació per defecte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Canviar la seva contrassenya</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Antiga contrassenya</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nova contrasenya</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nova contrasenya (confirmació)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Modificat el</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Crear nova plantilla</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Eliminar seleccionat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Marcar com a predefinit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>La plantilla no s'ha desat degut a alguns errors.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Està segur</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Sense resultats</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>dia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>setmana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>mes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>any</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>No es pot connectar a la Base de dades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Revisi el seu email per a la seva nova contrasenya.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Hi ha hagut problemes amb el sistema de missatgeria. Si us plau provi-ho més tard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Codi hash incorrecte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Les dades d'exemple s'han carregat.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Si ha escrit un nom d'usuari correcte o un email, rebrà un correu amb les instruccions d'activació.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Si vol enviar un altre correu d'activació, primer haurà de recarregar la pàgina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>No té els permisos necessaris per a accedir a aquesta pàgina.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>tancar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Si us plau escrigui el seu nom d'usuari o email i li enviarem un correu amb l'enllaç d'activació.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Nom d'usuari o email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Persona contacte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Adreça facturació</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Adreça enviament</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Cost unitat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Desar PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Editar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>El client no es pot eliminar. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>La factura s'ha desat correctament.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Hi ha un problema amb la factura %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>aquesta setmana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>aquest mes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>aquest any</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Enviat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>sí</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>no</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>refusat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>aprovat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Unitats</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Venut</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% productes venuts per un total de %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Mòduls</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Tipus període</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identificador</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Referència</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Seleccioni els mòduls que vulgui activar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Mòdul de clients</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Mòdul de pressupostos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Mòdul de productes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Usar en factures</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Usar en pressupostos</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

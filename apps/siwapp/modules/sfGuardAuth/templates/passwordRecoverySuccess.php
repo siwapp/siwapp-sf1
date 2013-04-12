@@ -1,0 +1,2 @@
+<p><?php echo __('If you provided either a valid username or email, an email has been sent to you with the activation instructions.')?></p>
+<p><?php echo __('If you want to send another activation email, you\'ll need to reload this page first')?></p>

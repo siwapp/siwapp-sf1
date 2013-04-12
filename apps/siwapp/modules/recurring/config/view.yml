@@ -1,0 +1,21 @@
+all:
+  metas:
+    title:     siwapp - Recurring Invoices
+  components:
+    searchForm: [search, recurringForm]
+
+indexSuccess:
+  javascripts:
+    - core/table.js
+    - siwapp/recurring/index.js
+
+editSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/json2
+    - core/form
+    - core/field
+    - core/hotkeys
+    - invoice
+    - tags
+    - jquery.textarearesizer.compressed.js

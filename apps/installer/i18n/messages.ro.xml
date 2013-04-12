@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2010-07-11T22:13:57Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Choose language</source>
+        <target>Alegeti limba</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Next</source>
+        <target>Urmatorul</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please choose the language to use during the installation of Siwapp</source>
+        <target>Va rugam sa alegeti limba pentru procesul de instalare Siwapp</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pre-Installation Check</source>
+        <target>Verificari inainte de instalare</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Back</source>
+        <target>Inapoi</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Checking Siwapp requirements</source>
+        <target>Verificare cerinte Siwapp</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>If any of these items are highlighted in red then please take actions to correct them</source>
+        <target>Daca oricare dintre randuri sunt marcate cu rosu va rugam sa luati masurile necesare pentru corectare</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Failure to do so could lead to your Siwapp installation not functioning correctly</source>
+        <target>In cazul in care nu corectati greselile, aplicatia Swiapp nu va functiona corect</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Recommended settings</source>
+        <target>Setari recomandate</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>These settings are recommended for PHP in order to ensure full compatibility with Siwapp</source>
+        <target>Aceste setari PHP sunt recomandate pentru a asigura o compatibilitate completa cu Swiapp</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>However, Siwapp will still operate if your settings do not quite match the recommended</source>
+        <target>Swiapp va continua sa functioneze chiar daca setarile nu coincid cu cele recomandate</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>License Agreement</source>
+        <target>Acordul de licenta</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Database Configuration</source>
+        <target>Configuratie baza de date</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Connection Settings</source>
+        <target>Setari conexiune</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Enter your database connection details below.</source>
+        <target>Introduceti datele pentru baza de date mai jos.</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>If you're not sure about these, contact your host.</source>
+        <target>Daca nu sunteti sigur va rugam sa va contactati provider-ul.</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Database Name</source>
+        <target>Nume baza de date</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>User Name</source>
+        <target>Nume utilizator</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Password</source>
+        <target>Parola</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Database Host</source>
+        <target>Adresa baza de date</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Main Configuration</source>
+        <target>Configuratie principala</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Finish installation</source>
+        <target>Finalizare instalare</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Finish</source>
+        <target>Finalizeaza</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Congratulations! Siwapp is now installed</source>
+        <target>Felicitari! Swiapp este instalat</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Language</source>
+        <target>Limba</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>License</source>
+        <target>Licenta</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Database</source>
+        <target>Baza de date</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Configuration</source>
+        <target>Configuratie</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>CORRECT</source>
+        <target>CORECT</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>ERROR</source>
+        <target>EROARE</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>WARNING</source>
+        <target>ATENTIE</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>PHP version is at least 5.2.4</source>
+        <target>Versiune PHP este cel putin 5.2.4</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Current PHP version is [1]</source>
+        <target>Versiunea curenta PHP este [1]</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>php.ini has zend.ze1_compatibility_mode set to off</source>
+        <target>php.ini are  zend.ze1_compatibility_mode setat off</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Set zend.ze1_compatibility_mode to off in php.ini ([1])</source>
+        <target>Seteaza zend.ze1_compatibility_mode in off in php.ini ([1])</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>PDO is installed</source>
+        <target>PDO este instalat</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Install PDO (mandatory for Propel and Doctrine)</source>
+        <target>Instaleaza PDO (obligatoriu pentru Propel si Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>PDO has some drivers installed: [1]</source>
+        <target>PDO are drivere instalate: [1]</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Install PDO drivers (mandatory for Propel and Doctrine)</source>
+        <target>Instaleaza drivere-le PDO (oblogatoriu pentru Propel si Doctrine)</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>PHP-XML module is installed</source>
+        <target>Modulul PHP-XML este instalat</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Install the PHP-XML module (required by Propel)</source>
+        <target>Instaleaza modulul PHP-XML (necesar pentru Propel)</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>The iconv() function is available</source>
+        <target>Functia iconv() este disponibila</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Install iconv() function</source>
+        <target>Instaleaza functia iconv()</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>The utf8_decode() function is available</source>
+        <target>Functia utf8_decode() este disponibila</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Install utf8_decode() function</source>
+        <target>Instaleaza functia utf8_decode()</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>XSL module is installed</source>
+        <target>Modulul XSL este instalat</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Install the XSL module (recommended for Propel)</source>
+        <target>Instaleaza modulul XSL (recomandat pentru Propel)</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>The token_get_all() function is available</source>
+        <target>Functia token_get_all() este disponibila</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Install token_get_all() function (highly recommended)</source>
+        <target>Instaleaza functia token_get_all()(foarte recomandata)</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>The mb_strlen() function is available</source>
+        <target>Functia mb_strlen() este disponibila</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Install mb_strlen() function</source>
+        <target>Instaleaza functia mb_strlen()</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>A PHP accelerator is installed</source>
+        <target>Un accelerator PHP este instalat</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Install a PHP accelerator like APC (highly recommended)</source>
+        <target>Instaleaza un accelerator PHP (APC, xCache etc.) (foarte recomandat)</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>php.ini has safe_mode set to off</source>
+        <target>php.ini are safe_mode setat off</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>php.ini has short_open_tag set to off</source>
+        <target>php.ini are short_open_tag setat off</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>php.ini has magic_quotes_gpc set to off</source>
+        <target>php.ini are magic_quotes_gpc setat off</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>php.ini has register_globals set to off</source>
+        <target>php.ini are register_globals setat off</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>php.ini has session.auto_start set to off</source>
+        <target>php.ini are session.auto_start setat off</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Set safe_mode to off in php.ini</source>
+        <target>Seteaza safe_mode off in php.ini</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Set short_open_tag to off in php.ini</source>
+        <target>Seteaza short_open_tag off in php.ini</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Set magic_quotes_gpc to off in php.ini</source>
+        <target>Seteaza magic_quotes_gpc off in php.ini</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Set register_globals to off in php.ini</source>
+        <target>Seteaza register_globals to in php.ini</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Set session.auto_start to off in php.ini</source>
+        <target>Seteaza session.auto_start off in php.ini</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>is Free Software released under the MIT license</source>
+        <target>este Software Gratuit distribuit sub licenta MIT </target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Can't connect to the database. Please review the data.</source>
+        <target>Conecatare la baza de date esuata.Va rugam verificati datele.</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Administrator user details</source>
+        <target>Detalii utilizator Administrator</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Enter the following information for the super administrator user:</source>
+        <target>Introduceti urmatoarele informatii pentru utilizatorul super administrator:</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Administrator Email</source>
+        <target>Email Administrator</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Username</source>
+        <target>Utilizator</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Password again</source>
+        <target>Parola</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Load sample data</source>
+        <target>Incarca date demo</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>If you want to preload the database with sample data, check the following checkbox.</source>
+        <target>Daca doriti sa incarcati baza de date cu date demo va rugam bifati urmatoarea casuta.</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Application initial data</source>
+        <target>Date initiale aplicatie</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Click the "Finish" button to start the Siwapp application.</source>
+        <target>Apasa "Finalizare" pentru a porni aplicatia Siwapp.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Enjoy!</source>
+        <target>Enjoy!</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Please review the following error messages carefully and try to correct them before you continue.</source>
+        <target>Va rugam sa cititi cu atentie erorile urmatoare si corectati-le inainte de a continua.</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>File Permissions</source>
+        <target>Permisiuni fisiere</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Siwapp needs to have write permissions over certain files and directories</source>
+        <target>Siwapp necesite drepturi de scriere pentru anumite fisiere si foldere</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Oops, there are some problems</source>
+        <target>Oops, sunt probleme</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Siwapp is almost installed</source>
+        <target>Siwapp este aproape instalat</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Once you've checked out the instructions above, click the "Finish" button to finish the installation process.</source>
+        <target>Dupa ce ati verificati instructiunile de mai sus, apasati "Finalizare" pentru a incheia procesul de instalare.</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Please read these instructions carefully:</source>
+        <target>Va rugam sa cititi instructiunile cu atentie:</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>We couldn't write to %1% file. Please download it %2%here%3% and replace it at %4% by yourself</source>
+        <target>Nu s-a putut scrie in fisierul %1%. Descarcati-l %2%here%3% si inlocuiti %4%</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>PLEASE TAKE THE FOLLOWING SECURITY MEASURES:</source>
+        <target>VA RUGAM SA LUATI URMATOARELE MASURI DE SECURITATE:</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Remove the write permissions of the %1% file</source>
+        <target>Scoateti drepturile de scriere pentru fisierul %1%</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>There were some sql errors creating the database.</source>
+        <target>Am intampinat erori sql la crearea bazei de date.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>The %1% directory exists and is writable</source>
+        <target>Directorul %1% exista si poate fi scris</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Make sure the %1% directory is writable (%2%)</source>
+        <target>Asigurati-va ca directorul %1% are drepturi de scriere (%2%)</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Siwapp Upgrade</source>
+        <target>Actualizare Siwapp</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>The following errors occurred</source>
+        <target>Au fost intampinate urmatoarele erori</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Upgrade successfully completed</source>
+        <target>Actualizare finalizata cu succes</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>No upgrade needed</source>
+        <target>Nu sunt disponibile actualizari</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Choose your country</source>
+        <target>Alegeti tara</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overwrite previous Siwapp installations</source>
+        <target>Rescriere versiuni vechi Siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are some tables at your database that will be overwritten by the Siwapp installation process</source>
+        <target>Exista tabele in baza de date care vor fi rescrise de procesul de instalare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You need to click the checkbox to allow the tables to be overwritten</source>
+        <target>Trebuie sa bifati casuta pentru a permite rescrierea tabelelor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The mod_rewrite apache module is available</source>
+        <target>Modulul apache mod_rewrite este disponibil</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Install mod_rewrite module on apache</source>
+        <target>Instaleaza modulul mod_rewrite pentru apache</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

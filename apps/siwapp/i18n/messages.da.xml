@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="da" datatype="plaintext" original="messages" date="2010-10-22T14:15:15Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Brugernavn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Kodeord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Husk mig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Log ind</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Glemt dit kodeord?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Velkommen, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Logud</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Overblik</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Nylige fakturer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Fakturer over betalingsdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Nummer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Kundenavn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Dato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Betalingsdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Til betaling</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Betalinger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Tilføj betaling</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Annuller</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Gem</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Kvitteringer</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Fakturer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Ny faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Rediger faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Kunde indentifikation</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Betalingsdetaljer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Betalinger blev gemt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Betalinger kunne ikke gemmes på grund af en ukendt fejl.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Beskrivelse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Enhedspris</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Antal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Moms</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Base</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Rabat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Pris</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Tilføj linje</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Tilføj</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Noter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Slet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Gem som kladde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Gem og send med email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Udskriv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Send</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Fakturaen blev sendt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Fakturaen kunne ikke sendes på grund af en ukendt fejl.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Fakturaen kunne ikke gemmes på grund fejl.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d fakturer slettet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d fakturer sendt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all [1] invoices</source>
+        <target>vis all [1] fakturer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Udstedt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>Vil passere betalingsdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>åben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>lukket</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>over betaling</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>kladde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Send med email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Tving til at lukke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Faturadato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Betalingsdato</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Tilbagevendende fakturer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Ny tilbagevendende faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Over betalingsdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Periodetype</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Frekvens</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Denne sum er ikke repræsenteret i totalen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Der er %d tilbagevendende fakturer der ikke blev eksekveret</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Rediger tilbagevendende faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Alle %d tilbagevendende faktura blev processeret</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Faktura Eksekveringstid</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Starter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Færdig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Gennemsnitlig omsætning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Generér ventende fakturer nu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>til</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>fra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>færdig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>venter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>År</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Måneder</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dage</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>årligt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>månedsvis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>dagligt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>ungenligt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Opret hver</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Startdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Slutdato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Maksimum antal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dage til betaling</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Estimater</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Ny estimat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Gem op opret faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>Estimatet blev oprettet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>Fakturaen blev oprettet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Fakturaen kunne ikke oprettes på grund af en fejl</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Detaljer for estimat</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Kunder</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Ny Kunde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Rediger Kunde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Kunde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Klient info</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Klient Navn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Klient CVR</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Klient Adresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>kontaktperson</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Fakturaadresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Leveringsadresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Klient email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Kunden blev ikke gemt på grund af interne fejl</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d kunder blev slettet</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Produkter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Nyt produkt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Produktinfo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Produktreference</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Produktbeskrivelse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Produktpris</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>fra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>til</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>sidste uge</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>sidste måned</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>sidste år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>sidste 5 år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Åben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Lukket</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Kladder</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Slået til</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Slået fra</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Venter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Færdig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Ikke sendt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Mærker</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Søg</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Nulstil</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Første</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Tidligere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>SIDE</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Næste</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Sidste</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>gå til </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Gå</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>mere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Viser [1]-[2] af [3] resultater</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Indstillinger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Overordnede indstillinger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Mine indstillinger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Udskriftskabeloner</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Dine indstillinger blev gemt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Indstillinger kunne ikke gemmes. Gennemgå venligst de indtastede værdier og ret dem.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Gennemgå venligst disse fejl, og ret dem før du gemmer:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Firma</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Navn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Valuta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Hjemmeside</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Faktura afgifter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Værdi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Aktiv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Standard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Tilføj ny afgift værdi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>PDF Indstillinger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Side størrelse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Side orientering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Juridisk information</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Vilkår &amp; Betingelser</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Faktura serialisering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Etiket</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Startværdi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Tilføj ny serialisering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Startværdien vil kun bilve brugt til den først gemte faktura i serialiseringen, hvis der ikke er tildelt nogen fakturaer. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>overskriv nuværende fil</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Om dig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Fornavn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Efternavn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Oversæt applikationen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Brugerfladesprog</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Gør det let</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Resultater at vise i visninger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Søgefilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Standard datofilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Standard faktura serier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Skift kodeord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Gammelt kodeord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nyt kodeord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nyt kodeord (bekræftelse)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Opdateret</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Opret ny skabelon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Slet valgte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Marker som standard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Skabelonen blev ikke gemt på grund af intern fejl.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Er du sikker?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Ingen resultater</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>dag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>uge</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>måned</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Kan ikke forbinde til databasen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Tjek din email for at få dit kodeord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Der opstod problemer med beskedsystemet. Prøv venligst senere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Forkert hashværdi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Prøvedata blev indlæst.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Hvis du gav enten et gyldigt brugernavn eller en gyldig email, vil du modtage en email med aktiveringsinstruktioner.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Hvis du vil sende endnu en aktiveringsmail, skal du genindlæse denne side.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Du har ikke de påkrævede tilladelser til at tilgå denne side.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>luk</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Indtast dit brugernavn eller din email, og du vil blive sendt en email med et aktiveringslink</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Brugernavn eller email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Kontaktperson</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Faktureringsadresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Leveringsadresse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Enhedspris</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Gem PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Rediger</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Kunden kunne ikke slettes</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>Faktuaen blev gemt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Der er et problem med faktura %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>denne uge</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>denne måned</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>dette år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Sendt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>ja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nej</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>afvist</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>godkendt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Enheder</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Solgt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% produkter solgt for %t% totalt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Moduler</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Periode type</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identifikation</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Reference</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Vælge de moduler du ønsker skal være aktive i din siwapp applikation</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Kundemodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Estimatmodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Produktmodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Use til fakturaer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Brug til eastimater</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

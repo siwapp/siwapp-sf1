@@ -1,0 +1,8 @@
+all:
+  urls:
+    include: []
+    variables:
+      editRow: printTemplates/edit
+      showRow: printTemplates/edit
+      save: @templates?action=save
+      deleteAction:  @templates?action=delete

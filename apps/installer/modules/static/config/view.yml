@@ -1,0 +1,6 @@
+ajaxGetCountriesSuccess:
+  has_layout: false
+  
+step1Success:
+  javascripts:
+    - siwapp/lang.selector.js

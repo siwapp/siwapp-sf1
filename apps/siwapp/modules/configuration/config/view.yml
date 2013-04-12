@@ -1,0 +1,11 @@
+all:
+  javascripts: []
+settingsSuccess:
+  javascripts:
+    - siwapp/settings/global.js
+profileSuccess:
+  javascripts:
+    - siwapp/lang.selector.js
+
+ajaxGetCountriesSuccess:
+  has_layout: false

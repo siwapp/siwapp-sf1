@@ -1,0 +1,255 @@
+= sfDateTimePlugin plugin =
+
+== Credits ==
+This plugin has been mainly written by Stephen Riesenberg. I merely maintains it (fixing minor bugs, porting
+to sf1.1 and a few feature enhancements)
+
+== Overview ==
+
+This plugin will add a date manipulation library to the symfony framework.
+The library manipulates timestamp values, allowing you to quickly translate a date into another date based on an infinite number of operations.
+The library contains a base add function, which handles all cases of a single date manipulation.
+It also contains a large number of other functions based on the add function, which faciliate more complicated operations.
+Finally, the library contains an instantiable class, which provides an interface hook into the main library allowing chainable date manipulation operations for more readable code.
+
+== Installation ==
+
+To install sfDateTimePlugin:
+
+{{{
+symfony plugin-install symfony/sfDateTimePlugin
+}}}
+or
+{{{
+svn co http://svn.symfony-project.com/plugins/sfDateTime2Plugin plugins/sfDateTime2Plugin
+}}}
+
+Clear your cache
+
+{{{
+symfony cc
+}}}
+
+You're done!
+
+== Usage ==
+
+Examples which dump their results to a datetime.
+
+{{{
+#!php
+<?php
+
+// defaults to now
+$dt = new sfDate();
+// accepts existing sfDate object
+$dt = new sfDate($dt);
+// accepts a timestamp integer, like from time() or mktime()
+$dt = new sfDate(1176856745);
+// parses date from a string using strtotime
+$dt = new sfDate('2007-04-17 19:39:05');
+
+echo $dt->firstDayOfWeek()->tomorrow()->dump();
+// => 2007-04-16 19:39:05
+echo $dt->addYear()->subtractQuarter()->dump();
+// => 2008-01-16 19:39:05
+echo $dt->finalDayOfQuarter()->clearTime()->dump();
+// => 2008-03-31 00:00:00
+echo $dt->finalDayOfYear()->subtractWeek(4)->addDay(5)->dump();
+// => 2008-12-08 00:00:00
+echo $dt->reset()->dump();
+// => 2007-04-17 19:39:05
+}}}
+
+The I18N date helpers are integrated directly into the library.
+
+{{{
+#!php
+<!-- <?php use_helper('Date') ?> is not necessary in this case -->
+
+Next sunday in your language: <?php echo sfDate::getInstance()->firstDayOfWeek()->addWeek()->date() ?>
+Last thursday in your language: <?php echo sfDate::getInstance()->previousDay(sfTime::THURSDAY)->date() ?>
+Now in your language: <?php echo sfDate::getInstance()->datetime() ?>
+}}}
+
+== Documentation ==
+
+=== Constants ===
+
+Constants are available through the sfTime class (as in sfTime::CONSTANT_NAME):
+
+  * Units of time
+    * SECOND
+    * MINUTE
+    * HOUR
+    * DAY
+    * WEEK
+    * MONTH
+    * QUARTER
+    * YEAR
+    * DECADE
+    * CENTURY
+    * MILLENIUM
+  * Days of the week
+    * SUNDAY
+    * MONDAY
+    * TUESDAY
+    * WEDNESDAY
+    * THURSDAY
+    * FRIDAY
+    * SATURDAY
+  * Months of the year
+    * JANUARY
+    * FEBRUARY
+    * MARCH
+    * APRIL
+    * MAY
+    * JUNE
+    * JULY
+    * AUGUST
+    * SEPTEMBER
+    * OCTOBER
+    * NOVEMBER
+    * DECEMBER
+
+=== Functions ===
+
+The following functions are available to an instantiated sfDate object, and are chainable:
+
+  * add
+    * parameters
+      * number of units
+    * unit of time
+  * subtract
+    * parameters
+      * number of units
+    * unit of time
+  * add functions
+    * format: add<Time> (eg. addDay, addWeek, addYear)
+    * parameters
+      * number of units
+  * subtract functions
+    * format: subtract<Time> (eg. subtractDay, subtractWeek, subtractYear)
+    * parameters
+      * number of units
+  * first functions
+    * format: firstDayOf<Time> (eg. firstDayOfWeek, firstDayOfMonth, firstDayOfYear)
+  * final functions
+    * format: finalDayOf<Time> (eg. finalDayOfWeek, finalDayOfMonth, finalDayOfYear)
+  * next functions
+    * format: next<Time> (eg. nextDay, nextMonth)
+    * parameters
+      * period (day of week, month of year)
+  * previous functions
+    * format: previous<Time> (eg. previousDay, previousMonth)
+    * parameters
+      * period (day of week, month of year)
+  * tomorrow
+  * yesterday
+  * clearTime
+  * clearDate
+  * now
+  * set
+  * reset
+
+The following functions are available to an instantiated sfDate object, and are not chainable:
+
+  * get
+    * returns the timestamp
+  * dump
+    * returns the timestamp formatted as a datetime
+    * useful in Propel (database) expressions
+  * format
+    * returns the timestamp formatted according to the php function, date
+    * parameters
+      * format (see [http://php.net/date date])
+    * not I18N compatible
+  * format_system:
+    * convert a sfDate to the system string format
+    * it has an alias named ->to_system() and ->o2s()
+  * format_database:
+    * convert a sfDate to the database string format
+    * it has an alias named ->to_database() and ->o2d()
+  * format_human:
+    * convert a sfDate to the human string format
+    * it has an alias named ->to_database() and ->o2h()
+  * date
+    * returns the timestamp formatted according to the symfony helper, format_date
+    * I18N compatible
+  * datetime
+    * returns the timestamp formatted according to the symfony helper, format_datetime
+    * I18N compatible
+  * cmp
+    * compares two dates
+  * diff
+    * subtracts two dates and return it according to the specified $unit
+    * $unit default to seconds and may be any unit of time up to sfTime::WEEK
+  * retrieve
+    * retrieve a component of the date
+    * parameters
+      * unit of time
+  * isBisextil
+    * return true if year is bisextil
+
+The following functions are available to the sfDate class, and are chainable:
+
+  * getInstance
+    * static
+    * returns a newly instantiated object
+
+The following functions are available to the sfDate class, and are not chainable:
+  * from_system:
+    * convert a string from the system string format
+    * aliased to ::s2o (standing for system to object)
+  * from_database:
+    * convert a string from the database string format
+    * aliased to ::d2o
+  * from_human:
+    * convert a string from the human string format
+    * aliased to ::h2o
+  * s2h:
+    * convert a string from the system, so 's', format to the human, so 'h', format
+  * s2d:
+    * convert a string from the system, so 's', format to the database, so 'd', format
+  * d2s, d2h, h2s, h2d:
+    * similar to s2h, s2d
+  * isHoliday($culture), isHollidayFR()
+    * return true if the day is an holiday (currently only the FR culture is implemented.
+      patches for other $culture are more than welcomed.)
+  * added sfDate::getSecond(), sfDate::getMinute etc... (only shortcut on sfDate::retrieve)
+  * added sfDate::dayOfWeek() return the day of the week according to sfTime::MONDAY to sfTime::SUNDAY constants
+
+About the string format:
+Various functions handle string formats to represent sfDate e.g sfDate::from_human() or $mySfDate->format_human()
+This format is configurable in app.yml. They are expressed according to
+[http://php.net/strptime strptime]/[http://php.net/strftime strftime] formats.
+If not specified, they all default %Y-%m-%d. See below an example of app.yml:
+
+{{{
+all:
+  sfDateTimePlugin:
+    format_human: %d/%m/%Y
+    format_database: %Y-%m-%d
+    format_system: %d/%m/%Y
+}}}
+
+=== Notes ===
+
+'''NOTE''': All parameters are optional and default to logical values (1 for numbers, DAY for units of time, SUNDAY for days of week, JANUARY for months of year).
+
+'''NOTE''': When using the sfTime function library itself, the first parameter of every function is a timestamp. When using an instantiated sfDate, the timestamp parameter is automatically passed in.
+
+== Change Log ==
+  * 0.2.0
+    * added sfDateTimeToolkit
+      * added breakdown function
+    * sfTime
+      * added clear<Time> functions
+      * added set<Time> functions
+    * sfDate
+      * added format parameter to date and datetime functions
+
+== License ==
+
+For the full copyright and license information, please view the LICENSE
+file that was distributed with this source code.

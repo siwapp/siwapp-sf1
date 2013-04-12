@@ -1,0 +1,82 @@
+html,
+#bd,
+#bd-content { background-color:#F9F9F9; }
+
+.installerForm {
+  position:absolute;
+  top:35%;
+  border-color:#E5E5E5;
+  float:left;
+  font-size:1.5em;
+  padding:2em 2em 2em;
+  border-width:1px;
+  border-style:solid;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  border-radius:10px;
+  background:#FFF url('../../images/logo2.gif') no-repeat 2em 0.8em;
+  
+  left:50%;
+  width:63.07em;
+  margin-left:-33.589em;
+  margin-top:-13.461em;
+  line-height: 1.5em;
+}
+
+p { margin-bottom: 2em; }
+#header { margin-left: 16em; height: 6em; }
+#header h2 { float: left; margin-top: 0.9em; width: 75%; }
+#header ul { float: right; margin-top: 2em; }
+
+#sidebar { float: left; height: 20em; width: 26%; }
+
+#content { float: right; width: 74%; }
+#content .label { float: left; }
+#content .field { width:100%; float: right; margin-top:2em;}
+#content .field div { width:100%; }
+#step1Form #content div { clear:both; margin-bottom: 5em;}
+
+#step2Form #content div { float: left; margin-bottom: 1em; }
+#step2Form .field { font-size:8pt; }
+#step2Form .field span { line-height: 1.1em; }
+#step2Form .status { width: 8em; font-weight: bold; padding: 1em;}
+#step2Form .message { position:relative; top:0.8em; margin-left:3em; }
+#step2Form .ok    { color: green; }
+#step2Form .error { color: red; }
+#step2Form .warning { color: #F90; }
+
+.installerForm label { margin-bottom:0.2em; }
+.installerForm ol li { margin-left: 2em; }
+.installerForm ul.error_list { font-size: 0.7em; padding-top: 0.2em; }
+.installerForm ul.error_list li { list-style-type: disc; margin: 0; padding: 0; }
+.installerForm .global-errors li { display: block !important; }
+.installerForm li { margin-bottom:1em; }
+
+.installerForm .formField { margin-bottom: 2em;}
+.installerForm .formField li { background-color: #F9F9F9; padding: 1.3em 1em 0.3em 1em; margin:0.5em 0; height: 3em;}
+.installerForm .formField li span { display:block; float:left; margin-right:1.5em; }
+.installerForm .formField li .label { font-weight:bold; width:210px !important; }
+.installerForm .formField li .description { width:16em !important; }
+.installerForm .formField li .error { top:2.6em; border-color: #C4452D; border-width:1px !important; }
+
+.installerForm .formField li input,
+.installerForm .formField li select {
+  font-size:1.1em;
+  line-height:1em;
+  padding:0.3em 0.2em;
+}
+.installerForm .instructions li { height: auto;}
+
+#signin_username,
+#signin_password {
+  font-size:1.6em;
+  line-height:1em;
+  padding:0.3em 0.2em;
+}
+
+.installerForm .buttons { text-align:right; margin:0; }
+
+/* upgrade screen */
+.upgrade #bd-content { margin-bottom: 10em;}
+.upgrade #bd-content h2 { font-size: 2.2em;}
+.upgrade #bd-content { font-size: 1.4em;}

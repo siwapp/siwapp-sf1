@@ -1,0 +1,263 @@
+options:
+  charset: utf8
+  
+Customer:
+  columns:
+    name: string(100)
+    name_slug: string(100)
+    identification: string(50)
+    email: string(100)
+    contact_person: string(100)
+    invoicing_address: clob
+    shipping_address: clob
+  indexes:
+    cstm:
+      fields: [name]
+      type: unique
+    cstm_slug:
+      fields: [name_slug]
+      type: unique
+
+Common:
+  actAs:
+    Timestampable:
+    Taggable:
+  columns:
+    series_id: integer
+    customer_id: integer
+    customer_name: string(100)
+    customer_identification: string(50)
+    customer_email: string(100)
+    invoicing_address: clob
+    shipping_address: clob
+    contact_person: string(100)
+    terms: clob
+    notes: clob
+    base_amount:     { type: decimal(53), scale: 15 }
+    discount_amount: { type: decimal(53), scale: 15 }
+    net_amount:      { type: decimal(53), scale: 15 }
+    gross_amount:    { type: decimal(53), scale: 15 }
+    paid_amount:     { type: decimal(53), scale: 15 }
+    tax_amount:      { type: decimal(53), scale: 15 }
+    status: integer(1)
+  relations:
+    Customer:
+      foreignAlias: Commons
+      local: customer_id
+      foreign: id
+      type: one
+      onDelete: SET NULL
+    Series:
+      local: series_id
+      foreign: id
+      onDelete: set null
+  indexes:
+    cstnm:
+      fields: [customer_name]
+    cstid:
+      fields: [customer_identification]
+    cstml:
+      fields: [customer_email]
+    cntct:
+      fields: [contact_person]
+  
+Invoice:
+  inheritance:
+    extends: Common
+    type: column_aggregation
+  columns:
+    draft:
+      type: boolean
+      default: true
+    # if the user wants to force the close status
+    closed:
+      type: boolean
+      default: false
+    sent_by_email:
+      type: boolean
+      default: false
+    number: integer(4)
+    recurring_invoice_id: integer
+    issue_date: date
+    due_date: date
+  relations:
+    RecurringInvoice:
+      local: recurring_invoice_id
+      foreign: id
+      foreignAlias: Invoices
+      type: one
+      onDelete: SET NULL
+      
+Estimate:
+  inheritance:
+    extends: Common
+    type: column_aggregation
+  columns:
+    draft:
+      type: boolean
+      default: true
+    number: integer(4)
+    sent_by_email:
+      type: boolean
+      default: false
+      
+# DEFAULT VALUES ARE MANDATORY IN ORDER TO AVOID CALCULATION
+# ERRORS IN VIEWS (ARITHMETIC WITH NULL ALWAYS RETURN NULL)
+Item:
+  columns:
+    quantity: { type: decimal(53), scale: 15, notnull: true, default: 1 }
+    discount: { type: decimal(53), scale: 2, notnull: true, default: 0 }
+    common_id: integer
+    product_id: integer
+    description: string(255)
+    unitary_cost: { type: decimal(53), scale: 15, notnull: true, default: 0 }
+  relations:
+    Common:
+      local: common_id
+      foreign: id
+      type: one
+      onDelete: CASCADE
+      foreignAlias: Items
+    Taxes:
+      class: Tax
+      local: item_id
+      foreign: tax_id
+      refClass: ItemTax
+    Product:
+      local: product_id
+      foreign: id
+      foreignAlias: Items
+      type: one
+      onDelete: SET NULL
+  indexes:
+    desc:
+      fields: [description]
+
+# DEFAULT VALUES ARE MANDATORY IN ORDER TO AVOID CALCULATION
+# ERRORS IN VIEWS (ARITHMETIC WITH NULL ALWAYS RETURN NULL)
+Tax:
+  columns:
+    name: string(50)
+    value: { type: decimal(53), scale: 2 }
+    active:
+      type: boolean
+      default: true
+    is_default:
+      type: boolean
+      default: false
+  relations:
+    Items:
+      class: Item
+      local: tax_id
+      foreign: item_id
+      refClass: ItemTax
+
+ItemTax:
+  columns:
+    item_id: 
+      type: integer
+      primary: true
+    tax_id: 
+      type: integer
+      primary: true
+  relations:
+    Item:
+      local: item_id
+      foreign: id
+      onDelete: CASCADE
+
+Payment:
+  columns:
+    invoice_id: integer
+    date: date
+    amount: { type: decimal(53), scale: 15 }
+    notes: clob
+  relations:
+    Invoice:
+      local: invoice_id
+      foreign: id
+      type: one
+      foreignAlias: Payments
+      onDelete: cascade
+
+Property:
+  columns:
+    keey:   # I've used keey instead key because key gives problems with the sql
+      type: string(50)
+      primary: true
+    value: clob
+
+RecurringInvoice:
+  inheritance:
+    extends: Common
+    type: column_aggregation
+  columns:
+    days_to_due: integer(3)
+    enabled:
+      type: boolean
+      default: false
+    max_occurrences: integer(4)
+    must_occurrences: integer(4)
+    period: integer(4)
+    period_type: string(8)
+    starting_date:
+      type: date
+      default: NULL
+    finishing_date:
+      type: date
+      default: NULL
+    last_execution_date:
+      type: date
+      default: NULL
+  
+Profile:
+  tableName: sf_guard_user_profile
+  columns:
+    sf_guard_user_id:   integer(4)
+    first_name:         string(50)
+    last_name:          string(50)
+    email:              
+      type:   string(100)
+      unique: true
+    nb_display_results: integer(2)
+    language:           string(3)
+    country:            string(2)
+    search_filter:      string(30)
+    series:             string(50)
+    hash:               string(50)
+  relations:
+    User:
+      class:  sfGuardUser
+      foreignType:  one
+      onDelete:     cascade
+      
+Template:
+  actAs:
+    Timestampable:
+    Sluggable:
+      unique:     true
+      fields:     [name]
+      canUpdate:  false
+  columns:
+    name:         string(255)
+    template:     clob
+    models:        string(200)
+
+Series:
+  columns:
+    name:   string(255)
+    value:  string(255)
+    first_number:
+      type: integer(4)
+      default:  1
+    enabled:
+      type: boolean
+      default: true
+
+Product:
+  actAs:
+    Timestampable:
+  columns:
+    reference: {type: string(100), notnull: true}
+    description: clob
+    price: {type: decimal(53), scale: 15, notnull: true, default: 0}

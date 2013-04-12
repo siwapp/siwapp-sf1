@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="sv" datatype="plaintext" original="messages" date="2010-10-22T14:15:20Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Användarnamn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Lösenord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Kom ihåg mig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Logga in</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Glömt ditt lösenord?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Välkommen, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Logga ut</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Panel</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Aktuella fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Förfallna fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Nummer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Kundnamn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Förfallodag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Förfaller</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Betalningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Lägg till betalning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Avbryt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Spara</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Kvitton</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Ny faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Redigera faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Kundidentifiering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Betalningsinformation</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Betalningarna har sparats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Betalningar kunde inte sparas på grund av ett okänt fel.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Beskrivning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Enhetskostnad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>St</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Skatt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Bas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Rabatt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Pris</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Lägg till</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Lägg till</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Totalt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Anteckningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Radera</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Spara som utkast</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Spara och sänd via e-post</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Skriv ut</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Skicka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Fakturan har skickats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Fakturan kunde inte skickas på grund av ett okänt fel.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Fakturan har inte sparats på grund av vissa fel.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d fakturor har raderats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d fakturor har skickats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>se alla [1] fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Utfärdat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>kommer att förfalla</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>öppen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>stängd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>förfallen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>utkast</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Skickad via e-post</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Tvinga stängning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Utfärdandedatum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Förfallodatum</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Återkommande fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Ny återkommande faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Förfallen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Periodtyp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Periodicitet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Detta belopp återspeglas inte i det totala beloppet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Det finns %d återkommande fakturor som inte behandlats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Redigera återkommande faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Alla %d återkommande fakturor har behandlats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Fakturans behandlingstid</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Startar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Slutar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Genomnittlig omsättning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Generera väntande fakturor nu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>aktiverad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>avaktiverad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>klar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>väntar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>År</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Månader</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Veckor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Dagar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>årsvis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>månatlig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>daglig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>veckovis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Skapa var</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Startdatym</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Slutdatum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Maximalt antal fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Dagar till förfallo</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Offert</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Ny offert</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Spara och skapa faktura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>Offerten sparades.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>Fakturan skapades.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Fakturan kunde ej sparas på grund av ett fel.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Offert specifikation</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Kunder</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Ny kund</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Redigera kund</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Kund</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Kundinfo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Kundnamn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Kunds Organisationsnummer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Kunds Adress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Kontaktperson</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Faktureringsadress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Leveransadress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Kunds E-post</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Kunden har inte sparats på grund av vissa fel.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d kunder raderades.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Produkter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Ny Produkt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Produkt information</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Produkt referens</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Produkt beskrivning</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Pris på produkt</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>från</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>till</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>förra veckan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>förra månaden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>förra året</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>senste 5 åren</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Öppen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Stängd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Utkast</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Aktiverad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Inaktiverad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Väntar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Klar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Ej skickad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Nekad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Godkänd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Etiketter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Sök</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Återställ</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Första</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Föreg</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>SIDA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Nästa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Sista</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>gå till </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Sök</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>mer</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Visar [1]-[2] av [3] resultat</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Inställningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Globala inställningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Mina inställningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Utskriftsmallar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Dina inställningar sparades.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Inställningar kunde inte sparas. Vänligen kontrollera angivna värden och försöka rätta till dem.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Vänligen kontrollera dessa fel och korrigera dem innan du sparar:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Företag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Namn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Valuta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>Fax</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>E-post</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Hemsida</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logotyp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Skattesatser</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Värde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Aktiv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Förvalt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Lägg till ny skattesats</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>PDF Inställningar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Sidstorlek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Sidorientering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Lagtexter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Köpvillkor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Faktureringsserier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Etikett</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Startvärde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Lägg till nytt serievärde</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Startvärdet kommer endast att användas för den första sparade fakturan i serien om det inte finns några tilldelade fakturor.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>radera nuvarande fil</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Om dig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Förnamn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Efternamn</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Översätt applikationen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Gränssnittsspråk</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Gör det enkelt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Resultat att listas</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Sökfilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Förvalt datumfilter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Förvalda faktureringsserier</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Ändra ditt lösenord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Gamla lösenord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nytt lösenord</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nytt lösenord (bekräftelse)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Uppdaterades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Skapa ny mall</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Radera markerade</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Markera som standard</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Mallen har inte sparats på grund av vissa fel.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Är du säker?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Inga resultat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>dag</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>vecka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>månad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Kan inte ansluta till databasen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Kontrollera din e-post för ditt nya lösenord.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Det har varit problem med meddelandesystem. Försök igen senare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Fel hash-kod</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Exempeldata har laddats.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Om du angett ett giltigt användarnamn eller e-post har ett e-postmeddelande skickats till dig med aktiveringsinstruktioner.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Om du vill skicka ett nytt aktiveringsmail måste du ladda om denna sidan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Du har inte behörighet att visa denna sida.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>stäng</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Skriv ditt användarnamn eller e-post och så skickar vi ett e-postmeddelande med aktiveringslänken.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Användarnamn eller e-post</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Kontaktperson</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Faktureringsadress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Leveransadress</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Enhetskostnad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Spara PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Redigera</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Kunden kunde inte raderas. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>Fakturan sparades</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Det finns ett problem med faktura %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>denna vecka</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>denna månad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>detta år</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Skickad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>ja</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nej</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>nekad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>godkänd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Enheter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Såld</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% sålda till ett värde av %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Moduler</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Period typ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identifiering</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Referens</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Välj de moduler du vill aktivera i ditt siwapp program</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Kundmodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Offertmodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Produktmodul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Använd för fakturor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Använd för offerter</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

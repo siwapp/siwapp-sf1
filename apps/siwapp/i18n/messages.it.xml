@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="it" datatype="plaintext" original="messages" date="2010-10-22T14:15:16Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Username</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Remember me</source>
+        <target>Ricordami</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Accedi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Password dimenticata?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Benvenuto, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Esci</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Cruscotto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Fatture Recenti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Fatture Arretrate</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Numero</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Nome Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Data</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Data di scadenza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Arretrate</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Pagamenti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Aggiungi Pagamento</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Cancella</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Salva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Ricevute</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Fatture</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Nuova Fattura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Fattura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Modifica Fattura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Identificazione cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Dettagli del pagamento</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>I Pagamenti saranno salvati successivamente.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>I Pagamenti non potranno essere salvati a causa di un errore sconosciuto.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Descrizione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Prezzo unitario</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Qtà</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Tasse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Base</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Discount</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Prezzi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Add Elemento</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Aggiugi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Totale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Note</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Cancella</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Salva come draft</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Salva ed invia per e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Stampa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Invia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>La fattura è stata inviata con successo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>La fattura potrebbe non essere stata inviata a causa di un errore sconosciuto.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>La fattura non è stata salvata a causa di alcuni errori.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d fatture sono state cancallate con successo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d fatture sono state inviate con successo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>vedi tutte [1] fatture</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Emessa il</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>sarà li in ritardo a</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>aperto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>chiuso</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>scaduto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>draft</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Inviato per email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Forzato alla chiusura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Data scadenza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Data scadenza</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Fatture Ricorrenti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Nuova Fattura Ricorrente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>In Ritardo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Tipo di periodo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Periodicità</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>La quantità non riflette il totale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Ci sono %d fatture ricorrenti che non sono state eseguite.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Modifica Fattura Ricorrente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Tutte %d fatture ricorrenti sono stsate processate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Tempo di Esecuzione della fattura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Iniziando</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Finendo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Turnover medio</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Genera fatture pendenti adesso</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>abilitato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>disabilitato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>finito</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>in attesa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Anni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Mesi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Settimane</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Giorni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>Annuale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>Mensile</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>Giornaliero</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>Settimanale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Crea ogni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Data inizio</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Data fine</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Numero massimo occorrenze</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Giorni alla scadenza</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Stime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Nuove Stime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Salva e crea fattura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>Le stime sono state salvate con successo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>Le stime sono state create con successo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Le stime non sono state create a causa di un errore.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Dettagli stime</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Clienti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Nuovo Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Modifica cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Info Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Nome Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Id legale del cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Indirizzo cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Contatto Persona</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Indirizzo Fatturazione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Indirizzo Spedizione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Email Cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Il cliente non è stato salvato a causa di alcuni errori.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d clienti sono stati cancellati con successo.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Prodotti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Nuovi Prodotti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Dettagli Prodotto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Riferimento Prodotto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Descrizione Prodotto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Prezzo Prodotto</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>da</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>a</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>settimana scorsa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>mese scorso</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>anno scorso</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>ultimi 5 anni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Stato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Aperto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Chiuso</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Draft</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Abilitato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Non Abilitato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Pendenti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Finito</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Non inviato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Rigettato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Approvato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Etichette</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Cerca</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Azzera</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Primo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Prec</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>PAG.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Succ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Ultimo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>Vai a </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Vai</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>più</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Mostra [1]-[2] dei [3] risultati</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Configurazioni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Configurazioni globale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Miei settaggi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Template di Stampa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Parametri salvati con successo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Le configurazioni non possono essere salvate. Verifica i valori inseriti e prova a corregerli.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Verifica questi errori e prova a corregerli prima di salvare:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Azienda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Nome</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Moneta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Indirizzo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefono</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Web</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Tasse di Fatturazione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Valore</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Attiva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Default</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Aggiungi nuovo valore di tassa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>Configurazioni PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Grandezza Pagina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Verso Pagina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Condizioni legali</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Termini e Condizioni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Serie di fatture</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Etichetta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Valore iniziale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Aggiungi nuovo valore di serie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Il valore iniziale sarà solo usatoper il salvataggio della prima serie di fatture se non ci sono fatture assegnate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>rimuovi il corrente file</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Su di te</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Nome</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Cognome</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Traduci l'applicazione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Linguaggio dell'interfaccia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Prendilo alla leggera</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Risultati da visualizzare in lista</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Cerca filtro</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Filtro di default</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Serie di Fatture di default</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Cambia la tua password</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Vecchia Password</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Nuova password</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Nuova password (conferma)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Aggiornato al</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Crea nuovo template</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Cancella i selezionati</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Marca come default</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Il template non è stato salvato per alcuni errori</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Sei Sicuro?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Nessun risultato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>Giorno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>settimana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>mese</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>anno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Non posso connettermi al database</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Controlla la tua mail per la nuova password.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Ci sono stati problemi con il sistema di messaggistica. Per favore riprova dopo.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Codice sbagliato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Dati di esempio caricati</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Se tu hai fornito user e email validi, un email ti è stata inviata con le istruzioni di attivazione.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Se desideri inviare un'altra email di attivazione, devi ricaricare la pagina prima</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Non hai i permessi per accedere a questa pagina.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>chiudi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Inserisci user o email e ti invieremo un'email con il link di attivazione.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Username o email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Contatto personale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Indirizzo Fatturazione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Indirizzo Spedizione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Costo Unitario</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Salva PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Modifica</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Il cliente potrebbe non essere cancellato.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>Fattura correttamente salvata.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>C'è stato un problema con la fattura %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>questa settimana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>questo mese</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>questo anno</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Inviato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>si</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>no</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>rigettato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>approvato</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Unità</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Venduto</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% prodotti venduti per un totale di %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Moduli</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Tipo di periodo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identificazione</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Riferimento</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Seleziona i moduli che vuoi attivare nella tua applicazione siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Moduli cliente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Moduli stime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Moduli prodotti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Usati per le fatture</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Usati per le stime</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

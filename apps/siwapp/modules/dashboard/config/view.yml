@@ -1,0 +1,7 @@
+indexSuccess:
+  metas:
+    title:     siwapp - Dashboard
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/table.js
+    - siwapp/invoices/payments.js

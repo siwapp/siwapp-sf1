@@ -1,0 +1,4 @@
+passwordRecovery:
+  is_secure: false
+passwordReset:
+  is_secure: false

@@ -1,0 +1,134 @@
+/* base colors & decorations
+GRAY    = 464648
+ORANGE1 = DA4722
+ORANGE2 = DB4823
+RED1    = C4452D
+*/
+html { background-color:#FFFFFF; color:#464648; }
+#hd  { background-color:#FDFDFB; }
+#bd  { background-color:#FFFFFF; }
+#ft  { background-color:#FFFFFF; }
+
+a, a:link, a:visited { color:#DA4722; }
+.negative a          { color:#464648; }
+.negative a:hover    { color:#DA4722; }
+
+h2 { color:#535255; font-weight:normal; border-bottom:1px solid #DA4722; margin:0 0 1em; }
+h3 { color:#9A9A9A; font-weight:normal; margin-bottom:0.556em; }
+h4 { color:#DA4722; font-weight:normal; margin-bottom:0.667em; }
+
+.orange     { color:#DA4722; }
+.error_list { color:#C4452D; }
+
+textarea, input[type="text"], input[type="password"], select { color:inherit; }
+
+div.ajaxBar { background:transparent url(../../images/ajax-bar.gif) no-repeat top left; width:220px; height:19px; }
+
+/* header section */
+/* to override see /css/siwapp/layout.css *-/
+#hd-top    { background:transparent url(../../images/logo.gif) no-repeat 2em 0%; }
+#hd-navbar { background:#FDFDFB url(../../images/bg/navbar.gif) repeat-x bottom left;
+             border-top:1px solid #DCDCDC; }
+/**/
+
+#hd-navbar-menu li          {}
+/* to override see /css/siwapp/layout.css *-/
+#hd-navbar-menu li.active   { background-color:white; border-color:#DCDCDC; }
+/**/
+#hd-navbar-menu li a        { color:#DA4722;  }
+#hd-navbar-menu li.active a { color: #464648; }
+
+#new-invoice-button       { border-left:1px solid #DCDCDC; border-right:1px solid #FFFFFF; }
+#new-invoice-button span  { border-left:1px solid #FFFFFF; border-right:1px solid #DCDCDC; background:transparent url(../../images/icons/plus.gif) no-repeat 0.5em center; }
+#new-invoice-button:hover { background:transparent url(../../images/bg/navbar_dark2.gif) repeat-x bottom left; }
+
+/* notifications */
+#hd-notifications div.notification { border-color:#489E00; background-color:#8DC361; color:#FFFFFF; cursor:pointer; }
+#hd-notifications div.warning      { border-color:#d8b256; background-color:#FADC76; color:#9B7720; }
+#hd-notifications div.error        { border-color:#B12F17; background-color:#C4452D; color:#FFFFFF; }
+
+/* tables & listings */
+table.listing        { background-color:#FFFFFF; }
+table.listing tr.odd { background-color:#f4f4f4; }
+
+table.listing thead th        { background:transparent url('../../images/bg/thead.gif') repeat-x bottom left; }
+table.listing thead th a.asc  { background:transparent url('../../images/icons/asc.gif') no-repeat 0 0.4em;   }
+table.listing thead th a.desc { background:transparent url('../../images/icons/desc.gif') no-repeat 0 0.5em;  }
+
+table.listing tbody tr.checked td,
+table.listing tbody tr:hover td,
+table.listing tbody tr.hover td { background-color:#FFF0E1; }
+
+table.listing tfoot th { background:transparent url('../../images/bg/thead.gif') repeat-x bottom left; }
+
+#searchForm .filters a.selected,
+#searchForm .filters a.selected:hover { color:#464648; }
+
+span.status.closed,
+span.status.enabled  { color:#FFFFC0; background-color:#8DC361; border-color:#489E00; }
+span.status.overdue,
+span.status.pending { color:#FFFFFF; background-color:#C4452D; border-color:#B12F17; }
+span.status.opened,
+span.status.finished  { color:#9B7720; background-color:#FADC76; border-color:#D8B256; }
+span.status.draft,
+span.status.disabled  { color:#999999; background-color:#EEEEEE; border-color:#CCCCCC; }
+
+.estimates span.status.pending { color:#9B7720; background-color:#FADC76; border-color:#D8B256; }
+.estimates span.status.approved { color:#FFFFC0; background-color:#8DC361; border-color:#489E00; }
+.estimates span.status.rejected { color:#FFFFFF; background-color:#C4452D; border-color:#B12F17; }
+/* DASHBOARD */
+.dashboard table#dashboard-summary    {}
+.dashboard table#dashboard-summary td { border-color:#DCDCDC; }
+.dashboard table#dashboard-summary tr.overdue td { color:#c4452d; }
+.dashboard #dashboard-balance         {}
+.dashboard #dashboard-balance-total   {}
+
+/* PAYMENTS */
+table.listing tbody tr:hover td.payments-form-container { background-color:white; }
+
+/* INVOICES */
+textarea:focus,
+input:focus { border-color:#DA4722; background-color:#FFF0E1; }
+
+#invoice-container input,
+#invoice-container textarea,
+#invoice-container .show #terms-data .textarea,
+#invoice-container .show li ._25,
+#invoice-container .show li ._50,
+#invoice-container .show li ._75  { border-color:#DCDCDC; }
+#invoice-container .show label { color:#888; color:#9a9a9a; }
+
+#invoice-container label.tip, #customer-data label.tip, #product-data label.tip { background:#DA4722; color:white; }
+
+/* SETTINGS */
+#settings-menu                     { border-color:#DCDCDC; }
+#settings-menu li                  { border-color:#FFFFFF; background-color:white; }
+#settings-menu li.selected         { border-color:#DCDCDC; }
+#settings-menu li.selected a       { color:black; }
+
+#settings-wrapper .break   { border-top-color:#DCDCDC; }
+#settings-wrapper input,
+#settings-wrapper select,
+#settings-wrapper textarea { border-color: #DCDCDC; }
+
+#settings-wrapper input:focus,
+#settings-wrapper textarea:focus { border-color: #DA4722; border-style:dotted; background-color:#FFF0E1; }
+
+#settings-wrapper fieldset  { border:0; }
+
+/* Template Upload Form */
+#templateUploadForm { background:#fefefe; border:1px solid #f0f0f0; }
+
+/* ERRORS */
+.error_list { color:#c4452d; }
+.errorBox   { border-left:2px solid #b12f17; background:white; }
+#bd #bd-content form input.error { border-bottom-color:#c4452d; color:#c4452d; border-bottom-width:2px; }
+
+#global-errors ul.error_list { border:1px solid #c4452d; }
+
+/* BUTTONS */
+.btn-selected, .btn-selected span, .btn-selected span span,
+.btn:hover, .btn:hover span, .btn:hover span span,
+.btn.hover, .btn.hover span, .btn.hover span span, .btn:focus span,
+.btn:focus span span { border-color:#FD9378; color:#DA4722; }
+/* if you want to change the default theme icons don't forget to override those defined in /css/siwapp/buttons.css */

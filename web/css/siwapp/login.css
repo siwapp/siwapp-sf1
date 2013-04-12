@@ -1,0 +1,70 @@
+html, #bd, #bd-content {
+  /* overflow:hidden; */
+  background-color:#F9F9F9; 
+}
+
+.login-form {
+  border-width:1px;
+  border-style:solid;
+  border-color:#E5E5E5;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  border-radius:10px;
+  padding:3em;
+  background-color:#FFF;
+  margin-bottom:1em;
+}
+
+.login-form ul.error_list { font-size:1em; color:#DA4722; margin:0.2em 0 0.5em; }
+
+.login-form label { display:block; margin-bottom:0.3em; font-size:1.4em; }
+.login-form li.buttons { margin-top:2em; text-align:right; }
+.login-form .btn  { font-size:1.6em; }
+
+#bd-login-form {
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:36em;
+  margin-left:-18em;
+  margin-top:-19em;
+}
+
+#login-form {
+  padding:120px 3em 3em;
+  background-image:url(../../images/logo2.gif); 
+  background-repeat:no-repeat;
+  background-position:2em 0.8em;
+}
+
+#login-form li.row { margin-top:1em; }
+
+#login-form ul.error_list { color:#DA4722; }
+
+#username_email,
+#signin_username,
+#signin_password {
+  border-color:#E5E5E5;
+  background-color:#F9F9F9;
+  font-size:2.2em;
+  line-height:1em;
+  padding:0.3em 0.2em;
+  width:290px;
+}
+
+#errors-form label {
+  background:transparent url(../../images/icons/exclamation.png) no-repeat center left;
+  padding:0 0 0 25px;
+  margin-bottom:1em;
+  color:#DA4722;
+  font-weight:bold;
+}
+
+#errors-form li { font-size:1.2em; margin-bottom:5px; }
+
+#login-form li#remember-me-option { line-height:1em; font-size:0.85em; margin-top:2em; }
+#login-form li#remember-me-option input { position:relative; top:-1px; }
+#login-form li#remember-me-option label { display:inline; margin:0 0 0 5px; }
+#password-close { display:block; width:16px; height:16px; padding:0; margin:0 0 0.5em; float:right; position:relative; top:-1em; left:1em; }
+#password-form-contents p { font-size:1.2em; line-height:1.4em; margin:2em 0; }
+#siwapp_site_link { float: right; font-size:0.9em;}

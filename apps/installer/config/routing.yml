@@ -1,0 +1,47 @@
+step1:
+  url:   /step1
+  param: { module: static, action: step1 }
+  
+step2:
+  url:   /step2
+  param: { module: static, action: step2 }
+
+step3:
+  url:   /step3
+  param: { module: static, action: step3 }
+  
+step4:
+  url:   /step4
+  param: { module: static, action: step4 }
+
+step5:
+  url:   /step5
+  param: { module: static, action: step5 }
+  
+step6:
+  url:   /step6
+  param: { module: static, action: step6 }
+
+download_database_file:
+  url:  /download/databases
+  param: { module: static, action: download, file: databases }
+
+download_config_file:
+  url:  /download/config
+  param: { module: static, action: download, file: config }
+
+upgrade:
+  url: /upgrade
+  param: { module: upgrade, action: index }
+
+# default rules
+homepage:
+  url:   /
+  param: { module: static, action: step1 }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

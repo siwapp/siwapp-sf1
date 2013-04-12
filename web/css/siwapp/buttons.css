@@ -1,0 +1,129 @@
+/* BASE STYLES */
+
+.btn, .btn:link, .btn:visited {
+  font:inherit;
+  color:#464648;
+  display:inline-block;
+  margin:0;
+  padding:3px 0 !important;
+  overflow:visible;
+  background:none;
+  border-width:0;
+  text-decoration:none;
+  cursor:pointer;
+}
+
+.btn:hover,
+.btn.hover   { text-decoration:none; }
+.btn.primary { font-weight:bold; }
+
+* html button.btn { padding-bottom:1px; }
+
+/* Immediately below is a temporary hack to serve the 
+   following margin values only to Gecko browsers
+   Gecko browsers add an extra 3px of left/right 
+   padding to button elements which can't be overriden.
+   Thus, we use -3px of left/right margin to overcome this. */
+html:not([lang*=""]) button.btn { margin:0 -3px; }
+
+.btn span {
+  margin:0;
+  padding:3px 0;
+  border-width:0 1px;
+  border-style:solid;
+}
+
+* html .btn span { padding-top:0; }
+
+.btn span span {
+  position:relative;
+  padding:3px .4em;
+  border-width:1px 0;
+  border-style:solid;
+  font-weight: normal;
+}
+
+/* PILLS */
+
+button.pill-l span { border-right-width:0; }
+button.pill-l span span,
+button.pill-c span span { border-right-width:1px; border-right-style:solid; }
+button.pill-c span { border-right-style:none; }
+
+/* DEFAULT THEMING */
+
+.btn span { background:#ddd url(../../images/bg/bg-button.gif) repeat-x 0 0; border-left-color:#bbb; border-right-color:#aaa; }
+.btn span span { border-top-color:#bbb; border-bottom-color:#aaa; }
+
+button.pill-l span span,
+button.pill-c span span { border-right-color:#bbb; }
+button.pill-c span,
+button.pill-r span { border-left-color:#fff; }
+
+.btn-selected, .btn-selected span, .btn-selected span span,
+.btn:hover, .btn:hover span, .btn:hover span span, .btn:focus span,
+.btn.hover, .btn.hover span, .btn.hover span span,
+.btn:focus span span { border-color:#696969; }
+
+/* BUTTON STATUS */
+
+.btn-selected, .btn-selected span, .btn-selected span span,
+.btn:hover, .btn:hover span, .btn:hover span span,
+.btn.hover, .btn.hover span, .btn.hover span span, .btn:focus span, 
+.btn:focus span span              { cursor:pointer !important; text-decoration:none; }
+.btn-selected, .btn-selected span { border-style:dotted !important; }
+.btn:active span                  { background-position:0 -390px; outline:none; }
+.btn:focus, .btn:active           { outline:none; }
+
+/* BUTTON ACTIONS & ICONS */
+
+.btn.action-clear span span { padding-left: 20px; }
+
+.btn.action span span {
+  padding-left:25px;
+  background-color:transparent;
+  background-repeat:no-repeat;
+  background-position:4px center;
+}
+
+.btn.action-clear,
+.btn.action-clear span,
+.btn.action-clear span span {
+  border-width:0;
+  background-color:transparent;
+  background-repeat:no-repeat;
+  background-position:center left;
+}
+
+.btn.save span span       { background-image:url(../../images/icons/tick.png); }
+.btn.save-draft span span { background-image:url(../../images/icons/page_white.png); }
+
+.btn.delete span span         { background-image:url(../../images/icons/delete.png); padding-left:16px; }
+.btn.action.delete span span  { padding-left:21px; }
+
+.btn.print span span        { background-image:url(../../images/icons/print.png);  padding-left:19px; }
+.btn.action.print span span { padding-left:22px; }
+.btn.pdf span span          { background-image:url(../../images/icons/pdf.png);  }
+
+.btn.send span span         { background-image:url(../../images/icons/send.png); }
+.btn.action.send span span  { padding-left:27px; background-position:5px center; }
+
+.btn.create-invoice span span { background-image:url(../../images/icons/page_white_gear.png); }
+.btn.action.create-invoice span span  { padding-left:27px; background-position:5px center; }
+
+.btn.create span span  { background-image:url(../../images/icons/new.png);  }
+.btn.show span span    { background-image:url(../../images/icons/show.png); }
+.btn.edit span span    { background-image:url(../../images/icons/page_white_edit.png); }
+
+.btn.payment span span      { background-image:url(../../images/icons/coins.png); }
+.btn.add-payment span span  { background-image:url(../../images/icons/add_payment.png); }
+
+.btn.invoices span span      { background-image:url(../../images/icons/invoices.png); }
+
+.btn.cancel span span { background-image:url(../../images/icons/decline.png); }
+.btn.pencil span span { background-image:url(../../images/icons/pencil.png);  }
+
+.btn.addTag span span { background-image:url(../../images/icons/tag_green.png); }
+
+.btn.generate-pending span span { background-image:url(../../images/icons/database_start.png); }
+.btn.default span span { background-image:url(../../images/icons/asterisk_yellow.png); }

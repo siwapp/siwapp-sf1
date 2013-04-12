@@ -1,0 +1,29 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        siwapp - Installer
+    #description:  symfony project
+    #keywords:     symfony, project
+    #language:     en
+    #robots:       index, follow
+
+  stylesheets: 
+    - tripoli/tripoli:        { media: all }
+    - tripoli/tripoli.ie.css: { media: all, condition: ie }
+    - siwapp/layout:          { media: all }
+    - siwapp/typography:      { media: all }
+    - siwapp/buttons:         { media: all }
+    - siwapp/theme
+    - siwapp/controls:        { media: all }
+    - siwapp/print:           { media: print }
+    - ui-orange/ui.all.css:   { media: all }
+    - siwapp/installer:       { media: all }
+
+  javascripts:
+    - -*
+    - <?php echo sfConfig::get('sf_jquery_web_dir')."/js/".sfConfig::get('sf_jquery_core').PHP_EOL ?> # /js/core/js/jquery.js
+
+  has_layout:     true
+  layout:         layout

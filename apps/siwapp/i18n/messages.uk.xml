@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="uk" datatype="plaintext" original="messages" date="2010-10-22T14:15:16Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Війти</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Вийти</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Панель управління</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Нові рахунки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Простроченні рахунки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Номер</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Покупець</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Дата</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Строк сплати</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Платежі</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Додати платіж</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Зберегти</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Прибутки</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Рахунок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Редагувати рахунок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Идентиф.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Подробиці платежу</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Платежі збережені.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Платежі НЕ збережені. Невідома помилка.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Опис</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Ціна за од.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Кількість</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Податок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Ціна</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Додати</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Додати</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Разом</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Всього</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Примітка</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Видалити</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Зберегти как чорновик</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Зберегти и отправить e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Надрукувати</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Відправити</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Рахунок відправлений</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Рахунок не відправлений через невідому помилку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Рахунок не збережений. Виникла помилка.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d рахунків видалено</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d рахунків відправлено</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>показати всі ([1] рахунки)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Видано в</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>стануть просроченними</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>відкриті</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>закриті</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>прострочені</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>чорновики</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Відправити по email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Швидко закрити</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Дата виставлення</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Термін дії</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Періодичні рахунки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Новий періодичний рахунок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Прострочені</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Тип періоду</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Періодичність</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Ця сума не враховується в підсумок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>У вас  %d  несплачених періодичних рахунків</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Редагувати періодичні рахунки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Всі %d періодичних рахунка опрацьовані</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Час виконання рахунку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Починаючи</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Закінчуючи</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Середній обіг</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Згенерувати чекаючі рахунки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>активні</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>неактивні</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>завершені</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>в очікуванні</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Років</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Місяців</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Днів</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>щорічно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>щомісячно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>щоденно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>щотижня</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Серія</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Створювати кожні</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Дата початку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Дата закінчення</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Максимальна кількість висталення рахунку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Рахунок дійсний</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target></target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Покупці</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Новий покупець</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Клієнт</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Дані клієнта</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Им'я Клієнта</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>ID клієнта </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Адреса клієнта</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Контактна особа</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Адреса платника</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Адреса доставки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Покупець не збережений. Виникла помилка.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d покупців не видалено</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target></target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>від</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>до</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>минулий тиждень</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>минулий місяць</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>за рік</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>за 5 років</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Статус</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Відкриті</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Закриті</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Чорновики</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Активнийн</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Неактивний</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Очікують</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Завершений</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Не відправлений</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Серія</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Теги</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Пошук</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Очистити</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Перша</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Попередня</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>Сторінка</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Наступна</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Остання</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>перейти к</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Вперед</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>більше</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Показано [1]-[2] з [3] результатів</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Параметри</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Настройки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Мої настройки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Надрукувати шаблон</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Настройки збережені.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Настройки не збережені. Перевірте та виправте параметри.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Виправте наступні помилки перед тим як зберегти:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Компанія</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Им'я</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Валюта</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Адреса</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Телефон</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Веб</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Логотип </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Податок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Значення</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Актив.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>За замовчуванням</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Додати новий податок</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>Настройки PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Размір сторінки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Орієнтація сторінки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Текст домовленності</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Умови використання</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Серії рахунків</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Ярлик</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Початкове значення</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Додати нову серію</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Початкове значення буде використано для першого рахунку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>видилити поточний файл</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Про вас </target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Им'я</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Прізвище</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Переклад програми</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Мова інтерфейсу</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Зробити просто</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Результатів відображено</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Пошук</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Фільтр по даті</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Серія рахунків по замовчуванню</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Змінити пароль</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Старий пароль</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Новий пароль</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Новий пароль (повторно)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Оновлено:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Створити шаблон</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Видилити вибране</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Зробити за замовчуванням</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Шаблон не збережений, виникла помилка</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Безрезультатно</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>день</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>тиждень</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>місяць </target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>рік</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Помилка підключення до БД</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Ваш пароль відправлений вам на E-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Виникла проблема з системою повідомлень. Спробуйте пізніше.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Неправильний хеш код</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Демо данні завантажені</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Якщо ви вказали існуючий логін або E-mail, вам відправлені інструкція по активації</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Якщо ви хочете повторно отримати лист активації, необхідно спочатку перезавантажити сторінку</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>У вас немає доступа до сторінки.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Введіть логін аба email, і ми відправимо лист активації</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Логін або email</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Контактна особа</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Адреса платника</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Адреса доставки</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Ціна</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Зберегти PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Редагуватиь</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Покупець не може бути видаленийн</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

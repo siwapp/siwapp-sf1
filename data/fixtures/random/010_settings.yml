@@ -1,0 +1,65 @@
+Property:
+  Property_company_address:
+    keey: company_address
+    value: "Some Address"
+  Property_company_email:
+    keey: company_email
+    value: "support@invoicerltd.com"
+  Property_company_name:
+    keey: company_name
+    value: "Invoicer LTD"
+  Property_company_phone:
+    keey: company_phone
+    value: "01-2-3456789"
+  Property_company_fax:
+    keey: company_fax
+    value: "01-2-3456781"
+  Property_company_url:
+    keey: company_url
+    value: "http://www.invoicerltd.com"
+  Property_currency:
+    keey: currency
+    value: "USD"
+  Property_currency_decimals:
+    keey: currency_decimals
+    value: 2
+  Property_legal_terms:
+    keey: legal_terms
+    value: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+Series:
+  Series_1:
+    name: Internet
+    value: ASET-
+    first_number: 12
+  Series_2:
+    name: Design
+    value: BSET-
+    first_number: 34
+  Series_3:
+    name: Others
+    value: CSET-
+    first_number: 56
+
+sfGuardUser:
+  test_user:
+    username: test
+    password: test
+    is_super_admin: true
+
+Tax:
+  Tax_1:
+    name: VAT 21%
+    value: 21
+    active: true
+    is_default: false
+  Tax_2:
+    name: VAT 7%
+    value: 7
+    active: true
+    is_default: true
+  Tax_3:
+    name: VAT 4%
+    value: 4
+    active: false
+    is_default: false

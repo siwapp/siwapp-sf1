@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="hu" datatype="plaintext" original="messages" date="2010-10-22T14:15:16Z" product-name="messages" xml:space="default">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Felhasználónév</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Jelszó</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Emlékezz rám</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Bejelentkezés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Elfelejtetted a jelszavadat?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Üdvözlet [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Kijelentkezés</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Összesítő oldal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Friss számlák</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Lejárt határidejű számlák</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Szám</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Ügyfél neve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Dátum</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Due Date</source>
+        <target>Határidő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Lejárt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Befizetések</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Befizetés hozzáadása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Mégse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Eltárol</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Bevétel</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Számlák</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Új számlák</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Számla</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Számla szerkesztése</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Ügyfél azonosító</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Befizetés részletei</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>A befizetés sikeresen el lett tárolva.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>A befizetést nem tudtuk eltárolni ismeretlen hiba miatt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Leírás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Egységár</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Mennyiség</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Adók</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Alap</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Kedvezmény</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Ár</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Tétel hozzáadása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Hozzáadás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Részösszeg</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Összesen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Megjegyzések</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Törlés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Eltárolás vázlatként</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Eltárolás és küldés e-mailben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Nyomtatás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Küldés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>A számla sikeresen el lett küldve.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>A számla elküldése nem sikerült egy ismeretlen hiba miatt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>A számla nem lett elmentve néhány hiba miatt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d számla törlése sikeresen megtörtént.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d számla sikeresen el lett küldve.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>mindet megjelenít ([1] számla)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Kiállítva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>le fog járni a határideje</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>nyitott</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>lezárva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>lejárt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>vázlat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Küldés e-mailben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Lezárás mindenképp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Kiállítás ideje</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Határidő</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Ismétlődő számlák</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Új ismétlődő számla</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Lejárt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Időszak típusa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Gyakoriság</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Ez az összeg nem jelenik meg az végösszegben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>%d ismétlődő számla nem lett lefuttatva.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Ismétlődő számla szerkesztése</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Minden %d ismétlődő számla feldolgozása megtörtént</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Számla futási idő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Kezdés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Befejezés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Átlagos ciklusidő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Felfüggesztett számla létrehozása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>engedélyezve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>nincs engedélyezve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>befejezve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>függőben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Évek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Hónapok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Hetek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Napok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>évente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>havonta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>naponta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>hetente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Sorozatok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Létrehozás minden</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Kezdő dátum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Befejező dátum</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Legtöbb előfordulások száma</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Nap a határidőig</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Becslések</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Új becslés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Eltárol és számlát létrehoz</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>A becslés sikeresen el lett tárolva.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>A számla sikeresen el lett tárolva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>A számlát nem tudtuk eltárolni egy hiba miatt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Becslés részletei</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Ügyfelek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Új ügyfél</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Ügyfél szerkesztése</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Ügyfél</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Ügyfél adatok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Ügyfél megnevezése</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>Adószám</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Ügyfél címe</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Kapcsolattartó személy</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Számlázási cím</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Szállítási cím</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>Ügyfél e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Az ügyfél nem lett eltárolva néhány hiba miatt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d ügyfél sikeresen törölve</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Termékek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Új termék</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Termék adatok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Termék hivatkozás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Termék leírása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Termék ára</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>tól</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>ig</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>utolsó hét</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>utolsó hónap</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>utolsó év</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>utolsó 5 év</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Állapot</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Nyitva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Lezárva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Vázlatok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Engedélyezett</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Nem engedélyezett</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>Felfüggesztve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Befejezve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Nincs elküldve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Elutasítva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Jóváhagyva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Sorozatok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Napok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Keresés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Alapbeállítás</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Első</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Előző</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>OLDAL</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Következő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Utolsó</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>Ugrás </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Mehet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>több</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Megjelenítve [1]-[2] a [3] találatból</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Beállítások</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Mindenre kiterjedő beállítások</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>A beállításaim</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Nyomtatási sablonok</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>A beállításaid sikeresen el lettek tárolva.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>A beállításokat nem tudtuk eltárolni. Kérlek ellenőrizd a beírt értékeket és kíséreld meg kijavítani azokat.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Kérlek ellenőrizd ezeket a hibákat és javítsd ki őket mielőtt eltárolsz:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Cég</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Név</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Valuta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Cím</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefonszám</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Web</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Üzletjel</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Számlázási adók</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Érték</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Aktív</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Alapértelmezés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Új adóérték hozzáadása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>PDF beállítások</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Oldalméret</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Oldalirány</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Jogi szövegek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Felhasználási feltételek</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Számlázási sor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Címke</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Kezdő érték</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Új sorozat érték hozzáadása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Az alapérték csak az első eltárolt sorozaton belüli számla esetén lesz használva, ha nincs számla hozzárendelve.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>a jelenlegi fájl eltávolítása</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Rólad</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Keresztnév</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Családnév</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Alkalmazás fordítása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Felület nyelve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Egyszerűsítsd</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Tételek száma a listázáskor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Kereső szűrő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Alapértelmezett dátum szűrő</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Alapértelmezett számlázási sor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Jelszóváltoztatás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Régi jelszó</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Új jelszó</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Új jelszó ismét</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Frissítve ekkor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Új sablon létrehozása</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>A kiválasztott törlése</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Alapértelmezettnek megjelöl</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>A sablon nem lett eltárolva néhány hiba miatt.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Biztos benne?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Nincs találat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>nap</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>hét</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>hónap</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>év</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Nem tudtunk csatlakozni az adatbázishoz.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Nézd meg az e-mailedet az új jelszavadért.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Probléma történt az üzenetküldő rendszerrel. Kérlek kíséreld meg később újból</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Hibás hash kód</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Példa adat hozzá lett adva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Ha megadod vagy az érvénye felhasználóneved, vagy az e-mailedet, akkor küldünk neked egy e-mailt az aktivációval kapcsolatos utasításokkal.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Ha egy másik aktiváló e-mailt szeretnék, akkor újra kell töltened ezt az oldalt.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Nincs jogosultságod hozzáférni ehhez az oldalhoz.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>lezár</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Kérlek add meg a felhasználóneved, vagy az e-mailed és küldünk neked egy e-mailt az aktiváló hivatkozással.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Felhasználónév, vagy e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Kapcsolattartó személy</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Számlázási cím</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Szállítási cím</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Egységár</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Eltárolás PDF-be</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Szerkesztés</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Az ügyfelet nem tudtuk törölni.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>A számlát sikeresen eltároltuk.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Hiba történt a %s számlával</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>ezen a héten</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>ebben a hónapban</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>ebben az évben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Elküldve</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>igen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nem</target>
+      </trans-unit>
+      <trans-unit>
+         <source>rejected</source>
+        <target>visszautasítva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>jóváhagyva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Egység</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Eladva</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% termék eladva összesen %t% értékben</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Időszak fajtája</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Azonosítás</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Referencia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Válaszd ki azt a modult, amit aktiválni szeretnél a siwapp alakalmazásban</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Ügyfél modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Becslés modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Termékek modul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Felhasználás számlákhoz</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Felhasználás becsléshez</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

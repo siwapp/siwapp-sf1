@@ -1,0 +1,7 @@
+all:
+  urls:
+    variables:
+      editRow:          estimates/edit
+      calculateInvoice: common/calculate
+      printHtml:        @estimates_print?action=print
+      printPdf:         @estimates_print?action=pdf

@@ -1,0 +1,45 @@
+Property:
+  Property_company_address:
+    keey: company_address
+    value: "Some Address"
+  Property_company_email:
+    keey: company_email
+    value: "support@invoicerltd.com"
+  Property_company_name:
+    keey: company_name
+    value: "Invoicer LTD"
+  Property_company_phone:
+    keey: company_phone
+    value: "01-2-3456789"
+  Property_company_fax:
+    keey: company_fax
+    value: "01-2-3456781"
+  Property_company_url:
+    keey: company_url
+    value: "http://www.invoicerltd.com"
+  Property_currency:
+    keey: currency
+    value: "USD"
+  Property_currency_decimals:
+    keey: currency_decimals
+    value: 2
+  Property_legal_terms:
+    keey: legal_terms
+    value: "INVOICE TERMS: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  Property_default_template:
+    keey: default_template
+    value:  1
+  Property_siwapp_modules:
+    keey: siwapp_modules
+    value: ["customers", "estimates", "products"]
+
+Series:
+  Series_1:
+    name: Internet
+    value: ASET-
+  Series_2:
+    name: Design
+    value: BSET-
+  Series_3:
+    name: Others
+    value: CSET-

@@ -1,0 +1,6 @@
+all:
+  urls:
+    include: ['payments', 'search']
+    variables:
+      editRow:      invoices/edit
+      getTotalDue:  dashboard/getTotalDue

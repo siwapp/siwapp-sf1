@@ -1,0 +1,20 @@
+all:
+  metas:
+    title:     siwapp - Invoices
+
+indexSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/table.js
+    - siwapp/invoices/payments.js
+
+editSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/json2
+    - core/form
+    - core/field
+    - core/hotkeys
+    - invoice
+    - tags
+    - jquery.textarearesizer.compressed.js

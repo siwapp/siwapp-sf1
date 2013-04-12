@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="es" datatype="plaintext" original="messages" date="2010-10-22T14:15:16Z" product-name="messages">
+    <header/>
+    <body>
+      <!-- ##### LOGIN/OUT ##### -->
+      <trans-unit>
+        <source>Username</source>
+        <target>Utilizator</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Parola</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember me</source>
+        <target>Tine-ma minte</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sign in</source>
+        <target>Conectare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Ai uitat parola?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Welcome, [1]!</source>
+        <target>Bine ai venit, [1]!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logout</source>
+        <target>Deconectare</target>
+      </trans-unit>
+      <!-- ##### DASHBOARD ##### -->
+      <trans-unit>
+        <source>Dashboard</source>
+        <target>Pagina administrare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Recent invoices</source>
+        <target>Facturi recente</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Past due invoices</source>
+        <target>Facturi cu scadenta depasita</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Number</source>
+        <target>Numar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer Name</source>
+        <target>Nume client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Date</source>
+        <target>Data</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due Date</source>
+        <target>Data scadenta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due</source>
+        <target>Scadenta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments</source>
+        <target>Plati</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add payment</source>
+        <target>Adauga plata</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cancel</source>
+        <target>Anuleaza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save</source>
+        <target>Salveaza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Receipts</source>
+        <target>Chitante</target>
+      </trans-unit>
+      <!-- ##### INVOICES ##### -->
+      <trans-unit>
+        <source>Invoices</source>
+        <target>Facturi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Invoice</source>
+        <target>Factura noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice</source>
+        <target>Factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Invoice</source>
+        <target>Modifica factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer identification</source>
+        <target>Identificare client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payment details</source>
+        <target>Detalii plata</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments were saved successfully.</source>
+        <target>Plati salvate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Payments could not be saved because of an unknown error.</source>
+        <target>Platile nu au putut fi salvate (eroare necunoscuta).</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Description</source>
+        <target>Descriere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit Cost</source>
+        <target>Cost unitar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qty</source>
+        <target>Cantitate</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Taxes</source>
+        <target>Taxe</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Base</source>
+        <target>Baza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Discount</source>
+        <target>Reducere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Price</source>
+        <target>Pret</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add Item</source>
+        <target>Adauga articol</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add</source>
+        <target>Adauga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Subtotal</source>
+        <target>Subtotal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Notes</source>
+        <target>Note</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete</source>
+        <target>Sterge</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save as draft</source>
+        <target>Salveaza ciorna</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and send by e-mail</source>
+        <target>Salveaza si trimite prin e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Print</source>
+        <target>Imprimare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF</source>
+        <target>PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Send</source>
+        <target>Trimite</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully sent.</source>
+        <target>Factura a fost trimisa cu succes.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be sent due to an error.</source>
+        <target>Factura nu a fost trimisa, a aparut o eroare.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice has not been saved due to some errors.</source>
+        <target>Factura nu a fost salvata, au aparut erori.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully deleted.</source>
+        <target>%d facturi au fost sterse.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d invoices were successfully sent.</source>
+        <target>%d facturi au fost trimise.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>view all  ([1] invoices)</source>
+        <target>Vezi toate ([1] facturi)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issued at</source>
+        <target>Emisa la</target>
+      </trans-unit>
+      <trans-unit>
+        <source>will become overdue at</source>
+        <target>va fi restanta la</target>
+      </trans-unit>
+      <trans-unit>
+        <source>opened</source>
+        <target>deschis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>closed</source>
+        <target>inchis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>overdue</source>
+        <target>restant</target>
+      </trans-unit>
+      <trans-unit>
+        <source>draft</source>
+        <target>ciorna</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent by email</source>
+        <target>Trimis prin e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Force to be closed</source>
+        <target>Inchide fortat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Issue date</source>
+        <target>Data emitere</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Due date</source>
+        <target>Data scadenta</target>
+      </trans-unit>
+      <!-- ##### RECURRING INVOICES ##### -->
+      <trans-unit>
+        <source>Recurring Invoices</source>
+        <target>Facturi periodice</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Recurring Invoice</source>
+        <target>Factura periodica noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Overdue</source>
+        <target>Termen depasit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period Type</source>
+        <target>Tip perioada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Frequency</source>
+        <target>Frecventa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This amount is not reflected in the total</source>
+        <target>Aceasta suma nu se reflecta in total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There are %d recurring invoices that were not executed.</source>
+        <target>Sunt %d facturi periodice care nu sunt executate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Recurring Invoice</source>
+        <target>Modifica factura periodica</target>
+      </trans-unit>
+      <trans-unit>
+        <source>All %d recurring invoices were processed.</source>
+        <target>Toate %d facturile periodice au fost procesate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoice Execution Time</source>
+        <target>Timp executie factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting</source>
+        <target>Incepand</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing</source>
+        <target>Terminare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Average turnover</source>
+        <target>Profit mediu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Generate pending invoices now</source>
+        <target>Genereaza facturi in asteptare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>enabled</source>
+        <target>activ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>disabled</source>
+        <target>inactiv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>finished</source>
+        <target>terminat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>pending</source>
+        <target>in asteptare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Years</source>
+        <target>Ani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Months</source>
+        <target>Luni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Weeks</source>
+        <target>Saptamani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days</source>
+        <target>Zile</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yearly</source>
+        <target>anual</target>
+      </trans-unit>
+      <trans-unit>
+        <source>monthly</source>
+        <target>lunar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>daily</source>
+        <target>zilnic</target>
+      </trans-unit>
+      <trans-unit>
+        <source>weekly</source>
+        <target>saptamanal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serii</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create every</source>
+        <target>Creaza la fiecare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Starting date</source>
+        <target>Data inceput</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finishing date</source>
+        <target>Data sfarsit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Maximum number of occurrences</source>
+        <target>Numar maxim aparitii</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Days to due</source>
+        <target>Zile pana la plata</target>
+      </trans-unit>
+      <!-- ##### ESTIMATES ##### -->
+      <trans-unit>
+        <source>Estimates</source>
+        <target>Estimari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Estimate</source>
+        <target>Estimare noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save and create invoice</source>
+        <target>Salveaza si creeaza factura</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The estimate was successfully saved.</source>
+        <target>Estimarile au fost salvate cu succes.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully created.</source>
+        <target>Factura a fost creata cu succes.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice could not be created due to an error.</source>
+        <target>Factura nu a putut fi creata (au aparut erori).</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimate details</source>
+        <target>Detalii estimare</target>
+      </trans-unit>
+      <!-- ##### CUSTOMERS ##### -->
+      <trans-unit>
+        <source>Customers</source>
+        <target>Clienti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Customer</source>
+        <target>Client nou</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit Customer</source>
+        <target>Modifica client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customer</source>
+        <target>Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client info</source>
+        <target>Info client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Name</source>
+        <target>Nume client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Legal Id</source>
+        <target>CNP client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Address</source>
+        <target>Adresa Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact Person</source>
+        <target>Persoana de Contact</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing Address</source>
+        <target>Adresa Facturare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping Address</source>
+        <target>Adresa Livrare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Client Email</source>
+        <target>E-mail Client</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer has not been saved due to some errors.</source>
+        <target>Clientul nu a fost salvat din cauza unor erori.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers were successfully deleted.</source>
+        <target>%d clienti au fost stersi cu succes.</target>
+      </trans-unit>
+      <!-- ##### PRODUCTS ##### -->
+      <trans-unit>
+        <source>Products</source>
+        <target>Produse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Product</source>
+        <target>Produs nou</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product info</source>
+        <target>Info produs</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product reference</source>
+        <target>Referinta produs</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product description</source>
+        <target>Descriere produs</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Product price</source>
+        <target>Pret produs</target>
+      </trans-unit>
+      <!-- ##### SEARCH ##### -->
+      <trans-unit>
+        <source>from</source>
+        <target>de la</target>
+      </trans-unit>
+      <trans-unit>
+        <source>to</source>
+        <target>pentru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last week</source>
+        <target>ultima saptamana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last month</source>
+        <target>ulitma luna</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last year</source>
+        <target>ultimul an</target>
+      </trans-unit>
+      <trans-unit>
+        <source>last 5 years</source>
+        <target>ultimii 5 ani</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Status</source>
+        <target>Stare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Opened</source>
+        <target>Deschis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Closed</source>
+        <target>Inchis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Drafts</source>
+        <target>Ciorne</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enabled</source>
+        <target>Activ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Disabled</source>
+        <target>Inactiv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pending</source>
+        <target>In asteptare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finished</source>
+        <target>Terminat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Not sent</source>
+        <target>Netrimis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Rejected</source>
+        <target>Respins</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Approved</source>
+        <target>Aprobat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Series</source>
+        <target>Serii</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tags</source>
+        <target>Tag-uri</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search</source>
+        <target>Cauta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset</source>
+        <target>Resetare</target>
+      </trans-unit>
+      <!-- ##### PAGER ##### -->
+      <trans-unit>
+        <source>First</source>
+        <target>Primul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Prev</source>
+        <target>Precedent</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PAGE</source>
+        <target>PAGINA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Next</source>
+        <target>Urmatorul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last</source>
+        <target>Ultimul</target>
+      </trans-unit>
+      <trans-unit>
+        <source>go to </source>
+        <target>du-te la </target>
+      </trans-unit>
+      <trans-unit>
+        <source>Go</source>
+        <target>Du-te</target>
+      </trans-unit>
+      <trans-unit>
+        <source>more</source>
+        <target>mai mult</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Showing [1]-[2] of [3] results</source>
+        <target>Afisare [1]-[2] din [3] rezultate</target>
+      </trans-unit>
+      <!-- ##### SETTINGS ##### -->
+      <trans-unit>
+        <source>Settings</source>
+        <target>Setari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Global settings</source>
+        <target>Setari globale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>My settings</source>
+        <target>Setarile mele</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Printing templates</source>
+        <target>Sabloane imprimare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Your settings were successfully saved.</source>
+        <target>Setarile dvs. au fost salvate cu succes.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Settings could not be saved. Please, check entered values and try to correct them.</source>
+        <target>Setarile nu putut fi salvate.Va rugam sa verificati valorile introduse si incercati sa le corectati.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please check these errors and correct them before saving:</source>
+        <target>Va rugam sa verificati urmatoarele erori si corectati-le inainte de a salva:</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - GLOBAL SETTINGS ##### -->
+      <trans-unit>
+        <source>Company</source>
+        <target>Companie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Name</source>
+        <target>Nume</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Currency</source>
+        <target>Moneda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Address</source>
+        <target>Adresa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Phone</source>
+        <target>Telefon</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FAX</source>
+        <target>FAX</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>E-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Web</source>
+        <target>Web</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing taxes</source>
+        <target>Taxe facturare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Value</source>
+        <target>Vaoare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Active</source>
+        <target>Activ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default</source>
+        <target>Implicit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new tax value</source>
+        <target>Adauga valoare taxa noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PDF Settings</source>
+        <target>Setari PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page size</source>
+        <target>Dimensiune pagina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Page orientation</source>
+        <target>Orientare pagina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Legal texts</source>
+        <target>Texte legale</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Terms &amp; Conditions</source>
+        <target>Termeni &amp; Conditii</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing series</source>
+        <target>Serii facturare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Label</source>
+        <target>Eticheta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Initial value</source>
+        <target>Valoare initiala</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Add a new series value</source>
+        <target>Adauga valoare serie noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The initial value will only be used for the first saved invoice of the series if there are no invoices assigned.</source>
+        <target>Valoare initiala va fi folosita pentru prima factura salvata daca nu exista alte facturi alocate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>remove the current file</source>
+        <target>Sterge fisierul curent</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - MY SETTINGS ##### -->
+      <trans-unit>
+        <source>About you</source>
+        <target>Despre tine</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Name</source>
+        <target>Prenume</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Last Name</source>
+        <target>Nume</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Translate the application</source>
+        <target>Traducere aplicatie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Interface language</source>
+        <target>Limba interfata</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Make it easy</source>
+        <target>Fa-o usor</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Results to display in listings</source>
+        <target>Rezultate pentru afisare in listari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Search filter</source>
+        <target>Filtru cautare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default date filter</source>
+        <target>Filtru data implicit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Default invoicing series</source>
+        <target>Serie facturi implicita</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change your password</source>
+        <target>Modifica parola</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Old password</source>
+        <target>Parola veche</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password</source>
+        <target>Parola noua</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New password (confirmation)</source>
+        <target>Parola noua (confirmare)</target>
+      </trans-unit>
+      <!-- ##### SETTINGS - PRINTING TEMPLATES ##### -->
+      <trans-unit>
+        <source>Updated at</source>
+        <target>Actualizat la</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Create new template</source>
+        <target>Creaza sablon nou</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Delete selected</source>
+        <target>Sterge selectate</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mark as default</source>
+        <target>Marcheaza ca implicit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The template has not been saved due to some errors.</source>
+        <target>Sablonul nu a fost salvat din cauza unor erori.</target>
+      </trans-unit>
+      <!-- ##### MISCELANEOUS ##### -->
+      <trans-unit>
+        <source>Are you sure?</source>
+        <target>Sunteti sigur?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No results</source>
+        <target>Niciun rezultat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>day</source>
+        <target>zi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>week</source>
+        <target>saptamana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>month</source>
+        <target>luni</target>
+      </trans-unit>
+      <trans-unit>
+        <source>year</source>
+        <target>an</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Can't connect to database</source>
+        <target>Conectare esuata la baza de date</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail for your new password.</source>
+        <target>Verificati e-mail-ul pentru noua parola.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There have been problems with the messaging system. Please try again later</source>
+        <target>Sunt probleme cu sistemul de mesaje. Va rugam incercati mai tarziu.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wrong hash code</source>
+        <target>Cod hash gresit</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sample data has been loaded.</source>
+        <target>Date demo incarcate.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you provided either a valid username or email, an email has been sent to you with the activation instructions.</source>
+        <target>Daca ati introdus un utilizator valid sau o adresa de e-mail valida, un e-mail cu instructiunile de activare a v-a fost trimis.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>If you want to send another activation email, you'll need to reload this page first</source>
+        <target>Daca doriti sa trimiteti inca un e-mail de activare, va trebui sa reincarcati aceasta pagina.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Nu aveti drepturile necesare pentru a accesa aceasta pagina.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>close</source>
+        <target>inchide</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Please type your username or email and we will send you an email with the activation link.</source>
+        <target>Va rugam sa introduceti utilizatorul sau adresa de e-mail si noi vom trimite un e-mail cu link-ul de activare.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or email</source>
+        <target>Utilizator sa e-mail</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Contact person</source>
+        <target>Persoana de contact</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Invoicing address</source>
+        <target>Adresa facturare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Shipping address</source>
+        <target>Adresa livrare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Unit cost</source>
+        <target>Cost unitar</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Save PDF</source>
+        <target>Salvare PDF</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Edit</source>
+        <target>Modifica</target>
+      </trans-unit>
+      <trans-unit>
+        <source>The customer could not be deleted. </source>
+        <target>Clientul nu poate fi sters. </target>
+      </trans-unit>
+      <trans-unit>
+        <source>The invoice was successfully saved.</source>
+        <target>Factura a fost salvata cu succes.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>There is a problem with invoice %s</source>
+        <target>Exista o problema cu factura %s</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this week</source>
+        <target>saptamana curenta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this month</source>
+        <target>luna curenta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>this year</source>
+        <target>anul curent</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sent</source>
+        <target>Trimis</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>da</target>
+      </trans-unit>
+      <trans-unit>
+        <source>no</source>
+        <target>nu</target>
+      </trans-unit>
+      <trans-unit>
+        <source>rejected</source>
+        <target>respins</target>
+      </trans-unit>
+      <trans-unit>
+        <source>approved</source>
+        <target>aprobat</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Units</source>
+        <target>Unitati</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sold</source>
+        <target>Vandut</target>
+      </trans-unit>
+      <trans-unit>
+        <source>%q% products sold for a total of %t%</source>
+        <target>%q% produse vandute cu un total de %t%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Modules</source>
+        <target>Module</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Period type</source>
+        <target>Tip perioada</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Identification</source>
+        <target>Identificare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reference</source>
+        <target>Referinta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select the modules you want to be activated in you siwapp application</source>
+        <target>Selectati modulele care doriti sa fie activate in aplicatia Siwapp</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Customers Module</source>
+        <target>Module clienti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Estimates Module</source>
+        <target>Module estimari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Products Module</source>
+        <target>Module produse</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Invoices</source>
+        <target>Utilizeaza pentru facturi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Use for Estimates</source>
+        <target>Utilizeaza pentru estimari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>No selection. Nothing to do.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>Net</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit>
+        <source>%d customers could not be saved because they have associated data.</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

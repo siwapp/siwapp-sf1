@@ -1,0 +1,6 @@
+all:
+  urls:
+    include: ['search']
+    variables:
+      editRow :         recurring/edit
+      calculateInvoice: common/calculate

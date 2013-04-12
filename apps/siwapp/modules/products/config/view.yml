@@ -1,0 +1,14 @@
+all:
+  metas:
+    title:     siwapp - Products
+  components:
+    searchForm: [search, productForm]
+    
+indexSuccess:
+  stylesheets: [ /sfFormExtraPlugin/css/jquery.autocompleter.css ]
+  javascripts:
+    - core/table.js
+    
+editSuccess:
+  javascripts:
+    - invoice

@@ -1,0 +1,5 @@
+all:
+  urls:
+    variables:
+      toggleTagCloud: search/toggleTagCloud
+      findCustomers:  search/ajaxCustomerAutocomplete

@@ -1,0 +1,5 @@
+all:
+  urls:
+    include: ['search']
+    variables:
+      editRow:          products/edit

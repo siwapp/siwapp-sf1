@@ -1,0 +1,37 @@
+#hd, #sfWebDebug,
+#bd-top, #bd-paginator, .btn { display:none; }
+
+a { color:#000 !important; text-decoration:none; font-weight:bold; }
+
+/**-/
+#hd, #sfWebDebug, #bd-top, #bd-paginator { display:none; }
+#bd {
+  font-size:1.5em;
+  padding-left:0;
+  padding-right:0;
+}
+
+/* INVOICES */
+.invoice .block     { margin:0; padding-bottom:0.5em; }
+.invoice #tags-data { display:none; }
+.invoice table.listing { font-size:smaller; }
+.show li ._25,
+.show li ._50,
+.show li ._75 {
+  border-bottom-width:0;
+}
+.show #terms-data .textarea {
+  border-bottom-width:0;
+  font-size:smaller;
+}
+
+/* LISTINGS */
+table.listing { font-size:small; }
+table.listing .filters,
+table.listing tbody .noRb,
+table.listing tbody .noLb,
+table.listing tfoot,
+table.listing td.check,
+table.listing th.check,
+table.listing td.action { display:none; }
+/**/

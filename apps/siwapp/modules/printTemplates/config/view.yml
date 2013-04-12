@@ -1,0 +1,4 @@
+indexSuccess:
+  javascripts:
+    - core/table.js
+    - siwapp/settings/templates.js

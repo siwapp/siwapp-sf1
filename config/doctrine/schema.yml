@@ -109,7 +109,7 @@ Item:
     discount: { type: decimal(53), scale: 2, notnull: true, default: 0 }
     common_id: integer
     product_id: integer
-    description: string(255)
+    description: string(20000)
     unitary_cost: { type: decimal(53), scale: 15, notnull: true, default: 0 }
   relations:
     Common:

@@ -67,9 +67,9 @@ abstract class BaseItem extends sfDoctrineRecord
         $this->hasColumn('product_id', 'integer', null, array(
              'type' => 'integer',
              ));
-        $this->hasColumn('description', 'string', 255, array(
+        $this->hasColumn('description', 'string', 20000, array(
              'type' => 'string',
-             'length' => 255,
+             'length' => 20000,
              ));
         $this->hasColumn('unitary_cost', 'decimal', 53, array(
              'type' => 'decimal',

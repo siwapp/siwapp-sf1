@@ -31,7 +31,7 @@ abstract class BaseItemForm extends BaseFormDoctrine
       'discount'     => new sfValidatorNumber(array('required' => false)),
       'common_id'    => new sfValidatorDoctrineChoice(array('model' => $this->getRelatedModelName('Common'), 'required' => false)),
       'product_id'   => new sfValidatorDoctrineChoice(array('model' => $this->getRelatedModelName('Product'), 'required' => false)),
-      'description'  => new sfValidatorString(array('max_length' => 255, 'required' => false)),
+      'description'  => new sfValidatorString(array('max_length' => 20000, 'required' => false)),
       'unitary_cost' => new sfValidatorNumber(array('required' => false)),
       'taxes_list'   => new sfValidatorDoctrineChoice(array('multiple' => true, 'model' => 'Tax', 'required' => false)),
     ));

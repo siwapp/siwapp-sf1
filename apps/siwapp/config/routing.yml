@@ -22,6 +22,10 @@ invoices_print:
   url:    /invoices/print/:action
   param:  { module: print, model: Invoice }
 
+invoices_export:
+  url:    /invoices/export
+  param:  { module: invoices, action: exportSearchResults, searchNamespace: invoices }
+
 estimates_print:
   url:    /estimates/print/:action
   param:  { module: print, model: Estimate }
@@ -33,7 +37,7 @@ dashboard:
 dashboard_new:
   url: /invoices/new
   param: { module: invoices, action: new, tab: invoices, searchForm: false}
-  
+
 recurring:
   url:   /recurring
   param:  { module: recurring, action: index, tab: recurring, searchForm: true, searchNamespace: recurring }
@@ -45,7 +49,7 @@ recurring_new:
 recurring_edit:
   url:   /recurring/edit/:id
   param:  { module: recurring, action: edit, tab: recurring, searchForm: false }
-  
+
 estimates:
   url:   /estimates
   param:  { module: estimates, action: index, tab: estimates, searchForm: true, searchNamespace: estimates }
@@ -81,7 +85,7 @@ products_new:
 products_edit:
   url:   /products/edit/:id
   param:  { module: products, action: edit, tab: products, searchForm: false }
-  
+
 settings:
   url:   /settings/global
   param:  { module: configuration, action: settings, searchForm: false, tab: global }

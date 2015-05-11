@@ -2,3 +2,4 @@
 <?php echo gButton_to_function(__("Print"), "", 'class=batch print action-clear rel=print:html') ?>
 <?php echo gButton_to_function(__("PDF"), "", 'class=batch pdf action-clear rel=print:pdf') ?>
 <?php echo gButton_to_function(__("Send"), "", 'class=batch send action-clear rel=batch:email') ?>
+<?php echo link_to(__("Download as CSV"), "invoices/export", 'class="btn batch action-clear"') ?>

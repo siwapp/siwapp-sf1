@@ -15,15 +15,15 @@ class invoicesActions extends sfActions
     $this->currency = $this->getUser()->getAttribute('currency');
     $this->culture  = $this->getUser()->getCulture();
   }
-  
+
   private function getInvoice(sfWebRequest $request)
   {
     $this->forward404Unless($invoice = Doctrine::getTable('Invoice')->find($request->getParameter('id')),
       sprintf('Object invoice does not exist with id %s', $request->getParameter('id')));
-      
+
     return $invoice;
   }
-  
+
   public function executeIndex(sfWebRequest $request)
   {
     $namespace  = $request->getParameter('searchNamespace');
@@ -31,24 +31,24 @@ class invoicesActions extends sfActions
     $sort       = $this->getUser()->getAttribute('sort', array('issue_date', 'desc'), $namespace);
     $page       = $this->getUser()->getAttribute('page', 1, $namespace);
     $maxResults = $this->getUser()->getPaginationMaxResults();
-    
+
     $q = InvoiceQuery::create()->search($search)->orderBy("$sort[0] $sort[1], number $sort[1]");
     // totals
     $this->gross = $q->total('gross_amount');
     $this->due   = $q->total('due_amount');
-    
+
     $this->pager = new sfDoctrinePager('Invoice', $maxResults);
     $this->pager->setQuery($q);
     $this->pager->setPage($page);
     $this->pager->init();
-    
+
     // this is for the redirect of the payments forms
     $this->getUser()->setAttribute('module', $request->getParameter('module'));
     $this->getUser()->setAttribute('page', $request->getParameter('page'));
-    
+
     $this->sort = $sort;
   }
-  
+
   public function executeShow(sfWebRequest $request)
   {
     $this->invoice = $this->getInvoice($request);
@@ -58,7 +58,7 @@ class invoicesActions extends sfActions
   {
     $i18n = $this->getContext()->getI18N();
     $invoice = new Invoice();
-    
+
     $invoice->fromArray(array(
                           'customer_name'=>$i18n->__('Client Name'),
                           'customer_identification'=>$i18n->__('Client Legal Id'),
@@ -99,7 +99,7 @@ class invoicesActions extends sfActions
     // set draft=0 by default always
     $invoice->setDraft(false);
     $this->invoiceForm = new InvoiceForm($invoice, array('culture'=>$this->culture));
-    
+
     $i18n = $this->getContext()->getI18N();
     $this->title = $i18n->__('Edit Invoice').' '.$invoice;
     $this->action = 'update';
@@ -113,11 +113,11 @@ class invoicesActions extends sfActions
     $invoice = $this->getInvoice($request);
     $this->invoiceForm = new InvoiceForm($invoice, array('culture'=>$this->culture));
     $this->processForm($request, $this->invoiceForm);
-    
+
     $i18n = $this->getContext()->getI18N();
     $this->title = $i18n->__('Edit Invoice');
     $this->action = 'update';
-    
+
     $this->setTemplate('edit');
   }
 
@@ -128,7 +128,7 @@ class invoicesActions extends sfActions
 
     $this->redirect('invoices/index');
   }
-  
+
   public function executeSend(sfWebRequest $request)
   {
     $invoice = $this->getInvoice($request);
@@ -144,7 +144,7 @@ class invoicesActions extends sfActions
     $dest = $request->getReferer() ? $request->getReferer() : 'invoices/edit?id='.$invoice->id;
     $this->redirect($dest);
   }
-  
+
   protected function sendEmail(Invoice $invoice)
   {
     $i18n = $this->getContext()->getI18N();
@@ -164,10 +164,10 @@ class invoicesActions extends sfActions
       $message = sprintf($i18n->__('There is a problem with invoice %s'), $invoice).': '.$e->getMessage();
       $this->getUser()->error($message);
     }
-    
+
     return $result;
   }
-  
+
   protected function processForm(sfWebRequest $request, sfForm $form)
   {
     $i18n = $this->getContext()->getI18N();
@@ -180,7 +180,7 @@ class invoicesActions extends sfActions
       $invoice->save();
       // update totals with saved values
       $invoice->refresh(true)->setAmounts()->save();
-      
+
       if ($request->getParameter('send_email'))
       {
         if ($this->sendEmail($invoice))
@@ -205,7 +205,7 @@ class invoicesActions extends sfActions
       $this->getUser()->error($i18n->__('The invoice has not been saved due to some errors.'));
     }
   }
-  
+
   /**
    * batch actions
    *
@@ -216,7 +216,7 @@ class invoicesActions extends sfActions
     $i18n = $this->getContext()->getI18N();
     $form = new sfForm();
     $form->bind(array('_csrf_token' => $request->getParameter('_csrf_token')));
-    
+
     if($form->isValid() || $this->getContext()->getConfiguration()->getEnvironment() == 'test')
     {
       $n = 0;
@@ -248,5 +248,66 @@ class invoicesActions extends sfActions
 
     $this->redirect('@invoices');
   }
-  
+
+  /**
+   * Export search results as CSV
+   *
+   * - Date
+   * - Invoice Number
+   * - Customer
+   * - VAT ID
+   * - Net Amount (before VAT)
+   * - VAT %
+   * - VAT Amount
+   * - Gross Amount (after VAT)
+   * - Customer Address
+   */
+  public function executeExportSearchResults(sfWebRequest $request)
+  {
+    $this->getContext()->getConfiguration()->loadHelpers('Date');
+    $this->getContext()->getConfiguration()->loadHelpers('Number');
+
+    $currency = $this->getUser()->getAttribute('currency');
+
+    $namespace  = $request->getParameter('searchNamespace');
+    $search     = $this->getUser()->getAttribute('search', null, $namespace);
+    $sort       = $this->getUser()->getAttribute('sort', array('issue_date', 'desc'), $namespace);
+
+    $q = InvoiceQuery::create()->search($search)->orderBy("$sort[0] $sort[1], number $sort[1]");
+
+    $this->getResponse()->clearHttpHeaders();
+    $this->getResponse()->setHttpHeader('Content-Description', 'File Transfer');
+    $this->getResponse()->setHttpHeader('Content-Type', 'text/csv');
+    $this->getResponse()->setHttpHeader('Content-Disposition',
+                                        'attachment;filename='.date('YmdHis').'_invoices.csv');
+    $this->getResponse()->setHttpHeader('Pragma','public');
+    $this->getResponse()->setHttpHeader('Expires','0');
+    $this->getResponse()->setHttpHeader('Cache-Control','must-revalidate, post-check=0, pre-check=0');
+    $this->getResponse()->sendHttpHeaders();
+
+    $fh = fopen('php://output', 'w');
+
+    // Output the header
+    fputcsv($fh, array('date', 'invoice number', 'customer name', 'vat id',
+                       'net amount', 'vat', 'vat amount', 'gross amount',
+                       'customer address'));
+
+    foreach ($q->execute() as $invoice)
+    {
+      fputcsv($fh, array(
+        /* date             */ format_date($invoice->getIssueDate()),
+        /* invoice number   */ $invoice->__toString(),
+        /* customer name    */ $invoice->getCustomerName(),
+        /* vat id           */ $invoice->getCustomerIdentification(),
+        /* net amount       */ format_currency($invoice->getNetAmount(), $currency),
+        /* vat %            */ implode(', ', $invoice->getAppliedTaxes()),
+        /* vat amount       */ format_currency($invoice->getTaxAmount(), $currency),
+        /* gross amount     */ format_currency($invoice->getGrossAmount(), $currency),
+        /* customer address */ str_replace(array("\n", "\r"), " - ", $invoice->getInvoicingAddress()),
+      ));
+    }
+
+    fclose($fh);
+    return sfView::NONE;
+  }
 }

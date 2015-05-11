@@ -25,7 +25,7 @@ class Common extends BaseCommon
   public function calculate($field,$rounded = false)
   {
     $val = 0;
-    
+
     switch($field)
     {
       case 'paid_amount':
@@ -43,7 +43,7 @@ class Common extends BaseCommon
         }
         break;
     }
-    
+
     if($rounded)
     {
       return round($val,$this->getDecimals());
@@ -51,24 +51,24 @@ class Common extends BaseCommon
 
     return $val;
   }
-  
+
   public function preSave($event)
   {
     $this->checkStatus();
     // check for customer matching
     Doctrine::getTable('Customer')->updateCustomer($this);
   }
-  
+
   public function postDelete($event)
   {
       //    $this->Items->delete();
-    
-    
-/*  and it´s over. clients shouldn´t be deleted after their last invoice. 
+
+
+/*  and it´s over. clients shouldn´t be deleted after their last invoice.
 /*  see http://dev.markhaus.com/projects/siwapp/ticket/503
 */
   }
-  
+
   public function setAmounts()
   {
     $this->setBaseAmount($this->calculate('base_amount'));
@@ -76,11 +76,35 @@ class Common extends BaseCommon
     $this->setNetAmount($this->getBaseAmount() - $this->getDiscountAmount());
     $this->setTaxAmount($this->calculate('tax_amount'));
     $rounded_gross = round(
-                           $this->getNetAmount() + $this->getTaxAmount(), 
+                           $this->getNetAmount() + $this->getTaxAmount(),
                            PropertyTable::get('currency_decimals', 2)
                            );
     $this->setGrossAmount($rounded_gross);
-    
+
     return $this;
+  }
+
+  public function getAppliedTaxes()
+  {
+    if ( !$this->getId() )
+    {
+      return array();
+    }
+
+    $data = Doctrine_Query::create()
+      ->select('t.name')
+      ->distinct()
+      ->from('Tax t')
+      ->innerJoin('t.Items i')
+      ->where('i.common_id = ' . $this->getId())
+      ->fetchArray();
+
+    $result = array();
+    foreach ($data as $row)
+    {
+      $result[] = $row['name'];
+    }
+
+    return $result;
   }
 }

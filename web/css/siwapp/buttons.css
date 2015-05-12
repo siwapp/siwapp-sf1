@@ -19,9 +19,9 @@
 
 * html button.btn { padding-bottom:1px; }
 
-/* Immediately below is a temporary hack to serve the 
+/* Immediately below is a temporary hack to serve the
    following margin values only to Gecko browsers
-   Gecko browsers add an extra 3px of left/right 
+   Gecko browsers add an extra 3px of left/right
    padding to button elements which can't be overriden.
    Thus, we use -3px of left/right margin to overcome this. */
 html:not([lang*=""]) button.btn { margin:0 -3px; }
@@ -69,7 +69,7 @@ button.pill-r span { border-left-color:#fff; }
 
 .btn-selected, .btn-selected span, .btn-selected span span,
 .btn:hover, .btn:hover span, .btn:hover span span,
-.btn.hover, .btn.hover span, .btn.hover span span, .btn:focus span, 
+.btn.hover, .btn.hover span, .btn.hover span span, .btn:focus span,
 .btn:focus span span              { cursor:pointer !important; text-decoration:none; }
 .btn-selected, .btn-selected span { border-style:dotted !important; }
 .btn:active span                  { background-position:0 -390px; outline:none; }
@@ -127,3 +127,5 @@ button.pill-r span { border-left-color:#fff; }
 
 .btn.generate-pending span span { background-image:url(../../images/icons/database_start.png); }
 .btn.default span span { background-image:url(../../images/icons/asterisk_yellow.png); }
+
+.btn.csv span span { background-image:url(../../images/icons/page_save.png); }

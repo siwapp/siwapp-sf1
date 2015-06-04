@@ -267,7 +267,7 @@ class invoicesActions extends sfActions
     $this->getContext()->getConfiguration()->loadHelpers('Date');
     $this->getContext()->getConfiguration()->loadHelpers('Number');
 
-    $currency = $this->getUser()->getAttribute('currency');
+    $decimals = Tools::getDecimals();
 
     $namespace  = $request->getParameter('searchNamespace');
     $search     = $this->getUser()->getAttribute('search', null, $namespace);
@@ -299,10 +299,10 @@ class invoicesActions extends sfActions
         /* invoice number   */ $invoice->__toString(),
         /* customer name    */ $invoice->getCustomerName(),
         /* vat id           */ $invoice->getCustomerIdentification(),
-        /* net amount       */ format_currency($invoice->getNetAmount(), $currency),
+        /* net amount       */ format_number(Tools::getRounded($invoice->getNetAmount(), $decimals), $this->getUser()->getCulture()),
         /* vat %            */ implode(', ', $invoice->getAppliedTaxes()),
-        /* vat amount       */ format_currency($invoice->getTaxAmount(), $currency),
-        /* gross amount     */ format_currency($invoice->getGrossAmount(), $currency),
+        /* vat amount       */ format_number(Tools::getRounded($invoice->getTaxAmount(), $decimals), $this->getUser()->getCulture()),
+        /* gross amount     */ format_number(Tools::getRounded($invoice->getGrossAmount(), $decimals), $this->getUser()->getCulture()),
         /* customer address */ str_replace(array("\n", "\r"), " - ", $invoice->getInvoicingAddress()),
       ));
     }

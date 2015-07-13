@@ -290,7 +290,7 @@ class invoicesActions extends sfActions
     // Output the header
     fputcsv($fh, array('date', 'invoice number', 'customer name', 'vat id',
                        'net amount', 'vat', 'vat amount', 'gross amount',
-                       'customer address'));
+                       'customer address', 'notes'));
 
     foreach ($q->execute() as $invoice)
     {
@@ -304,6 +304,7 @@ class invoicesActions extends sfActions
         /* vat amount       */ format_number(Tools::getRounded($invoice->getTaxAmount(), $decimals), $this->getUser()->getCulture()),
         /* gross amount     */ format_number(Tools::getRounded($invoice->getGrossAmount(), $decimals), $this->getUser()->getCulture()),
         /* customer address */ str_replace(array("\n", "\r"), " - ", $invoice->getInvoicingAddress()),
+        /* notes */            str_replace(array("\n", "\r"), " ", $invoice->getNotes()),
       ));
     }
 
